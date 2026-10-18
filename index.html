@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta property="og:title" content="Shizen · First drop waitlist">
+<meta property="og:description" content="Pick your favourite Japanese-art rash guard. 15% off your first order at launch.">
+<meta property="og:image" content="https://nh1221.github.io/shizen/img/ryu.jpg">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<title>Shizen First Drop</title>
+<meta name="description" content="Join the Shizen waitlist. Pick your favourite Japanese-art BJJ rash guard and get 15% off your first order at launch.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Jost:wght@300;400;500&family=Noto+Serif+JP:wght@400;500&display=swap">
+<style>
+/* Layout: one quiet column like a gallery wall card; the art grid is the only loud thing. */
+:root{
+  --ink:#0f1216;          /* sumi ground */
+  --ink-2:#161a20;        /* raised panel */
+  --paper:#ece5d8;        /* bone text */
+  --muted:#9a958c;        /* captions */
+  --line:#2a2f37;         /* hairlines */
+  --gold:#b89a68;         /* single accent, used sparingly */
+  --display:"Cormorant Garamond","Cormorant",Georgia,"Times New Roman",serif;
+  --body:"Jost","Helvetica Neue",Arial,sans-serif;
+  --jp:"Noto Serif JP","Hiragino Mincho ProN","Yu Mincho",serif;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+body{background:var(--ink);color:var(--paper);font-family:var(--body);font-weight:300;font-size:16px;line-height:1.6;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1120px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0}
+header{display:flex;justify-content:space-between;align-items:center;padding-block:28px;border-bottom:1px solid var(--line)}
+.mark{display:flex;align-items:center;font-family:var(--display);font-weight:500;font-size:22px;letter-spacing:.42em;padding-left:.42em}
+.mark .logo{margin-right:16px;flex:none}
+.mark span{font-family:var(--jp);font-size:14px;letter-spacing:.2em;color:var(--muted);margin-left:14px}
+.tag{font-size:11px;letter-spacing:.24em;text-transform:uppercase;color:var(--muted)}
+.hero{display:grid;grid-template-columns:1.1fr .9fr;gap:48px;align-items:end;padding-block:72px 48px}
+.hero h1{font-family:var(--display);font-weight:400;font-size:clamp(44px,7vw,84px);line-height:1;margin:0;text-wrap:balance;letter-spacing:-.01em}
+.hero h1 em{font-style:italic;color:var(--gold)}
+.hero p{margin:0;max-width:44ch;color:var(--paper);opacity:.86;font-size:17px}
+.offer{display:flex;gap:18px;align-items:baseline;margin-top:22px;padding-top:18px;border-top:1px solid var(--line)}
+.offer b{font-family:var(--display);font-weight:500;font-size:44px;color:var(--gold);line-height:1}
+.offer small{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted)}
+.step{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 14px;margin:56px 0 20px}
+.step i{font-style:normal;font-family:var(--display);font-size:15px;color:var(--gold);letter-spacing:.1em}
+.step h2{font-family:var(--display);font-weight:500;font-size:30px;margin:0}
+.step span{color:var(--muted);font-size:14px}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+.card{position:relative;display:block;cursor:pointer;background:var(--ink-2);border:1px solid var(--line);transition:border-color .25s,transform .25s}
+.card input{position:absolute;opacity:0;pointer-events:none}
+.card img{display:block;width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;transition:transform .5s ease}
+.card .meta{display:flex;justify-content:space-between;align-items:baseline;gap:8px;padding:12px 12px 14px}
+.card .nm{font-family:var(--display);font-size:20px;font-weight:500;line-height:1.1}
+.card .no{font-family:var(--body);font-size:11px;color:var(--gold);letter-spacing:.1em;margin-right:8px;vertical-align:3px}
+.card .jp{font-family:var(--jp);font-size:13px;color:var(--muted)}
+.card .ds{display:block;padding:0 12px 14px;margin-top:-8px;font-size:12px;color:var(--muted);letter-spacing:.02em}
+.card:hover{border-color:#4a4f57}
+.card:hover img{transform:scale(1.02)}
+.card .clip{overflow:hidden}
+.card:has(input:checked){border-color:var(--gold)}
+.card:has(input:checked)::after{content:"Your pick";position:absolute;top:10px;left:10px;background:var(--gold);color:var(--ink);font-size:10px;letter-spacing:.2em;text-transform:uppercase;padding:5px 8px;font-weight:500}
+.card:has(input:focus-visible){outline:2px solid var(--gold);outline-offset:3px}
+.sleeves{display:flex;flex-wrap:wrap;gap:10px}
+.pill{position:relative}
+.pill input{position:absolute;opacity:0}
+.pill span{display:inline-block;padding:10px 20px;border:1px solid var(--line);font-size:13px;letter-spacing:.14em;text-transform:uppercase;cursor:pointer}
+.pill input:checked+span{border-color:var(--gold);color:var(--gold)}
+.pill input:focus-visible+span{outline:2px solid var(--gold);outline-offset:2px}
+.join{display:grid;grid-template-columns:1fr auto;gap:12px;max-width:640px}
+.join input[type=email]{background:transparent;border:0;border-bottom:1px solid var(--muted);color:var(--paper);font:inherit;font-size:18px;padding:12px 2px;border-radius:0}
+.join input[type=email]:focus{outline:none;border-color:var(--gold)}
+button{background:var(--paper);color:var(--ink);border:0;font:inherit;font-weight:500;font-size:13px;letter-spacing:.2em;text-transform:uppercase;padding:14px 26px;cursor:pointer;transition:background .2s}
+button:hover{background:var(--gold)}
+button:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
+button[disabled]{opacity:.5;cursor:wait}
+.consent{display:flex;gap:12px;align-items:flex-start;max-width:640px;margin-top:18px;font-size:13px;color:var(--muted)}
+.consent input{margin-top:3px;accent-color:var(--gold)}
+.err{color:#d9a38f;font-size:14px;min-height:1.4em;margin-top:10px}
+.hp{position:absolute;left:-9999px}
+.done{max-width:640px;padding:36px 0}
+.done h2{font-family:var(--display);font-weight:400;font-size:44px;margin:0 0 8px}
+.done p{color:var(--paper);opacity:.86;margin:0 0 6px}
+.facts{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;margin-top:80px;padding-block:28px;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.facts div{font-size:13px;color:var(--muted)}
+.facts b{display:block;font-family:var(--display);font-weight:500;font-size:20px;color:var(--paper);margin-bottom:4px}
+footer{padding-block:24px 40px;font-size:10px;line-height:1.5;color:#6f6b64;max-width:80ch}
+.preview{margin-top:14px;font-size:12px;color:var(--muted);border:1px dashed var(--line);padding:8px 12px;display:inline-block}
+@media (max-width:760px){
+  .hero{grid-template-columns:1fr;gap:24px;padding-block:44px 24px}
+  .grid{grid-template-columns:repeat(2,1fr);gap:10px}
+  .join{grid-template-columns:1fr}
+  .facts{grid-template-columns:1fr;gap:16px;margin-top:56px}
+  .mark .logo{margin-right:16px;flex:none}
+.mark span{display:none}
+  .step span{flex-basis:100%}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+<style>[hidden]{display:none!important}body{margin:0}img{max-width:100%}</style>
+</head>
+<body>
+
+
+<div class="wrap">
+  <header>
+    <div class="mark"><svg xmlns="http://www.w3.org/2000/svg" viewBox="-360 -360 720 720" width="30" height="30" aria-hidden="true" class="logo"><g transform="rotate(-30)">
+<path d="M0,-300 A300,300 0 0 1 0,300 A150.0,150.0 0 0 1 0,0 A150.0,150.0 0 0 0 0,-300 Z" fill="#c2a46e"/>
+<circle r="330" fill="none" stroke="#c2a46e" stroke-width="14"/>
+<circle cy="-150.0" r="40" fill="#c2a46e"/><circle cy="150.0" r="40" fill="#0f1216"/></g></svg>SHIZEN<span>自然</span></div>
+  </header>
+
+  <section class="hero">
+    <h1>Japanese art, <em>cut for the mat.</em></h1>
+    <div>
+      <p>Eight designs. Vote for the one we drop first.</p>
+      <div class="offer"><b>15% off</b><small>your first order</small></div>
+    </div>
+  </section>
+
+  <form id="wl" novalidate>
+    <div class="step"><i>I</i><h2>Choose your favourite</h2></div>
+    <div class="grid" id="grid" role="radiogroup" aria-label="Favourite design"></div>
+
+    <div class="step"><i>II</i><h2>Long or short sleeve</h2></div>
+    <div class="sleeves" role="radiogroup" aria-label="Sleeve preference">
+      <label class="pill"><input type="radio" name="sleeve" id="sl-long" value="long" checked><span>Long</span></label>
+      <label class="pill"><input type="radio" name="sleeve" id="sl-short" value="short"><span>Short</span></label>
+      <label class="pill"><input type="radio" name="sleeve" id="sl-both" value="both"><span>Both</span></label>
+    </div>
+
+    <div class="step"><i>III</i><h2>Your email</h2></div>
+    <div class="join">
+      <input type="email" id="email" name="email" placeholder="you@example.com" autocomplete="email" required aria-label="Email address">
+      <button type="submit" id="go">Secure my 15%</button>
+    </div>
+    <input class="hp" type="text" id="company" name="company" tabindex="-1" autocomplete="off" aria-hidden="true">
+    <label class="consent"><input type="checkbox" id="consent" required><span>Email me my 15% code at launch. Unsubscribe anytime.</span></label>
+    <div class="err" id="err" role="alert"></div>
+    <div class="preview" id="pv" hidden>Preview build: sign-ups are not saved until the waitlist is connected.</div>
+  </form>
+
+  <section class="done" id="done" hidden>
+    <h2>You are on the list.</h2>
+    <p id="donepick"></p>
+    <p>Your 15% code arrives on launch day.</p>
+  </section>
+
+  <section class="facts">
+    <div><b>Printed into the fibre</b>Never cracks or peels.</div>
+    <div><b>Four-way stretch</b>Flatlock seams.</div>
+    <div><b>Free UK delivery</b>Waitlist gets first access.</div>
+  </section>
+
+  <footer>
+    We only use your email for your launch code and Shizen news, and never share it. One 15% code per email, first order only.
+  </footer>
+</div>
+
+<script>
+// Backend: fill in to go live (Supabase table "waitlist" with an insert-only policy for anon).
+const WAITLISTER = "https://waitlister.me/s/EVQX-zAaYfGn";
+const CONFIG = { endpoint: "https://kxenkdyvwgyvmcwiheeq.supabase.co", anonKey: "sb_publishable_5B5KdNrWVTePKS_C7ngt1Q_52tQRDVk" };
+
+const DESIGNS = [
+  ["ryu","Ryū","龍","Dragon · gold on midnight"],
+  ["hebi","Hebi","蛇","Serpent · bone on jet black"],
+  ["hebi-mark","Hebi Mark","蛇","Chest serpent · bone on jet black"],
+  ["koi","Twin Koi","鯉","Twin koi · jade on charcoal"],
+  ["tora-pair","Twin Tigers","虎","Twin tigers · ink on bone"],
+  ["tora","Tora","虎","Tiger · ink on bone"],
+  ["tsuru","Tsuru","鶴","Crane and sun · ink on bone"],
+  ["nami","Nami","波","Wave column · bone on indigo"]
+];
+const grid = document.getElementById("grid");
+grid.innerHTML = DESIGNS.map(([id,nm,jp,ds],i)=>`
+  <label class="card"><input type="radio" name="design" id="d-${id}" value="${id}">
+    <div class="clip"><img src="img/${id}.jpg" alt="${nm} rash guard" loading="lazy" width="600" height="750"></div>
+    <span class="meta"><span class="nm"><span class="no">${i+1}</span>${nm}</span><span class="jp">${jp}</span></span>
+  </label>`).join("");
+
+const live = !!(CONFIG.endpoint && CONFIG.anonKey);
+document.getElementById("pv").hidden = live;
+const form = document.getElementById("wl"), err = document.getElementById("err"), go = document.getElementById("go");
+const src = (()=>{ try { return new URLSearchParams(location.search).get("utm_source") || document.referrer || "direct"; } catch(e){ return "direct"; } })();
+
+form.addEventListener("submit", async (e)=>{
+  e.preventDefault(); err.textContent = "";
+  const email = document.getElementById("email").value.trim();
+  const design = (form.querySelector("input[name=design]:checked")||{}).value;
+  const sleeve = (form.querySelector("input[name=sleeve]:checked")||{}).value;
+  if (document.getElementById("company").value) return;
+  if (!design) { err.textContent = "Pick your favourite design first."; return; }
+  if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) { err.textContent = "Enter a full email address, like name@gmail.com."; return; }
+  if (!document.getElementById("consent").checked) { err.textContent = "Tick the box so we are allowed to email you the code."; return; }
+  go.disabled = true; go.textContent = "Saving…";
+  try {
+    const d0 = DESIGNS.find(x=>x[0]===design);
+    const meta = { favourite_design: d0 ? d0[1] : design, favourite_number: String(DESIGNS.indexOf(d0)+1), sleeve, source: String(src).slice(0,200) };
+    // 1) Waitlister (main list). JSON first; if the browser blocks reading the reply, fall back to a plain form post.
+    let wlOk = false;
+    try {
+      const r = await fetch(WAITLISTER, { method:"POST", headers:{ "Content-Type":"application/json", "Accept":"application/json" }, body: JSON.stringify(Object.assign({ email }, meta)) });
+      wlOk = r.ok;
+    } catch (e) {
+      try { const fd = new URLSearchParams(Object.assign({ email }, meta)); await fetch(WAITLISTER, { method:"POST", mode:"no-cors", body: fd }); wlOk = true; } catch (e2) {}
+    }
+    // 2) Backup copy (no sign-up cap).
+    let sbOk = false;
+    if (live) {
+      try {
+        const r = await fetch(CONFIG.endpoint + "/rest/v1/waitlist", { method:"POST",
+          headers:{ "apikey":CONFIG.anonKey, "Content-Type":"application/json", "Prefer":"return=minimal" },
+          body: JSON.stringify({ email, design, sleeve, consent:true, source:String(src).slice(0,200) }) });
+        sbOk = r.ok || r.status === 409;
+      } catch (e) {}
+    }
+    if (!wlOk && !sbOk) throw new Error("both failed");
+    const d = DESIGNS.find(x=>x[0]===design);
+    document.getElementById("donepick").textContent = `Your pick: ${d[1]} (${d[3].split(" · ")[0].toLowerCase()}), ${sleeve==="both"?"long and short sleeve":sleeve+" sleeve"}.`;
+    form.hidden = true; document.getElementById("done").hidden = false;
+  } catch (x) {
+    err.textContent = "That did not go through. Check your connection and press the button again.";
+  } finally { go.disabled = false; go.textContent = "Secure my 15%"; }
+});
+</script>
+
+</body>
+</html>
