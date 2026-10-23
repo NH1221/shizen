@@ -19,3 +19,19 @@ Goal: 5+ people comment "<number> waitlist" or sign up at waitlister.me/p/shizen
 
 ## Fixes needed from data collection
 - Instinct: switch Instagram to a Creator/Professional account so Insights (views, avg watch, skip rate) are readable, and record plays from the TikTok profile grid.
+
+## Week 0 update (TikTok data, read 24 Oct 2026)
+| Video | Views | Avg watch | Completion | Likes | Follows | Waitlist |
+|---|---|---|---|---|---|---|
+| TT Reel 2 "1,000+ of you pick my first drop" (strobe hook) | 578 | 2.0 s | 2.2% | 4 | 2 | 0 |
+| TT Reel 1 "Stop buying boring rash guards" | 0 (Studio glitch, 25 s play) | 6.4 s | 0 | 0 | 0 | 0 |
+
+- Distribution is NOT the problem: 578 views, 97% from For You. The first second is. Most viewers left at the 1 s mark.
+- Why (performance-analyzer + hook-writer): the 0.22 s strobe of 8 close-ups plus a dark brand banner reads as an ad in frame 1 and gives no reason to stay. No question for the viewer to answer, no payoff promised.
+- New rules: frame 1 = one striking worn design, full bleed, with a question aimed at the viewer (under 6 words). Promise a payoff ("your rash guard in 8 seconds") so they wait for it. No strobes, no dark title cards before the product.
+
+## Video posted 24 Oct 09:00 UK: "What's your BJJ game?" (identity quiz)
+- Hook pattern: question + curiosity gap (TikTok best patterns). Viewer self-identifies, which drives watch time (wait for your style) and comments (your number).
+- Each design = a rolling style: 1 Ryu Pressure passer, 2 Hebi Guard player, 3 Hebi Mark Fundamentals, 4 Twin Koi Never taps, 5 Twin Tigers Wrestler, 6 Tora Scrambler, 7 Tsuru Leg locker, 8 Nami Flow roller.
+- 12 s, ~1.1 s per card with progress dots, then numbered grid + CTA. Voice: ElevenLabs Chris (Asher needs a paid plan). No on-screen AI line (Nic's call).
+- Watch next week: avg watch above 5 s and completion above 15% means the hook fixed retention; comments with numbers means identity works.
