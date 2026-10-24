@@ -2,26 +2,20 @@
  "week": "2026-10-24",
  "videos": [
   {
-   "id": "2026-10-24-A-tiktok",
+   "id": "rashguard-says-tiktok",
    "platform": "tiktok",
-   "status": "cancelled",
-   "post_at": "2026-10-24 09:00 UK",
-   "url": "https://nh1221.github.io/shizen/queue/2026-10-24/A-tiktok.mp4",
-   "hook_text": "What's your BJJ game?",
-   "caption": "Which one is your game? 🥋 Comment your number + waitlist and get 15% off the first drop. #bjj #jiujitsu #rashguard #grappling #bjjlifestyle",
-   "pinned_comment": "Comment your number + waitlist 👇 The most-picked design gets made first. Everyone on the list gets 15% off."
+   "status": "awaiting_nic_qa",
+   "url": "https://nh1221.github.io/shizen/queue/2026-10-24-rashguard-says/tiktok.mp4",
+   "caption": "which one rolls at your gym 😭 tag them #bjj #jiujitsu #bjjlife #grappling #rashguard",
+   "pinned_comment": "the ink-art one is ours 🐉 comment 'waitlist' for 15% off our first drop"
   },
   {
-   "id": "2026-10-24-A-instagram",
+   "id": "rashguard-says-instagram",
    "platform": "instagram",
-   "status": "cancelled",
-   "post_at": "2026-10-24 09:00 UK",
-   "url": "https://nh1221.github.io/shizen/queue/2026-10-24/A-instagram.mp4",
-   "hook_text": "What's your BJJ game?",
-   "caption": "Which one is your game? 🥋 Vote for our first drop: join the waitlist (link in bio) for 15% off. #bjj #jiujitsu #rashguard #grappling #bjjlifestyle",
-   "pinned_comment": "Comment your number to vote 👇 Waitlist link in bio for 15% off."
+   "status": "awaiting_nic_qa",
+   "url": "https://nh1221.github.io/shizen/queue/2026-10-24-rashguard-says/instagram.mp4",
+   "caption": "which one rolls at your gym? 😭 send this to your training partner #bjj #jiujitsu #bjjlife #grappling #rashguard",
+   "pinned_comment": "the ink-art one is ours 🐉 waitlist link in bio for 15% off"
   }
- ],
- "instinct_notes": "Post each once. Reply to every comment within the day. DM anyone who comments a number + waitlist: thanks, and their 15% code arrives at launch.",
- "note": "Cancelled by Nic 24 Oct. Do not post. New brief is in the Instinct prompt (Flow video)."
+ ]
 }
