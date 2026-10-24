@@ -4,8 +4,9 @@ W,H,FPS=1080,1920,30
 IX='/usr/share/fonts/opentype/inter/Inter-ExtraBold.otf'; CM='/home/claude/fonts/Cormorant-600.ttf'
 plat=sys.argv[1]; V='/home/claude/vid/vo/'
 words=json.load(open(V+f'full_{plat}.words.json')); WT=[w[1] for w in words]
-END=words[-1][2]+0.7
-GOLD={'says','asian','dragon','nothing','prove','waitlist','15%'}
+ENDCARD=words[-1][2]+0.45
+END=ENDCARD+1.1
+GOLD={'says','you?','asian','dragon','nothing','prove','waitlist','15%'}
 DISP={'fifteen':'15%','percent':None}
 clips={}
 def load(name):
@@ -23,8 +24,8 @@ S=[(0,'s2',1.7,1.30,0.08,0.45),(2,'s1',2.7,1.25,0.08,0.4),(4,'s4',2.0,1.15,0.05,
    (7,'s1',0.2,1.05,0.06,0.45),(9,'s1',2.4,1.25,0.06,0.4),
    (13,'s2',0.3,1.05,0.06,0.45),(15,'s2',1.6,1.30,0.08,0.45),(17,'s2',3.6,1.1,0.06,0.4),
    (20,'s3',0.4,1.0,0.05,0.5),(22,'s4',0.3,1.05,0.10,0.4),
-   (27,'TRI',0,1,0,0.5),(33,'END',0,1,0,0.5)]
-starts=[WT[i]-0.05 if i else 0.0 for i,*_ in S]
+   (27,'TRI',0,1,0,0.5),(-1,'END',0,1,0,0.5)]
+starts=[(ENDCARD if i==-1 else WT[i]-0.05 if i else 0.0) for i,*_ in S]
 def tri(t):
     im=Image.new('RGB',(W,H)); sw=W//3
     for k,(n,src) in enumerate([('s1',2.6),('s2',3.8),('s3',1.0)]):
@@ -43,6 +44,7 @@ def word_at(t):
     for i,(w,b,e) in enumerate(words):
         if t>=b-0.03: cur=i
     if cur is None: return None,0
+    if t>ENDCARD: return None,0
     j=cur
     while j>0 and DISP.get(words[j][0].lower().strip('.,?'),'x') is None: j-=1
     w=words[j][0]; w=DISP.get(w.lower().strip('.,?'),w) or w
