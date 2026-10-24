@@ -49,19 +49,20 @@ def word_at(t):
     while j>0 and DISP.get(words[j][0].lower().strip('.,?'),'x') is None: j-=1
     w=words[j][0]; w=DISP.get(w.lower().strip('.,?'),w) or w
     return w, t-words[j][1]
-def draw_word(im,w,age):
+def draw_word(im,w,age,ty=None):
+    ty=ty or H//2
     s=1.18-0.18*min(1,age/0.09); f=ImageFont.truetype(IX,int(132*s))
     txt=w.rstrip(',.').upper(); col=(255,206,84) if w.lower().strip(',.?') in GOLD else (255,255,255)
-    sh=Image.new('RGBA',(W,H),(0,0,0,0)); ImageDraw.Draw(sh).text((W//2,H//2+8),txt,font=f,fill=(0,0,0,170),anchor='mm')
+    sh=Image.new('RGBA',(W,H),(0,0,0,0)); ImageDraw.Draw(sh).text((W//2,ty+8),txt,font=f,fill=(0,0,0,170),anchor='mm')
     sh=sh.filter(ImageFilter.GaussianBlur(12)); im.paste(sh,(0,0),sh)
-    ImageDraw.Draw(im).text((W//2,H//2),txt,font=f,fill=col,anchor='mm',stroke_width=8,stroke_fill=(0,0,0))
+    ImageDraw.Draw(im).text((W//2,ty),txt,font=f,fill=col,anchor='mm',stroke_width=8,stroke_fill=(0,0,0))
 tmp=f'/tmp/e3_{plat}'; shutil.rmtree(tmp,ignore_errors=True); os.makedirs(tmp)
 for n in range(int(END*FPS)):
     t=n/FPS; k=max(i for i in range(len(S)) if t>=starts[i]); _,clip,src,z,push,cy=S[k]
     t0=starts[k]; t1=starts[k+1] if k+1<len(S) else END; u=(t-t0)/max(0.01,t1-t0)
     im=tri(t-t0) if clip=='TRI' else endcard(t-t0) if clip=='END' else frame(clip,src+(t-t0),z,push,u,cy)
     w,age=word_at(t)
-    if w: draw_word(im,w,age)
+    if w: draw_word(im,w,age,int(H*0.74) if clip in ('s3b','s4b') else None)
     im.save(f'{tmp}/{n:05d}.jpg',quality=92)
 amb=[]
 for k,(i,clip,src,*_r) in enumerate(S):
