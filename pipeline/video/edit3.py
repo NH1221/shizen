@@ -5,7 +5,7 @@ IX='/usr/share/fonts/opentype/inter/Inter-ExtraBold.otf'; CM='/home/claude/fonts
 plat=sys.argv[1]; V='/home/claude/vid/vo/'
 words=json.load(open(V+f'full_{plat}.words.json')); WT=[w[1] for w in words]
 END=words[-1][2]+0.7
-GOLD={'snitching','asian','dragon','nothing','prove','waitlist','15%'}
+GOLD={'says','asian','dragon','nothing','prove','waitlist','15%'}
 DISP={'fifteen':'15%','percent':None}
 clips={}
 def load(name):
@@ -69,6 +69,6 @@ for k,(i,clip,src,*_r) in enumerate(S):
 open(f'{tmp}/al.txt','w').write(''.join(f"file '{x}'\n" for x in amb))
 subprocess.run(['ffmpeg','-loglevel','error','-y','-f','concat','-safe','0','-i',f'{tmp}/al.txt','-c:a','pcm_s16le',f'{tmp}/amb.wav'],check=True)
 subprocess.run(['ffmpeg','-loglevel','error','-y','-i',f'{tmp}/amb.wav','-i',V+f'full_{plat}.wav','-filter_complex','[0:a]volume=0.18[a];[1:a]apad[v];[a][v]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:TP=-1.5[m]','-map','[m]','-t',f'{END:.3f}',f'{tmp}/mix.wav'],check=True)
-out=f'/home/claude/vid/Shizen-snitching-{plat}.mp4'
+out=f'/home/claude/vid/Shizen-rashguard-says-{plat}.mp4'
 subprocess.run(['ffmpeg','-loglevel','error','-y','-framerate',str(FPS),'-i',f'{tmp}/%05d.jpg','-i',f'{tmp}/mix.wav','-map','0:v','-map','1:a','-shortest','-c:v','libx264','-pix_fmt','yuv420p','-crf','19','-preset','medium','-c:a','aac','-b:a','192k','-movflags','+faststart',out],check=True)
 print(out,round(END,2))
