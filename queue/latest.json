@@ -4,7 +4,7 @@
   {
    "id": "2026-10-24-A-tiktok",
    "platform": "tiktok",
-   "status": "ready",
+   "status": "cancelled",
    "post_at": "2026-10-24 09:00 UK",
    "url": "https://nh1221.github.io/shizen/queue/2026-10-24/A-tiktok.mp4",
    "hook_text": "What's your BJJ game?",
@@ -14,7 +14,7 @@
   {
    "id": "2026-10-24-A-instagram",
    "platform": "instagram",
-   "status": "ready",
+   "status": "cancelled",
    "post_at": "2026-10-24 09:00 UK",
    "url": "https://nh1221.github.io/shizen/queue/2026-10-24/A-instagram.mp4",
    "hook_text": "What's your BJJ game?",
@@ -22,5 +22,6 @@
    "pinned_comment": "Comment your number to vote 👇 Waitlist link in bio for 15% off."
   }
  ],
- "instinct_notes": "Post each once. Reply to every comment within the day. DM anyone who comments a number + waitlist: thanks, and their 15% code arrives at launch."
+ "instinct_notes": "Post each once. Reply to every comment within the day. DM anyone who comments a number + waitlist: thanks, and their 15% code arrives at launch.",
+ "note": "Cancelled by Nic 24 Oct. Do not post. New brief is in the Instinct prompt (Flow video)."
 }
