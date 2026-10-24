@@ -6,7 +6,7 @@ if img:
     im=Image.open(img).convert('RGB'); im.thumbnail((1080,1920)); bio=io.BytesIO(); im.save(bio,'JPEG',quality=92)
     inp=[{"type":"image","data":base64.b64encode(bio.getvalue()).decode(),"mime_type":"image/jpeg"},{"type":"text","text":prompt}]
 else: inp=prompt
-body={"model":"gemini-omni-1.1-flash","input":inp,"response_format":{"type":"video","aspect_ratio":"9:16","resolution":"720p"}}
+body={"model":"gemini-omni-1.1-flash","input":inp,"response_format":{"type":"video","aspect_ratio":"9:16","resolution":__import__("os").environ.get("RES","720p")}}
 req=urllib.request.Request('https://generativelanguage.googleapis.com/v1beta/interactions',data=json.dumps(body).encode(),headers={'x-goog-api-key':K,'Content-Type':'application/json'})
 try: d=json.load(urllib.request.urlopen(req,timeout=600))
 except urllib.error.HTTPError as e: print('HTTP',e.code,e.read()[:800].decode()); sys.exit(1)

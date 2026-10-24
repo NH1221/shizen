@@ -20,15 +20,15 @@ def frame(name,t,zoom=1.0,push=0.0,u=0.0,cy=0.5):
     if z>1.001:
         cw,ch=W/z,H/z; x0=(W-cw)/2; y0=max(0,min(H-ch,H*cy-ch/2)); im=im.crop((int(x0),int(y0),int(x0+cw),int(y0+ch))).resize((W,H),Image.BILINEAR)
     return im
-S=[(0,'s2',1.7,1.30,0.08,0.45),(2,'s1',2.7,1.25,0.08,0.4),(4,'s4',2.0,1.15,0.05,0.4),
+S=[(0,'s2',1.7,1.30,0.08,0.45),(2,'s1',2.7,1.25,0.08,0.4),(4,'s4b',1.0,1.0,0.05,0.45),
    (7,'s1',0.2,1.05,0.06,0.45),(9,'s1',2.4,1.25,0.06,0.4),
-   (13,'s2',0.3,1.05,0.06,0.45),(15,'s2',1.6,1.30,0.08,0.45),(17,'s2',3.6,1.1,0.06,0.4),
-   (20,'s3',0.4,1.0,0.05,0.5),(22,'s4',0.3,1.05,0.10,0.4),
-   (27,'TRI',0,1,0,0.5),(-1,'END',0,1,0,0.5)]
+   (13,'s2',0.3,1.05,0.06,0.45),(15,'s2',1.6,1.30,0.08,0.45),(18,'s2',3.6,1.1,0.06,0.4),
+   (21,'s3b',0.3,1.0,0.04,0.45),(23,'s4b',0.2,1.0,0.06,0.45),
+   (28,'TRI',0,1,0,0.5),(-1,'END',0,1,0,0.5)]
 starts=[(ENDCARD if i==-1 else WT[i]-0.05 if i else 0.0) for i,*_ in S]
 def tri(t):
     im=Image.new('RGB',(W,H)); sw=W//3
-    for k,(n,src) in enumerate([('s1',2.6),('s2',3.8),('s3',1.0)]):
+    for k,(n,src) in enumerate([('s1',2.6),('s2',3.8),('s3b',1.0)]):
         f=frame(n,src+t*0.6); im.paste(f.crop(((W-sw)//2,0,(W-sw)//2+sw,H)),(k*sw,0))
     d=ImageDraw.Draw(im)
     for k in (1,2): d.rectangle((k*sw-3,0,k*sw+3,H),fill=(12,13,16))
@@ -66,7 +66,7 @@ for n in range(int(END*FPS)):
 amb=[]
 for k,(i,clip,src,*_r) in enumerate(S):
     t0=starts[k]; t1=starts[k+1] if k+1<len(S) else END; dur=t1-t0
-    c=clip if clip not in ('TRI','END') else 's3'; o=f'{tmp}/amb{k}.wav'
+    c=clip if clip not in ('TRI','END') else 's3b'; o=f'{tmp}/amb{k}.wav'
     subprocess.run(['ffmpeg','-loglevel','error','-y','-ss',str(src if clip not in('TRI','END') else 0),'-i',c+'.mp4','-af',f'apad,atrim=0:{dur:.3f}','-vn','-ac','2','-ar','48000',o],check=True); amb.append(o)
 open(f'{tmp}/al.txt','w').write(''.join(f"file '{x}'\n" for x in amb))
 subprocess.run(['ffmpeg','-loglevel','error','-y','-f','concat','-safe','0','-i',f'{tmp}/al.txt','-c:a','pcm_s16le',f'{tmp}/amb.wav'],check=True)
