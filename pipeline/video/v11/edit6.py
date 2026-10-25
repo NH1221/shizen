@@ -88,11 +88,11 @@ def score_at(t):
     return cur
 def draw_score(im,txt,gold,age):
     s_=1.25-0.25*min(1,age/0.12)
-    if gold: f=ImageFont.truetype(CM,int(250*s_)); col=(214,182,118)
+    if gold: f=ImageFont.truetype(CM,int(260*s_)); col=(232,198,124)
     else: f=ImageFont.truetype(IX,int(170*s_)); col=(255,255,255)
     y=int(H*0.2)
-    sh=Image.new('RGBA',(W,H),(0,0,0,0)); ImageDraw.Draw(sh).text((W//2,y+10),txt,font=f,fill=(0,0,0,190),anchor='mm',features=['lnum'])
-    sh=sh.filter(ImageFilter.GaussianBlur(14)); im.paste(sh,(0,0),sh)
+    sh=Image.new('RGBA',(W,H),(0,0,0,0)); ImageDraw.Draw(sh).text((W//2,y+10),txt,font=f,fill=(0,0,0,235 if gold else 190),anchor='mm',features=['lnum'])
+    sh=sh.filter(ImageFilter.GaussianBlur(9 if gold else 14)); im.paste(sh,(0,0),sh)
     ImageDraw.Draw(im).text((W//2,y),txt,font=f,fill=col,anchor='mm',stroke_width=0 if gold else 8,stroke_fill=(0,0,0),features=['lnum'])
 lk=Image.open('/home/claude/shizen/brand/shizen-neck-lockup-gold.png').convert('RGBA'); lk=lk.crop(lk.getbbox()); lk=lk.resize((260,int(lk.height*260/lk.width)),Image.LANCZOS)
 def end_tag(im,age):
