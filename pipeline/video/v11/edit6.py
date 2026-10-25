@@ -49,6 +49,28 @@ if CFG=='a':
        (36,'P1',4.2,1.0,0.02,.5,.5,False,0.82)]
     SCORES=[(8,'2/10',False),(17,'4/10',False),(25,'7/10',False),(32,'5/10',False),(39,'10/10',True)]
     GOLD={'ten.','japanese','ink','art.'}; DISP={}
+elif CFG=='a2':
+    S=[(0,'P3',0.0,1.0,0.03,.5,.45,False,0.78),
+       (3,'P3',1.2,1.25,0.04,.5,.4,False,0.78),
+       (9,'P2',0.0,1.1,0.03,.5,.45,False,0.78),
+       (15,'P2',4.6,1.3,0.04,.42,.42,False,0.78),
+       (18,'P4',0.2,1.05,0.03,.5,.45,False,0.78),
+       (24,'P4',3.0,1.0,0.0,.5,.5,False,0.78),
+       (26,'P1',0.0,1.0,0.02,.5,.5,False,0.82),
+       (29,'P1',4.2,1.0,0.02,.5,.5,False,0.82)]
+    SCORES=[(8,'2/10',False),(17,'4/10',False),(25,'7/10',False),(32,'10/10',True)]
+    GOLD={'ten.','japanese','ink','art.'}; DISP={}
+elif CFG=='a2':
+    S=[(0,'P3',0.0,1.0,0.03,.5,.45,False,0.78),
+       (3,'P3',1.2,1.25,0.04,.5,.4,False,0.78),
+       (9,'P2',0.0,1.1,0.03,.5,.45,False,0.78),
+       (15,'P2',4.6,1.3,0.04,.42,.42,False,0.78),
+       (18,'P4',0.2,1.05,0.03,.5,.45,False,0.78),
+       (24,'P4',3.0,1.0,0.0,.5,.5,False,0.78),
+       (26,'P1',0.0,1.0,0.02,.5,.5,False,0.82),
+       (29,'P1',4.2,1.0,0.02,.5,.5,False,0.82)]
+    SCORES=[(8,'2/10',False),(17,'4/10',False),(25,'7/10',False),(32,'10/10',True)]
+    GOLD={'ten.','japanese','ink','art.'}; DISP={}
 else:
     S=[(0,'P3',5.0,1.15,0.04,.5,.42,False,0.78),
        (6,'P4',5.6,1.55,0.03,.42,.62,False,0.35),
@@ -119,6 +141,6 @@ for k,(i,src,s0,*_r) in enumerate(S):
     subprocess.run(['ffmpeg','-loglevel','error','-y','-ss',str(s0 if not src.endswith('.jpg') else 0),'-i',c+'.mp4','-af',f'apad,atrim=0:{dur:.3f}','-vn','-ac','2','-ar','48000',o],check=True); amb.append(o)
 open(f'{tmp}/al.txt','w').write(''.join(f"file '{x}'\n" for x in amb))
 subprocess.run(['ffmpeg','-loglevel','error','-y','-f','concat','-safe','0','-i',f'{tmp}/al.txt','-c:a','pcm_s16le',f'{tmp}/amb.wav'],check=True)
-subprocess.run(['ffmpeg','-loglevel','error','-y','-i',f'{tmp}/amb.wav','-i',V+'.wav','-filter_complex','[0:a]volume=0.2[a];[1:a]apad[v];[a][v]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:TP=-1.5[m]','-map','[m]','-t',f'{END:.3f}',f'{tmp}/mix.wav'],check=True)
+subprocess.run(['ffmpeg','-loglevel','error','-y','-i',f'{tmp}/amb.wav','-i',V+'.wav','-filter_complex','[0:a]volume=0[a];[1:a]apad[v];[a][v]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:TP=-1.5[m]','-map','[m]','-t',f'{END:.3f}',f'{tmp}/mix.wav'],check=True)
 subprocess.run(['ffmpeg','-loglevel','error','-y','-framerate',str(FPS),'-i',f'{tmp}/%05d.jpg','-i',f'{tmp}/mix.wav','-map','0:v','-map','1:a','-shortest','-c:v','libx264','-pix_fmt','yuv420p','-crf','19','-preset','medium','-c:a','aac','-b:a','192k','-movflags','+faststart',OUT],check=True)
 print(OUT,round(END,2))
