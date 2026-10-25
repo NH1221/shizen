@@ -41,11 +41,11 @@ S=[(0,'SPLIT',0,1,0,.5,.5,False,0.5),
    (6,'loud',0.2,1.1,0.06,.5,.42,False,0.5),
    (10,'dragon-fixed',0.0,1.0,0.03,.5,.5,False,0.74),
    (16,'dragon-fixed',2.2,1.45,0.04,.5,.38,False,0.78),
-   (19,'s-tiger.jpg',0,1.35,0.04,.48,.52,True,0.8),
-   (20,'s-koi.jpg',0,1.5,0.04,.5,.42,True,0.8),
-   (21,'s-waves.jpg',0,1.5,0.04,.45,.48,True,0.8),
-   (22,'s-tigerpair.jpg',0,1.6,0.04,.5,.42,True,0.8),
-   (25,'s-dragon.jpg',0,1.3,0.05,.5,.4,True,0.78)]
+   (19,'s-tiger.jpg',0,1.75,0.0,.52,.55,False,0.84),
+   (20,'s-koi.jpg',0,2.0,0.0,.55,.42,False,0.84),
+   (21,'s-waves.jpg',0,2.0,0.0,.5,.52,False,0.84),
+   (22,'s-tigerpair.jpg',0,2.1,0.0,.51,.43,False,0.84),
+   (25,'s-dragon.jpg',0,1.9,0.0,.53,.42,False,0.84)]
 starts=[0.0 if i==0 else WT[i]-0.04 for i,*_ in S]
 def word_at(t):
     cur=None
