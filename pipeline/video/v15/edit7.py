@@ -23,14 +23,10 @@ END=words[-1][2]+0.8
 S=[(0,'P3',5.0,1.15,1.2,.5,.42,.5,.42,False,False),
    (6,'P4',5.6,1.55,1.6,.42,.62,.42,.62,False,False),
    (8,'P5',0.2,1.2,1.25,.6,.6,.6,.6,False,False),
-   (11,'P1',0.4,2.2,2.3,.34,.5,.38,.5,True,False),
-   (13,'P1',1.2,2.1,2.2,.66,.46,.62,.46,True,False),
-   (15,'P1',1.0,2.0,2.15,.5,.27,.5,.27,True,True),
-   (16,'P1',2.0,1.9,2.0,.36,.42,.42,.42,True,False),
-   (18,'P1',2.6,2.1,2.2,.64,.5,.6,.5,True,False),
-   (20,'P1',4.6,1.6,1.65,.5,.3,.5,.3,True,False),
-   (22,'P1',3.6,2.2,2.3,.32,.62,.36,.6,True,False),
-   (25,'P1',6.6,1.7,1.0,.5,.4,.5,.5,True,False),
+   (11,'P1',0.6,2.0,2.25,.5,.26,.5,.27,True,15),
+   (16,'P1',2.0,1.95,2.1,.34,.44,.40,.44,True,False),
+   (20,'P1',3.0,1.95,2.1,.66,.46,.60,.46,True,False),
+   (25,'P1',6.4,1.9,1.0,.5,.36,.5,.5,True,False),
    (29,'END',0,1,1,.5,.5,.5,.5,True,False)]
 starts=[0.0 if i==0 else WT[i]-0.04 for i,*_ in S]
 CHUNK={11:"THAT'S WHY",13:'WE MADE',15:'SHIZEN',16:'QUALITY',17:'JAPANESE INK ART',20:'RASH GUARDS',22:'THAT FEEL',24:'AS GOOD',26:'AS THEY LOOK',33:'WOULD YOU',35:'WEAR IT?'}
@@ -99,7 +95,7 @@ for n in range(int(END*FPS)):
     if src=='END': im=endcard(t-t0,n)
     else:
         im=frame(src,s0+(t-t0),z0+(z1-z0)*u,cx0+(cx1-cx0)*u,cy0+(cy1-cy0)*u)
-        if prem: im=premium(im,n,((t-t0)/0.9) if sweep else None)
+        if prem: im=premium(im,n,((t-(WT[sweep]-0.05))/0.9) if sweep else None)
     # subtle film flash on every cut (CapCut-style warm bloom peaking on the cut)
     near=[t-c for c in starts[3:] if -0.07<=t-c<=0.13]
     if near:
@@ -117,8 +113,8 @@ def place(lst):
         w_=wave.open(f); x=np.frombuffer(w_.readframes(w_.getnframes()),np.int16).reshape(-1,2).astype(np.float32)/32767
         i=int(max(0,at)*48000); j=min(total,i+len(x)); mix[i:j]+=x[:j-i]*g
     return mix
-T11=starts[3]; sf=[('whoosh.wav',T11-0.4,0.165),('hit.wav',T11-0.02,0.4),('shimmer.wav',starts[5],0.18)]
-sf.append(('hit.wav',starts[-1]-0.02,0.3))
+T11=starts[3]; sf=[('whoosh.wav',T11-0.4,0.04),('hit.wav',T11-0.02,0.3),('shimmer.wav',WT[15]-0.05,0.15)]
+sf.append(('hit.wav',starts[-1]-0.02,0.22))
 mix=place(sf); sw=wave.open('/tmp/e7/sfx.wav','wb'); sw.setnchannels(2); sw.setsampwidth(2); sw.setframerate(48000); sw.writeframes((np.clip(mix,-1,1)*32767).astype(np.int16).tobytes()); sw.close()
 subprocess.run(['ffmpeg','-loglevel','error','-y','-i','/tmp/e7/vo.wav','-i','/tmp/e7/sfx.wav','-filter_complex','[0:a]aresample=48000,apad[v];[1:a]volume=1.0[s];[v][s]amix=inputs=2:duration=longest:normalize=0,loudnorm=I=-14:TP=-1.5[m]','-map','[m]','-t',f'{END:.3f}','/tmp/e7/mix.wav'],check=True)
 subprocess.run(['ffmpeg','-loglevel','error','-y','-framerate',str(FPS),'-i',f'{tmp}/%05d.jpg','-i','/tmp/e7/mix.wav','-map','0:v','-map','1:a','-shortest','-c:v','libx264','-pix_fmt','yuv420p','-crf','18','-preset','medium','-c:a','aac','-b:a','192k','-movflags','+faststart',OUT],check=True)
