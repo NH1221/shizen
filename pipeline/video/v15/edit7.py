@@ -101,7 +101,7 @@ for n in range(int(END*FPS)):
         im=frame(src,s0+(t-t0),z0+(z1-z0)*u,cx0+(cx1-cx0)*u,cy0+(cy1-cy0)*u)
         if prem: im=premium(im,n,((t-t0)/0.9) if sweep else None)
     # subtle film flash on every cut (CapCut-style warm bloom peaking on the cut)
-    near=[t-c for c in starts[1:] if -0.07<=t-c<=0.13]
+    near=[t-c for c in starts[3:] if -0.07<=t-c<=0.13]
     if near:
         dt=near[0]; amt=0.62*(1-abs(dt)/0.07) if dt<0 else 0.62*max(0,1-dt/0.13)
         if amt>0:
