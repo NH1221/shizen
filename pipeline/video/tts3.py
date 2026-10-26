@@ -17,7 +17,7 @@ subprocess.run(['ffmpeg','-loglevel','error','-y','-i',k+'.mp3','-ac','1','-ar',
 w=wave.open(k+'_raw.wav'); sr=w.getframerate(); x=np.frombuffer(w.readframes(w.getnframes()),np.int16)
 G=0.22; out=[]; t=0.0; prev=words[0][1]-0.02; nw=[]
 for i,(q,b,e) in enumerate(words):
-    gap=b-prev; keep=min(gap,G) if i else 0.02
+    gap=b-prev; keep=min(gap,G) if i else min(b,0.2)
     seg=x[int((b-keep)*sr):int(e*sr)]; nb=t+keep; nw.append([q,nb,nb+(e-b)]); out.append(seg); t+=len(seg)/sr; prev=e
 y=np.concatenate(out+[np.zeros(int(0.2*sr),np.int16)])
 w2=wave.open(k+'_tight.wav','wb'); w2.setnchannels(1); w2.setsampwidth(2); w2.setframerate(sr); w2.writeframes(y.tobytes()); w2.close()
