@@ -80,18 +80,25 @@ else:
        (20,'P1',6.0,1.15,0.02,.5,.42,False,0.82)]
     SCORES=[]
     GOLD={'japanese','ink','art.','founding','drop','01','wear','it?'}; DISP={'zero':'01','one.':None}
+    CHUNK={11:'WE WANTED',12:None,13:"ONE YOU'D",14:None,15:'ACTUALLY WEAR',16:None}
 starts=[0.0 if i==0 else WT[i]-0.04 for i,*_ in S]
 def word_at(t):
     cur=None
     for i,(w,b,e) in enumerate(words):
         if t>=b-0.03: cur=i
     if cur is None: return None,0
+    CH=globals().get('CHUNK',{})
+    if cur in CH:
+        j=cur
+        while CH.get(j,'x') is None: j-=1
+        return CH[j], t-words[j][1]
     j=cur
     while j>0 and DISP.get(words[j][0].lower(),'x') is None: j-=1
     w=words[j][0]; w=DISP.get(w.lower(),w) or w
     return w, t-words[j][1]
 def draw_word(im,w,age,ty):
     s=1.18-0.18*min(1,age/0.09); f=ImageFont.truetype(IX,int(128*s))
+    while ImageDraw.Draw(im).textlength(w.rstrip(',.').upper(),font=f)>W*0.86: f=ImageFont.truetype(IX,int(f.size*0.92))
     txt=w.rstrip(',.').rstrip('.').upper(); col=(255,206,84) if (w.lower().strip(',.') in GOLD or w.lower() in GOLD) else (255,255,255)
     y=int(H*ty)
     sh=Image.new('RGBA',(W,H),(0,0,0,0)); ImageDraw.Draw(sh).text((W//2,y+8),txt,font=f,fill=(0,0,0,170),anchor='mm')
