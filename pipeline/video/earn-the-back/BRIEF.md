@@ -2,23 +2,13 @@
 
 Owner of all creative decisions: Claude. Executor: Instinct. Nothing posts without Nic's approval.
 
-## Script (captions = VO word for word)
+## Current edit (supersedes the VO script and end card)
 
-| Start (s) | File | VO line | Caption |
-| --- | --- | --- | --- |
-| 0.2 | incoming/2026-10-30/VO1.mp3 | You've rolled with him for a year and never got his back. | Same, shown from 0.0 |
-| 3.0 | incoming/2026-10-30/VO2.mp3 | Tonight, he finally turtles. | Same |
-| 4.7 | incoming/2026-10-30/VO3.mp3 | And he's had a tiger on his back this whole time. | Same |
-| 8.3 | incoming/2026-10-30/VO4.mp3 | You have to earn the back. | Same |
-| 9.9 | incoming/2026-10-30/VO5.mp3 | Sheezen. Drop oh one. | Shizen. Drop 01. |
+Per Nic's feedback (30 Oct): native TikTok text, no VO, no end card, the AI footage carries it. Built with `assemble_native.py` from `incoming/2026-10-30/F1-take1.mp4` (final, don't touch). The specs live in `specs/`; QA notes are in `queue/2026-10-30-earn-the-back/ANALYSIS.md`.
 
-Superseded, do not use: `1-VO1.mp3` (old VO1 line) and `endcard.mp4` (old card with a background seam). Live end card: `endcard-v2.mp4`.
-
-## Shots
-
-- 0.0 to 8.0 s: one Veo shot, head-cam over a turtled partner, Tora on his back. Built from ingredients that Claude passes.
-- 8.0 to 11.5 s: `incoming/2026-10-30/endcard-v2.mp4` (rendered by Claude from `brand/print-backs/Tora_back.jpg` with `endcard.py`).
-- Loop: the end card finishes on an ink brushstroke macro that cuts back to the Veo opening macro.
+- v3 (`specs/v3.json`) and v4 (`specs/v4.json`, text moved clear of the logo) are awaiting Nic's review.
+- Every edit runs through `/ttevaluate` before Nic sees it.
+- The old VO files and the end cards are kept for reference only.
 
 ## Who does what
 
@@ -37,9 +27,8 @@ Superseded, do not use: `1-VO1.mp3` (old VO1 line) and `endcard.mp4` (old card w
 
 ## Variant B: Twin Tigers (approved by Claude, made after Tora's Veo take passes)
 
-Same script except VO3: "And he's had two tigers on his back this whole time." (`incoming/2026-10-30/VO3-TT.mp3`, captioned word for word). The other lines reuse VO1, VO2, VO4 and VO5.
+Edit it the same way as whichever of v3 or v4 Nic picks: same native text style, no VO, no end card. The twin tigers face each other, not the viewer, so the 'staring at you' line doesn't fit: write a new line and re-check cohesion with /ttevaluate.
 
 - Base still: `stills/A3-try3.webp` (a different shot from Tora, so the two posts don't look templated).
 - Veo frames: first `stills/TT-macro.png`, last `stills/TT-composite.png`.
-- End card: `incoming/2026-10-30/TT-endcard.mp4` (`endcard.py Twin-Tigers_back.jpg OUT 625 500 560 760 500`).
 - Post at least 2 days after Tora. Never both on the same day.
