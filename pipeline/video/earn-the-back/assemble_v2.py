@@ -1,0 +1,19 @@
+"""Native-style cut: Veo footage only, original audio, TikTok-style text, no VO, no end card.
+usage: assemble_v2.py VEO OUT"""
+import subprocess, sys, os, tempfile
+VEO, OUT = sys.argv[1:3]
+FONT = os.path.join(os.path.dirname(__file__), '../../fonts/TikTokSans-600.ttf')
+# (lines, start, end)
+TEXT = [(["pov: 1 year of rolling with him", "and you finally take his back"], 0.0, 5.4),
+        (["ngl the rash guard goes hard"], 5.6, 8.5)]
+tmp = tempfile.mkdtemp(); draw = []
+for i, (lines, a, b) in enumerate(TEXT):
+    for j, line in enumerate(lines):
+        p = os.path.join(tmp, f't{i}_{j}.txt'); open(p, 'w').write(line)
+        draw.append(f"drawtext=fontfile={FONT}:textfile={p}:fontsize=52:fontcolor=white:borderw=4:bordercolor=black@0.85:"
+                    f"shadowcolor=black@0.45:shadowx=0:shadowy=2:x=(w-text_w)/2:y={190 + j * 68}:enable='between(t,{a},{b})'")
+fc = (f"[0:v]scale=1080:1920:flags=lanczos,fps=30,setsar=1,trim=0:8.5,setpts=PTS-STARTPTS,{','.join(draw)}[v];"
+      f"[0:a]atrim=0:8.5,asetpts=PTS-STARTPTS,volume=18dB,afade=t=out:st=8.3:d=0.2,loudnorm=I=-16:TP=-1.5[a]")
+subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', VEO, '-filter_complex', fc, '-map', '[v]', '-map', '[a]',
+                '-c:v', 'libx264', '-crf', '18', '-preset', 'veryfast', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '192k',
+                '-ar', '48000', '-movflags', '+faststart', OUT], check=True)
