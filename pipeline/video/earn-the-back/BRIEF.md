@@ -6,13 +6,13 @@ Owner of all creative decisions: Claude. Executor: Instinct. Nothing posts witho
 
 | Start (s) | File | VO line | Caption |
 | --- | --- | --- | --- |
-| 0.2 | incoming/2026-10-30/7-VO1.mp3 | You've rolled with him for a year and never got his back. | Same, shown from 0.0 |
-| 3.0 | incoming/2026-10-30/2-VO2.mp3 | Tonight, he finally turtles. | Same |
-| 4.7 | incoming/2026-10-30/3-VO3.mp3 | And he's had a tiger on his back this whole time. | Same |
-| 8.3 | incoming/2026-10-30/4-VO4.mp3 | You have to earn the back. | Same |
-| 9.9 | incoming/2026-10-30/5-VO5.mp3 | Sheezen. Drop oh one. | Shizen. Drop 01. |
+| 0.2 | incoming/2026-10-30/VO1.mp3 | You've rolled with him for a year and never got his back. | Same, shown from 0.0 |
+| 3.0 | incoming/2026-10-30/VO2.mp3 | Tonight, he finally turtles. | Same |
+| 4.7 | incoming/2026-10-30/VO3.mp3 | And he's had a tiger on his back this whole time. | Same |
+| 8.3 | incoming/2026-10-30/VO4.mp3 | You have to earn the back. | Same |
+| 9.9 | incoming/2026-10-30/VO5.mp3 | Sheezen. Drop oh one. | Shizen. Drop 01. |
 
-`1-VO1.mp3` and `6-endcard.mp4` are superseded. Do not use them.
+Superseded, do not use: `1-VO1.mp3` (old VO1 line) and `endcard.mp4` (old card with a background seam). Live end card: `endcard-v2.mp4`.
 
 ## Shots
 
