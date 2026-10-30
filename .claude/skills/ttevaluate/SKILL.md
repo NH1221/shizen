@@ -18,6 +18,7 @@ The video file. If it can't be watched directly, extract frames every 0.5 s plus
 3. **No promotional end card and no product-only shots.** The real-looking footage carries the video. The brand lives on the garment and in the caption or pinned comment.
 4. **No unmotivated moves.** No zooms, pushes or effects without an in-world reason (a camera person moving counts as a reason).
 5. **The footage must pass as unedited phone video.** No warped hands, faces, drifting prints, fake light or smooth gimbal moves.
+6. **The narrative is cohesive.** The text beats, the picture at that moment and the post caption tell ONE story: each line follows from the last and lands on what the viewer is seeing right then. Nic's example of a fail: "it's better for sure as it's not natural the V2, but the caption narrative isn't really cohesive."
 
 ## Scored checks (0 to 2 each)
 
@@ -32,11 +33,12 @@ The video file. If it can't be watched directly, extract frames every 0.5 s plus
 | 7 | Length and loop | 7 to 15 s; the last frame flows into the first | Completion and rewatch are the top ranking signals |
 | 8 | Comment pull | The caption or pinned comment asks about the viewer's life, not a favour for the brand | Metricool: questions +26% comments; asking for likes -60% |
 | 9 | Brand restraint | The product is visible and desirable but never pitched | Brand imagery up front raises skipping (Teixeira) |
+| 11 | Cohesion | Read the text beats and the caption aloud in order: they make one joke or story, with no pivot to an unrelated line | Nic's standing feedback |
 | 10 | Honesty | No false claims, no fake urgency, AI-label decision flagged for Nic | Platform rules |
 
 ## Verdict
 
-- **PASS:** no standing-rule breach, a total of 16/20 or more, and no check scoring 0.
+- **PASS:** no standing-rule breach, a total of 18/22 or more, and no check scoring 0.
 - Otherwise **FAIL**. List every fix as an exact instruction (timestamp, what changes, to what). Re-run after each fix.
 
 ## Output format
