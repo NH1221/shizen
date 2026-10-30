@@ -5,17 +5,20 @@ Veo opening macro. Output: 1080x1920, 30 fps, 3.5 s, no audio, no added text."""
 import subprocess, sys, os
 from PIL import Image, ImageFilter
 SRC, OUT = sys.argv[1], sys.argv[2]
+# optional: anchor x y, stroke x y in print pixels (defaults fit Tora_back.jpg)
+AX, AY, SX, SY = (float(v) for v in sys.argv[3:7]) if len(sys.argv) >= 7 else (625, 560, 560, 1180)
 FPS, DUR, W, H, S = 30, 3.5, 1080, 1920, 2          # S = supersample
-art = Image.open(SRC).convert('RGB')
+art = Image.open(SRC).convert('RGB'); art_h0 = art.height
 bg = art.getpixel((5, 5))                            # print's own cream, so no seam
 aw = W * S; ah = round(art.height * aw / art.width)
 art = art.resize((aw, ah), Image.LANCZOS)
 canvas = Image.new('RGB', (W * S, H * S), bg)
-top = (H * S - ah) // 2
+CY = float(sys.argv[7]) if len(sys.argv) >= 8 else None   # optional: print y to centre on
+top = (H * S - ah) // 2 if CY is None else round(H * S / 2 - CY * ah / art_h0)
 canvas.paste(art, (0, top))
 k = aw / 1250                                        # print px -> canvas px
-eyes = (625 * k, top + 560 * k)
-stroke = (560 * k, top + 1180 * k)
+eyes = (AX * k, top + AY * k)
+stroke = (SX * k, top + SY * k)
 def ease(u): return u * u * (3 - 2 * u)
 tmp = os.path.join(os.path.dirname(OUT), '_ec_frames'); os.makedirs(tmp, exist_ok=True)
 n = round(FPS * DUR); push_start = 3.1

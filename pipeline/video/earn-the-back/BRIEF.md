@@ -34,3 +34,12 @@ Superseded, do not use: `1-VO1.mp3` (old VO1 line) and `endcard.mp4` (old card w
 5. End every delivery with "Changes from the card: none" or list each change.
 6. Never re-send old files as new results. Name every file as the card says.
 7. Spend Flow credits only after Claude writes "GO: Flow".
+
+## Variant B: Twin Tigers (approved by Claude, made after Tora's Veo take passes)
+
+Same script except VO3: "And he's had two tigers on his back this whole time." (`incoming/2026-10-30/VO3-TT.mp3`, captioned word for word). The other lines reuse VO1, VO2, VO4 and VO5.
+
+- Base still: `stills/A3-try3.webp` (a different shot from Tora, so the two posts don't look templated).
+- Veo frames: first `stills/TT-macro.png`, last `stills/TT-composite.png`.
+- End card: `incoming/2026-10-30/TT-endcard.mp4` (`endcard.py Twin-Tigers_back.jpg OUT 625 500 560 760 500`).
+- Post at least 2 days after Tora. Never both on the same day.
