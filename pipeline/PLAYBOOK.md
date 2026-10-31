@@ -42,3 +42,6 @@ Goal: 5+ people comment "<number> waitlist" or sign up at waitlister.me/p/shizen
 - No AI label (Nic's call). Pinned comment carries the waitlist line.
 - Hypothesis: one cohesive POV joke and a 7 s loop should beat the 2.2% completion and 0 comments of the earlier videos.
 - Read on 2 Nov: views, average watch, completion, comments, follows, and the retention-curve drop-off second. Then edit Twin Tigers.
+- Update, 31 Oct 06:48: the waitlist comment was removed. TikTok's spam filter took it down twice, and then Nic chose no brand comment. The brand now lives only on the garment and in the profile bio.
+- Also posted on IG: https://www.instagram.com/shizenbjj/reel/DfJjBVUyIt1/ (same caption, AI label off).
+- Lesson: promo comments with "waitlist / % off / link in bio" get filtered on a small account. Put the offer in the bio, not in comments.
