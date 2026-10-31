@@ -35,3 +35,10 @@ Goal: 5+ people comment "<number> waitlist" or sign up at waitlister.me/p/shizen
 - Each design = a rolling style: 1 Ryu Pressure passer, 2 Hebi Guard player, 3 Hebi Mark Fundamentals, 4 Twin Koi Never taps, 5 Twin Tigers Wrestler, 6 Tora Scrambler, 7 Tsuru Leg locker, 8 Nami Flow roller.
 - 12 s, ~1.1 s per card with progress dots, then numbered grid + CTA. Voice: ElevenLabs Chris (Asher needs a paid plan). No on-screen AI line (Nic's call).
 - Watch next week: avg watch above 5 s and completion above 15% means the hook fixed retention; comments with numbers means identity works.
+
+## Video posted 31 Oct ~05:50 UK: "pov: you finally take his back" (Tora, v4)
+- Link: https://www.tiktok.com/@shizenbjj/video/7702705375648173334
+- Edit: `queue/2026-10-30-earn-the-back/video-v4.mp4` (7 s, native TikTok Sans text, no VO, no end card). Footage: Veo 3.1 Fast Frames to Video from a Nano Banana still plus a code composite of the real Tora print. /ttevaluate scored it 19/22.
+- No AI label (Nic's call). Pinned comment carries the waitlist line.
+- Hypothesis: one cohesive POV joke and a 7 s loop should beat the 2.2% completion and 0 comments of the earlier videos.
+- Read on 2 Nov: views, average watch, completion, comments, follows, and the retention-curve drop-off second. Then edit Twin Tigers.
