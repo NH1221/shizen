@@ -59,3 +59,4 @@ Frames picked by Claude (one per second, f_NNN = second NNN). Instinct extracts 
 
 ## Nic's rule (2 Nov, 15:29): the print is placed in image generation, not in code
 Supersedes lesson 3 ("Claude composites the real print in code"). Instinct attaches the real print file (`brand/print-backs/<Design>_back.jpg`) to the Nano Banana Pro edit and the model places it. Claude passes or fails the result against the original art (artwork unchanged, mark below the collar, tigers across the shoulder blades at about 70% of back width, as in `img/tora-pair.jpg`). Claude's code composites are retired.
+- REV-1 pick: REV1-a, mirrored (`stills/REV1-a-flip.png`) so the room reads as the opposite end from REV-2 (windows on the left facing him, on the right behind him). Safe to mirror: the front is plain, with no text.
