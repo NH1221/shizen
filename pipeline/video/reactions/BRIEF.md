@@ -60,3 +60,12 @@ Frames picked by Claude (one per second, f_NNN = second NNN). Instinct extracts 
 ## Nic's rule (2 Nov, 15:29): the print is placed in image generation, not in code
 Supersedes lesson 3 ("Claude composites the real print in code"). Instinct attaches the real print file (`brand/print-backs/<Design>_back.jpg`) to the Nano Banana Pro edit and the model places it. Claude passes or fails the result against the original art (artwork unchanged, mark below the collar, tigers across the shoulder blades at about 70% of back width, as in `img/tora-pair.jpg`). Claude's code composites are retired.
 - REV-1 pick: REV1-a, mirrored (`stills/REV1-a-flip.png`) so the room reads as the opposite end from REV-2 (windows on the left facing him, on the right behind him). Safe to mirror: the front is plain, with no text.
+
+## New basis from Nic (2 Nov, 20:35): `src/NIC-base.jpg`
+Supersedes REV1-a, REV1-a-flip and REV2-a. Nic's edit of f004: open doorway in the far wall (right of centre), the man walking toward camera from it.
+Chain (Nano Banana Pro, one-shot edits, 2 runs each, Claude passes each before the next):
+1. `REV1-final`: from NIC-base. New face and race for every person vs the TikTok original; his cream tee becomes a plain cream long-sleeve rash guard; the man in the blue long-sleeve rash guard (right of frame, behind him) looks at his back.
+2. `REV2-plain`: reverse angle, same room, camera 2 m behind him; identity and outfit from REV1-final; plain back.
+3. `REV2-final`: Twin Tigers generated onto the back of REV2-plain from `brand/print-backs/Twin-Tigers_back.jpg`.
+Flow: Omni 1.1 Flash 720p x1. B-REV1 4 s from REV1-final; B-REV2 8 s from REV2-final. B-R1 to B-R3 unchanged.
+Storyboard v4: R1, R2, R3 (0 to 3.9 s, text "pov: you wear this to open mat"), REV1 (to about 6.4 s), REV2 back reveal (to about 10.5 s), loop to R1.
