@@ -56,3 +56,6 @@ Frames picked by Claude (one per second, f_NNN = second NNN). Instinct extracts 
 - Design: Twin Tigers, not Tora. Print placement fixed to match the product mockup (`img/tora-pair.jpg`): SHIZEN mark just below the collar, tigers across the shoulder blades at about 70% of back width. Old Tora composite is retired.
 - Storyboard v3: R1 0 to 1.3, R2 1.3 to 2.6, R3 2.6 to 3.9 (text "pov: you wear this to open mat"), REV-1 3.9 to about 6.4 (front walk-in, no text), REV-2 about 6.4 to 10.5 (back reveal, no text). Loop: his back walking away cuts to R1.
 - Files: REV-2 start frame `stills/REV2-TT-composite.png` (720x1280). REV-1 still to come: Nano Banana edit of `REV-a.png` turning him to face the camera.
+
+## Nic's rule (2 Nov, 15:29): the print is placed in image generation, not in code
+Supersedes lesson 3 ("Claude composites the real print in code"). Instinct attaches the real print file (`brand/print-backs/<Design>_back.jpg`) to the Nano Banana Pro edit and the model places it. Claude passes or fails the result against the original art (artwork unchanged, mark below the collar, tigers across the shoulder blades at about 70% of back width, as in `img/tora-pair.jpg`). Claude's code composites are retired.
