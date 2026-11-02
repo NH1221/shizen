@@ -69,3 +69,8 @@ Chain (Nano Banana Pro, one-shot edits, 2 runs each, Claude passes each before t
 3. `REV2-final`: Twin Tigers generated onto the back of REV2-plain from `brand/print-backs/Twin-Tigers_back.jpg`.
 Flow: Omni 1.1 Flash 720p x1. B-REV1 4 s from REV1-final; B-REV2 8 s from REV2-final. B-R1 to B-R3 unchanged.
 Storyboard v4: R1, R2, R3 (0 to 3.9 s, text "pov: you wear this to open mat"), REV1 (to about 6.4 s), REV2 back reveal (to about 10.5 s), loop to R1.
+
+## Calibration notes (2 Nov, 22:25)
+- Nic accepts REV2-final-a, but for future prints wants the tigers slightly smaller and higher: about 60% of back width, tigers starting just below the SHIZEN mark.
+- B-REV2 take 2: the crowd thins and the room drifts in the final frames. Use the opening ~4 s only.
+- Reactions run at Omni 1.1 Flash 720p (Flow has no 480p; 360p rejected for faces). Softness is added in the edit.
