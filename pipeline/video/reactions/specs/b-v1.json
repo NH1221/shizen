@@ -1,0 +1,11 @@
+{
+  "clips": [
+    {"file": "incoming/2026-11-02/B-R1-take1.mp4",   "in": 0.5, "out": 1.8, "soft": 0.8},
+    {"file": "incoming/2026-11-02/B-R2-take1.mp4",   "in": 0.5, "out": 1.8, "soft": 0.8},
+    {"file": "incoming/2026-11-02/B-R3-take1.mp4",   "in": 0.5, "out": 1.8, "soft": 0.8},
+    {"file": "incoming/2026-11-02/B-REV1-take1.mp4", "in": 0.0, "out": 3.4},
+    {"file": "incoming/2026-11-02/B-REV2-take2.mp4", "in": 0.0, "out": 4.3}
+  ],
+  "text": [[["pov: you wear this to open mat"], 0.0, 3.9]],
+  "y": 230, "size": 52
+}
