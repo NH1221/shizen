@@ -45,3 +45,15 @@ Goal: 5+ people comment "<number> waitlist" or sign up at waitlister.me/p/shizen
 - Update, 31 Oct 06:48: the waitlist comment was removed. TikTok's spam filter took it down twice, and then Nic chose no brand comment. The brand now lives only on the garment and in the profile bio.
 - Also posted on IG: https://www.instagram.com/shizenbjj/reel/DfJjBVUyIt1/ (same caption, AI label off).
 - Lesson: promo comments with "waitlist / % off / link in bio" get filtered on a small account. Put the offer in the bio, not in comments.
+
+## 48-hour read, "earn the back" (TikTok, pulled 2 Nov)
+| Metric | Earn the back (7 s) | Boring or too much (~4 h) | Snitching |
+|---|---|---|---|
+| Views | 695 (99.9% For You) | 245 | 221 |
+| Avg watch | 2.58 s | n/a | n/a |
+| Completion | 11.9% | 21% | 8% |
+| Likes / comments | 2 / 0 | 13 / ? | 7 / ? |
+- IG: 252 plays, 1 comment, 1 follow.
+- What improved is distribution, not retention or engagement. The windows differ (48 h vs ~4 h), so the reach gain is suggestive, not proven.
+- Most viewers left at 0:01. Frame 1 was an ink macro with two lines of text, which reads as "a print" before "a person". Next: frame 1 must show a person or scene readable in under 0.5 s, with one short text line.
+- Search terms reaching the account: "venum rash guard", "rash guards jiu jitsu". Use "rash guard jiu jitsu" in captions.
