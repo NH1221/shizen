@@ -35,3 +35,10 @@ Template evidence (`incoming/2026-11-02/3-reaction-template.md`): the top format
 1. Scene: "[Static locked-off | handheld] UGC iPhone footage, [zoomed in from across the room, soft and grainy]. [Action in one sentence.]"
 2. Dialogue: none. The audio is "ambient gym sound only: mats, distant voices, no words spoken to camera".
 3. Fixed rules: "One take, no jump cuts. Keep the face, skin texture, clothing and print exactly as in the image. Natural micro-movements, no smiling unless stated. No text, captions or logos appear. No camera zoom unless stated."
+
+## Sourcing decision (2 Nov, after the IG hunt)
+The real-source hunt closed with zero usable frames (TikTok, Flickr, Wikimedia, Instagram). R1 to R3 and REV are now Nano Banana Pro stills, generated in one shot each. Faces are the weakest part of this video; Nic is told that plainly. If Nic sends his own gym photo, it replaces the REV still.
+
+Still rules for all four: 9:16, highest resolution, Nano Banana Pro (original, not v2), 2 generations per card, both uploaded raw. Nobody wears cream (only REV does). No logos, text or patches anywhere. Claude composites Tora onto REV in code; the REV back stays plain.
+
+Files: `incoming/2026-11-02/stills/R1-a.png`, `R1-b.png`, `R2-a.png`, `R2-b.png`, `R3-a.png`, `R3-b.png`, `REV-a.png`, `REV-b.png`.
