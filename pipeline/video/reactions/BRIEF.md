@@ -42,3 +42,11 @@ The real-source hunt closed with zero usable frames (TikTok, Flickr, Wikimedia, 
 Still rules for all four: 9:16, highest resolution, Nano Banana Pro (original, not v2), 2 generations per card, both uploaded raw. Nobody wears cream (only REV does). No logos, text or patches anywhere. Claude composites Tora onto REV in code; the REV back stays plain.
 
 Files: `incoming/2026-11-02/stills/R1-a.png`, `R1-b.png`, `R2-a.png`, `R2-b.png`, `R3-a.png`, `R3-b.png`, `REV-a.png`, `REV-b.png`.
+
+## Real source (2 Nov, from Nic): art.of.roll reel DeE1HHyAP8F, 720x1280
+Frames picked by Claude (one per second, f_NNN = second NNN). Instinct extracts the sharpest frame within +/-0.5 s at full res to `incoming/2026-11-02/src/fNNN.png`, then runs the Nano Banana Pro edit prompts from Claude's message.
+- R1 sip freeze: f034 (two men against the wall under the bottle shelf). Backup: none.
+- R2 pair turn: f006 (seated group mid-room). Backup: f005.
+- R3 coach nod: f010 (Nic's standing bearded man; floor rollers removed). Backup: f013.
+- REV walk-away: f004 (long room, windows, seated groups); man added walking away, blank cream back. Backup: f037.
+- Never use f002 or f003 (burned-in text).
