@@ -27,3 +27,10 @@ Known minor points, none blocking:
 - Twin Tigers print is slightly larger than Nic's ideal (logged for next time).
 
 **Caption:** walked into open mat in this and the whole room went quiet 🐅 would you roll in it? #bjj #jiujitsu #rashguard #nogi #peoplesreactions
+
+## v2 (Nic's notes, 3 Nov): /ttevaluate PASS, 20/22
+- R1: cut to 0.0 to 1.25 s, frozen mid-sip with the bottle at his lips. The swallow and mouth movement after he lowers the bottle are gone.
+- The full front walk-in is replaced by a 1.1 s phone zoom on the reaction: the cream sleeve sweeps past the left edge while the man in blue and the front row look up at him (REV1 2.95 to 4.03 s, cropped 400x711).
+- Back reveal zoomed much closer (crop 400x711): he fills the frame and the print reads big, so the seated crowd no longer frames him like a procession.
+- R2, the pass-by and the reveal are dropped to 432x768 and back up, plus slight blur, to hide the polished AI look.
+- 9.2 s total. Text 0.0 to 3.85 s. Scores as v1; pacing is tighter (no shot over 4.3 s, four cuts in the first 5 s).
