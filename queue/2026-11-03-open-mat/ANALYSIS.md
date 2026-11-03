@@ -40,3 +40,8 @@ Known minor points, none blocking:
 - Gym ambience at 35% under the music; 0.35 s fade at the end for a clean loop. -14.7 LUFS.
 - The pov text now runs 0.0 to 4.91 s, across every reaction and the pass-by, and clears at the reveal.
 - Sound check moves to 2/2. Honesty stays 1/2 (realistic AIGC; label is Nic's call).
+
+## v4 (3 Nov, Nic's call): waitlist line on the reveal. /ttevaluate PASS, 21/22
+- Native text "comment "waitlist" if you want one", 7.63 to 9.23 s, over the back reveal, above his head and clear of the print. No end card; the loop into R1 stays intact.
+- Sparta stays baked in. Comment pull stays 2/2: a keyword comment ask, not a like request; the 15% is kept for the DM reply.
+- Caption (single ask): walked into open mat in this and the whole room went quiet 🐅 #bjj #jiujitsu #rashguard #nogi #peoplesreactions

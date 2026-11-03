@@ -1,0 +1,71 @@
+{
+  "clips": [
+    {
+      "file": "incoming/2026-11-02/B-R1-take1.mp4",
+      "in": 0.0,
+      "out": 1.25,
+      "soft": 0.8
+    },
+    {
+      "file": "incoming/2026-11-02/B-R2-take1.mp4",
+      "in": 1.2,
+      "out": 2.5,
+      "soft": 0.8,
+      "fx": "scale=432:768:flags=bilinear,scale=1080:1920:flags=bicubic,colortemperature=temperature=8200:mix=0.8"
+    },
+    {
+      "file": "incoming/2026-11-02/B-R3-take1.mp4",
+      "in": 2.0,
+      "out": 3.3,
+      "soft": 0.8
+    },
+    {
+      "file": "incoming/2026-11-02/B-REV1-take1.mp4",
+      "in": 2.95,
+      "out": 4.03,
+      "crop": [
+        400,
+        711,
+        190,
+        380
+      ],
+      "fx": "scale=432:768:flags=bilinear,scale=1080:1920:flags=bicubic"
+    },
+    {
+      "file": "incoming/2026-11-02/B-REV2-take2.mp4",
+      "in": 0.0,
+      "out": 4.3,
+      "crop": [
+        400,
+        711,
+        160,
+        110
+      ],
+      "fx": "scale=432:768:flags=bilinear,scale=1080:1920:flags=bicubic",
+      "soft": 0.5
+    }
+  ],
+  "text": [
+    [
+      [
+        "pov: you wear this to open mat"
+      ],
+      0.0,
+      4.91
+    ],
+    [
+      [
+        "comment \"waitlist\" if you want one"
+      ],
+      7.63,
+      9.23
+    ]
+  ],
+  "y": 230,
+  "size": 52,
+  "music": {
+    "file": "incoming/2026-11-02/sparta-cut.mp3",
+    "start": 1.1,
+    "amb": 0.35
+  }
+}
