@@ -1,6 +1,6 @@
 """Video B assembly: reaction clips then the two-shot reveal, one uniform phone grade, native TikTok text.
 usage: assemble_b.py SPEC.json OUT [--root DIR]
-Spec: {"clips": [{"file", "in", "out", "soft"}], "text": [[[lines], start, end]], "y", "gap", "size"}
+Spec: {"clips": [{"file", "in", "out", "soft", "fx"}], "text": [[[lines], start, end]], "y", "gap", "size"}
 Paths in the spec are relative to --root (default: repo root)."""
 import argparse, json, os, subprocess, tempfile
 p = argparse.ArgumentParser(); p.add_argument('spec'); p.add_argument('out'); p.add_argument('--root', default=os.path.join(os.path.dirname(__file__), '../../..'))
@@ -10,7 +10,7 @@ args, chains, vl, al = [], [], [], []
 for i, c in enumerate(S['clips']):
     args += ['-i', os.path.join(a.root, c['file'])]
     d = c['out'] - c['in']
-    blur = f",gblur=sigma={c.get('soft', 0)}" if c.get('soft') else ''
+    blur = (f",gblur=sigma={c['soft']}" if c.get('soft') else '') + (f",{c['fx']}" if c.get('fx') else '')  # fx: per-shot colour match
     # one phone for every shot: same scale, frame rate, slight warmth, light grain
     chains.append(f"[{i}:v]trim={c['in']}:{c['out']},setpts=PTS-STARTPTS,scale=1080:1920:force_original_aspect_ratio=increase:flags=lanczos,"
                   f"crop=1080:1920,fps=30,setsar=1{blur},eq=saturation=0.96:contrast=1.02,noise=alls=7:allf=t[v{i}]")
