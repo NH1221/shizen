@@ -57,3 +57,10 @@ Goal: 5+ people comment "<number> waitlist" or sign up at waitlister.me/p/shizen
 - What improved is distribution, not retention or engagement. The windows differ (48 h vs ~4 h), so the reach gain is suggestive, not proven.
 - Most viewers left at 0:01. Frame 1 was an ink macro with two lines of text, which reads as "a print" before "a person". Next: frame 1 must show a person or scene readable in under 0.5 s, with one short text line.
 - Search terms reaching the account: "venum rash guard", "rash guards jiu jitsu". Use "rash guard jiu jitsu" in captions.
+
+## 3 Nov: open mat reveal v4 posted (TikTok 18:58, IG 22:07)
+- TikTok: https://www.tiktok.com/@shizenbjj/video/7704021626999934230 ; IG: https://www.instagram.com/shizenbjj/reel/DfS6p9LSmfT/
+- 4h read: 610 views (about 2.5x earn-the-back's 4h pace), 7 likes, 0 comments/shares/saves, avg 3.69 s of 9.3 s (about 40%), 12.4% full, 100% FYP, biggest drop at 0:01.
+- Read: the format travels and holds better; frame 1 lacks a reason to stay; the CTA at 7.6 s reaches about 15% of viewers.
+- Next-idea candidates: A "part 2" sequel with a tight moving face hook; B "tora or twin tigers?" comment vote; C same video with a fixed first second (1.0 s reactions, CTA earlier).
+- Decision rule at 03:06: comments still 0 with views climbing -> B; views on pace or avg watch up -> A; views under about 900 -> C.
