@@ -34,3 +34,9 @@ Known minor points, none blocking:
 - Back reveal zoomed much closer (crop 400x711): he fills the frame and the print reads big, so the seated crowd no longer frames him like a procession.
 - R2, the pass-by and the reveal are dropped to 432x768 and back up, plus slight blur, to hide the polished AI look.
 - 9.2 s total. Text 0.0 to 3.85 s. Scores as v1; pacing is tighter (no shot over 4.3 s, four cuts in the first 5 s).
+
+## v3 (3 Nov): music plus text held to the reveal. /ttevaluate PASS, 21/22
+- Music: "Sparta" by Arulo (Mixkit Stock Music Free License, commercial social use allowed, baked in). Track from 43.1 s. The strip-down sits under the pass-by (3.8 to 4.8 s) and the drop lands at 4.9 s, on the reveal's first frame (4.93 s), measured from the render's loudness envelope.
+- Gym ambience at 35% under the music; 0.35 s fade at the end for a clean loop. -14.7 LUFS.
+- The pov text now runs 0.0 to 4.91 s, across every reaction and the pass-by, and clears at the reveal.
+- Sound check moves to 2/2. Honesty stays 1/2 (realistic AIGC; label is Nic's call).
