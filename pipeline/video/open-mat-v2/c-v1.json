@@ -1,0 +1,78 @@
+{
+  "clips": [
+    {
+      "file": "incoming/2026-11-04/C-N1-take1.mp4",
+      "in": 0.0,
+      "out": 1.0,
+      "soft": 0.8
+    },
+    {
+      "file": "incoming/2026-11-04/C-N2-take1.mp4",
+      "in": 0.6,
+      "out": 1.6,
+      "soft": 0.8,
+      "fx": "scale=432:768:flags=bilinear,scale=1080:1920:flags=bicubic,colortemperature=temperature=8200:mix=0.8"
+    },
+    {
+      "file": "incoming/2026-11-04/C-N3-take1.mp4",
+      "in": 0.25,
+      "out": 1.25,
+      "soft": 0.8,
+      "fx": "scale=432:768:flags=bilinear,scale=1080:1920:flags=bicubic",
+      "crop": [
+        640,
+        1138,
+        0,
+        60
+      ]
+    },
+    {
+      "file": "incoming/2026-11-02/B-REV1-take1.mp4",
+      "in": 2.95,
+      "out": 4.03,
+      "crop": [
+        400,
+        711,
+        190,
+        380
+      ],
+      "fx": "scale=432:768:flags=bilinear,scale=1080:1920:flags=bicubic"
+    },
+    {
+      "file": "incoming/2026-11-02/B-REV2-take2.mp4",
+      "in": 0.0,
+      "out": 4.3,
+      "crop": [
+        400,
+        711,
+        160,
+        110
+      ],
+      "fx": "scale=432:768:flags=bilinear,scale=1080:1920:flags=bicubic",
+      "soft": 0.5
+    }
+  ],
+  "text": [
+    [
+      [
+        "pov: the new guy shows up in this"
+      ],
+      0.0,
+      4.06
+    ],
+    [
+      [
+        "comment \"waitlist\" if you want one"
+      ],
+      4.38,
+      6.38
+    ]
+  ],
+  "y": 230,
+  "size": 52,
+  "music": {
+    "file": "incoming/2026-11-02/sparta-cut.mp3",
+    "start": 1.95,
+    "amb": 0.35
+  }
+}
