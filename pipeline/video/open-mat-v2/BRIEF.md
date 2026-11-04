@@ -17,3 +17,7 @@ At 8 h, v4 had 688 views (+78 in 5 h), 0 comments, average watch 3.86 s of 9.3 s
 - N2 from `f006-tight.png` (the white-tee and green-tee men, seated)
 - N3 from `f037-tight.png` (people standing at the back wall; the foreground grapplers are removed)
 Every face and ethnicity must differ from the reel. Plain kit, no logos. Two runs each. Claude passes each before Flow.
+
+## Still passes (4 Nov, 03:35)
+- N1-b PASS (N1-a has a small mark between the brows). N2-b PASS (N2-a backup). N3-b PASS, cropped by Claude to `N3-b-crop.png` (the full frame was half empty floor).
+- Model: Gemini "smart" tier (Nano Banana Pro not offered). Judged on merit.
