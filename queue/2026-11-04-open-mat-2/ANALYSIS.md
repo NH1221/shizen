@@ -13,3 +13,10 @@
 - Scores: hook 2 (a moving face in frame 1, the fix being tested), curiosity 2, voice 2, legibility 2, sound 2, pacing 2 (a cut every 1.0 s up to the reveal), loop 2, comment pull 2, brand 2, cohesion 2, honesty 1 (realistic AIGC; label is Nic's call).
 - Caption: the new guy walked into open mat in this and nobody could focus 🐅 #bjj #jiujitsu #rashguard #nogi #peoplesreactions
 - Measure against v4 at the same checkpoints: views at 4 h and 8 h, % still watching at 0:01 (v4: 55-60%), average watch, comments.
+
+## v2 (Nic's notes, 4 Nov 09:01): /ttevaluate PASS, 21/22
+- N1: now 0.7 to 1.7 s of C-N1, after the head turn, so he only stares one way (wide eyes); cropped closer on the face.
+- N2: one person only (the man in olive), zoomed tight, dropped to 240x426 and softened, so it reads as a cheap phone zoom, not an AI render.
+- Text, BJJ-clear: "pov: the new white belt / shows up in this" (two lines; one line ran edge to edge).
+- Drop still on the reveal (4.0 s). Waitlist line unchanged.
+- Caption: new white belt walked into open mat in this and the whole room stopped rolling 🐅 be honest, would you roll with him? #bjj #jiujitsu #brazilianjiujitsu #nogi #rashguard
