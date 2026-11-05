@@ -64,3 +64,9 @@ Goal: 5+ people comment "<number> waitlist" or sign up at waitlister.me/p/shizen
 - Read: the format travels and holds better; frame 1 lacks a reason to stay; the CTA at 7.6 s reaches about 15% of viewers.
 - Next-idea candidates: A "part 2" sequel with a tight moving face hook; B "tora or twin tigers?" comment vote; C same video with a fixed first second (1.0 s reactions, CTA earlier).
 - Decision rule at 03:06: comments still 0 with views climbing -> B; views on pace or avg watch up -> A; views under about 900 -> C.
+
+## 5 Nov: take 2 v2 read (23 h) and next concept
+- Take 2 v2: 701 views, 8 likes, 1 comment, 1 save, avg 4.02 s of 8.4 s (48%, v4 41%), 14.7% full (v4 12.7%). Peaked at 3 h, flat after 6 h. Biggest drop still at 0:01.
+- Read: every post plateaus near 700 views (first test batches); the hook fix nudged retention, not reach. To break the plateau we need shares, saves and comments.
+- The first real comment came from the BJJ joke, not the product: "All for bro to get force fed his own hand on his first session" (SUPER MAN). Viewers want to see the new white belt humbled.
+- Next: "Part 2" as a TikTok reply to that comment. Frame 1 is action (him getting smashed and tapping); the payoff is him lying face-down after the roll, tigers across his back. Drip-versus-skill humour; the product is shown, never pitched.
