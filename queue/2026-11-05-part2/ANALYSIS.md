@@ -21,3 +21,8 @@ Post: Reply -> Reply with video on SUPER MAN's comment, upload this file.
 - Cut at 3.2 s: from about 3.3 s a bystander's triangle logo comes into the top of frame, and the old man's chest logo shows once he stands.
 - 5.5 s total; the Sparta drop is on the cut to shot 2 (2.3 s). Text and caption unchanged.
 - Scores as v1: the realism gain (no room jump) is offset by the shorter length (still 1 on length/loop).
+
+## v3 (Nic: "tapped out but cool rash guard"): /ttevaluate PASS, 20/22
+- Two-beat text: "he tapped in 40 seconds" during the headlock (0.0 to 2.28 s), then "but the drip didn't" on the drop and the tigers (2.3 to 5.5 s). The joke lands on the product shot, so the print is the punchline, not a pitch.
+- Curiosity moves to 2/2 (setup, then a twist on the payoff). Length stays 1.
+- Caption: lost the roll, won the fit 💀 who's tapping first at your gym? #bjj #jiujitsu #whitebelt #nogi #bjjhumor
