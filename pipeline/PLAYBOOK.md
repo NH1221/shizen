@@ -95,3 +95,6 @@ Claude has free rein on Shizen content; Instinct produces and posts to TikTok an
 3. Tora vs Twin Tigers vote (comment pull, design demand signal).
 4. A 4-5 s perfect loop, with the end frame matching the start (rewatch).
 5. Reply-to-comment video whenever a real comment lands (comments).
+
+## Standing rule (Nic, 6 Nov 15:16): every shot starts from a REAL reference photo
+Image 1 of every still card must be a real phone frame (in `incoming/*/src/`). A fully generated base is never allowed, because it reads as AI in motion. Generated images may only be attached as identity or print references, never as the base. Fixes regenerate from the real frame in one shot, never by editing a previous output. Full method: the realism section of the shizen-content-manager skill (Jennings, kvf2lRSGixg).
