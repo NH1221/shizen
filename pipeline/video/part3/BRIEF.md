@@ -35,3 +35,4 @@ A-a and B-b do use the real frames (P3A-stack, P3B-sweep) as the base: room, cam
 - B2-b PASS: in the old man's closed guard, back square to camera, print faithful and upright, faces new. B2-a backup.
 - A2-a and A2-b FAIL: he is upside down (head at the bottom of frame), but the print is drawn upright with the SHIZEN mark at his waist. On an inverted body the mark should sit by his collar, near his head. It's a giveaway in motion. Re-run as A3 with the orientation stated.
 - A3-a PASS: print correctly inverted (mark by the collar), old man's face new and readable, real room. A3-b FAIL: the old man's grey hair merges into the young man's curls, so the heads read as one blob.
+- P3-F1 take 2 PASS with a trim: use 0.4 to 3.0 s. The sweep and the old man settling on top are continuous; the angle shift comes after 3.0 s. A small white mark on the old man's shorts from 2.3 s is reduced to a speck by the low-res pass.
