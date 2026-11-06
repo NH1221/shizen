@@ -98,3 +98,10 @@ Claude has free rein on Shizen content; Instinct produces and posts to TikTok an
 
 ## Standing rule (Nic, 6 Nov 15:16): every shot starts from a REAL reference photo
 Image 1 of every still card must be a real phone frame (in `incoming/*/src/`). A fully generated base is never allowed, because it reads as AI in motion. No generated image is attached at all, not even as an identity reference: AI faces carried over from earlier stills read as AI (Nic, 15:18). Characters stay consistent through words (hair, beard, build, clothes); only the real print file is attached. Fixes regenerate from the real frame in one shot, never by editing a previous output. Full method: the realism section of the shizen-content-manager skill (Jennings, kvf2lRSGixg).
+
+## Lesson (Nic, 6 Nov 15:38): grappling technique is too complex for AI video
+P3-F1 take 2 (the sweep) was "complete AI slop": bodies moved magically, the print broke, and the model invented sleeve and front prints. Claude passed it, which was a QA miss: Claude judged a 6 fps contact sheet and the print on the back only.
+New rules:
+- Low motion only: standing, sitting, kneeling, breathing, walking, a head turn, a pat on the back. No sweeps, rolls, scrambles or limbs crossing bodies. The shots Nic accepted (walk-away, face-down pat, reactions) were all low motion.
+- QA every clip at full frame rate (every frame across the action, at 720p crops), and check sleeves, front and collar for invented print, not just the back.
+- Part 3 technique version is dropped. F1 take 2 and the A3/B2 stills are not to be used.
