@@ -21,3 +21,9 @@ Owner: Claude. Executor: Instinct. Nic approves the cut and any credit spend.
 
 ## Credits
 Two Omni 1.1 Flash 720p 4 s clips, about 14 credits. Needs Nic's okay before Flow.
+
+## Still passes (6 Nov, 14:05)
+- B-b PASS (he's on top inside the old man's closed guard, tigers square and clear). B-a backup.
+- A-a PASS (he's flattened on his back, the old man passing over him, print readable on the side of his back).
+- A-b FAIL: a front headlock, which repeats Part 2.
+- Shot order flipped: Shot 1 = B (in the guard, confident, then swept), Shot 2 = A (passed and pinned) with the drop.
