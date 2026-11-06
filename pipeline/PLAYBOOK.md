@@ -114,3 +114,6 @@ Video, not slideshow; deadline removed. One Flow account only; no switching acco
 - Part 2 stalled at 759 (+3 in 6 h). 11/4: 706. 11/3: 692. IG flat (165), 1 follower.
 - Search terms reaching us: "best rashguards bjj no-gi men", "best no gi outfit", "bjj no gi fightwear", "venum bjj no gi", "Elite rash guard" (buying intent).
 - Action: put those phrases into captions and on-screen text (search is the one channel that compounds after the FYP test batch ends). Part 3 caption gets "no gi rash guard". Queue a search-first post: "rating the best no gi rash guards at my gym" (POV, low motion, back prints only, Shizen last).
+
+## 6 Nov 22:24: second Flow "unusual activity" block
+C1v2 was blocked 14 min after a clean C1. The message cites browser extensions that modify the page, so the automated browser itself is the likely trigger, not volume. Fix to test: Nic (a human, normal browser, no automation) pastes Claude's cards into Flow himself and drops the outputs in the repo or chat. Instinct keeps everything else (stats, uploads, posting).
