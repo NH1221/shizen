@@ -105,3 +105,6 @@ New rules:
 - Low motion only: standing, sitting, kneeling, breathing, walking, a head turn, a pat on the back. No sweeps, rolls, scrambles or limbs crossing bodies. The shots Nic accepted (walk-away, face-down pat, reactions) were all low motion.
 - QA every clip at full frame rate (every frame across the action, at 720p crops), and check sleeves, front and collar for invented print, not just the back.
 - Part 3 technique version is dropped. F1 take 2 and the A3/B2 stills are not to be used.
+
+## 6 Nov 15:50: Nic's call
+Video, not slideshow; deadline removed. One Flow account only; no switching accounts to get around the "unusual activity" block. Plan: pass the C1/C2 stills now, generate both low-motion clips once Flow allows a submit (at the latest after the 17:09 refresh), then cut, QA and post.
