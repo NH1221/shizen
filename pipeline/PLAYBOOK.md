@@ -70,3 +70,28 @@ Goal: 5+ people comment "<number> waitlist" or sign up at waitlister.me/p/shizen
 - Read: every post plateaus near 700 views (first test batches); the hook fix nudged retention, not reach. To break the plateau we need shares, saves and comments.
 - The first real comment came from the BJJ joke, not the product: "All for bro to get force fed his own hand on his first session" (SUPER MAN). Viewers want to see the new white belt humbled.
 - Next: "Part 2" as a TikTok reply to that comment. Frame 1 is action (him getting smashed and tapping); the payoff is him lying face-down after the roll, tigers across his back. Drip-versus-skill humour; the product is shown, never pitched.
+
+## 6 Nov: new mandate (Nic, 13:47): first viral video (50k+ views)
+Claude has free rein on Shizen content; Instinct produces and posts to TikTok and IG @shizenbjj and sends Nic a link per video. Shizen only, isolated from Nic's personal and design work. Free allowances only: ONE Flow account (50 credits/day) plus free Gemini stills. No engagement manipulation, no identical reposts, and AI disclosure stays truthful.
+
+### Part 2 read (17 h)
+756 views, 8 likes, 0 comments, 0 shares, 1 save, avg 4.26 s, 33.1% full (best yet), drop at 0:02, 91.2% FYP / 8.8% Search, 0 follows. IG 165 plays, likes unknown.
+
+### Research notes (6 Nov)
+- AI label: TikTok requires the AI-generated toggle on realistic AI video. Content its detection flags as unlabeled is downranked in For You (one source cites a 30-40% impressions drop for a week after a first violation). Labelled content stays eligible for normal distribution. Part 2 went out unlabelled, so the label is ON for every post from now on.
+- Rewatch/loop rate is cited as the top signal; 15-30% rewatch on short clips counts as strong (agency sources, unverified).
+- Series: TikTok tends to recommend part 2 to viewers of part 1, which builds session depth and follows.
+- Shares, meaningful comments, saves and first-hour velocity decide expansion beyond the test batch.
+- Cadence: 1-2 posts/day for scale; consistency beats sporadic hits.
+
+### Daily production budget (one Flow account)
+- 50 credits/day. Omni 1.1 Flash 720p: 4 s = 7 credits, 6 s = 10.
+- Target 2 posts/day (around 12:30 and 19:30 UK), 2 clips each (about 14-20 credits per video), with about 10 kept for one re-roll.
+- Stills are free (Gemini). Stills-first for every concept; Claude passes every still and clip.
+
+### Experiment queue (one main variable per post)
+1. Part 3 "best rash guard / worst guard": pun hook + tag-a-friend caption (shares).
+2. Part 4 "the old guy's POV": same series from the other side (series pull, follows).
+3. Tora vs Twin Tigers vote (comment pull, design demand signal).
+4. A 4-5 s perfect loop, with the end frame matching the start (rewatch).
+5. Reply-to-comment video whenever a real comment lands (comments).
