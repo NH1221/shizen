@@ -108,3 +108,9 @@ New rules:
 
 ## 6 Nov 15:50: Nic's call
 Video, not slideshow; deadline removed. One Flow account only; no switching accounts to get around the "unusual activity" block. Plan: pass the C1/C2 stills now, generate both low-motion clips once Flow allows a submit (at the latest after the 17:09 refresh), then cut, QA and post.
+
+## 6 Nov 19:37 pull
+- 7-day: 2.9K views (+257%), 32 likes, 1 comment, 0 shares, 4 profile views. FYP 95.9%, Search 3.8%.
+- Part 2 stalled at 759 (+3 in 6 h). 11/4: 706. 11/3: 692. IG flat (165), 1 follower.
+- Search terms reaching us: "best rashguards bjj no-gi men", "best no gi outfit", "bjj no gi fightwear", "venum bjj no gi", "Elite rash guard" (buying intent).
+- Action: put those phrases into captions and on-screen text (search is the one channel that compounds after the FYP test batch ends). Part 3 caption gets "no gi rash guard". Queue a search-first post: "rating the best no gi rash guards at my gym" (POV, low motion, back prints only, Shizen last).
