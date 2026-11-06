@@ -36,3 +36,10 @@ A-a and B-b do use the real frames (P3A-stack, P3B-sweep) as the base: room, cam
 - A2-a and A2-b FAIL: he is upside down (head at the bottom of frame), but the print is drawn upright with the SHIZEN mark at his waist. On an inverted body the mark should sit by his collar, near his head. It's a giveaway in motion. Re-run as A3 with the orientation stated.
 - A3-a PASS: print correctly inverted (mark by the collar), old man's face new and readable, real room. A3-b FAIL: the old man's grey hair merges into the young man's curls, so the heads read as one blob.
 - P3-F1 take 2 PASS with a trim: use 0.4 to 3.0 s. The sweep and the old man settling on top are continuous; the angle shift comes after 3.0 s. A small white mark on the old man's shorts from 2.3 s is reduced to a speck by the low-res pass.
+
+## Part 3 v2: low motion (6 Nov, 14:45)
+- The technique version is dead (Nic: slop). F1 take 2, A3-*, B2-* and the A-/B- stills are banned.
+- Flow is locked out ("unusual activity"); no retries until it recovers. Stills are prepped meanwhile (free).
+- C1 "best rash guard in the gym": `src/P3C-seated-back.png` (real f004 crop: a person sitting on the mat, back square to the camera, printed rash guard). Becomes him, waiting for his round.
+- C2 "worst guard in the gym": `incoming/2026-11-05/src/P2-turtle.png` (real), new generation: alone, face-down and spent after the roll.
+- Inputs per card: the real frame plus `brand/print-backs/Twin-Tigers_back.jpg` only.
