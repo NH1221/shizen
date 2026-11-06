@@ -27,3 +27,6 @@ Two Omni 1.1 Flash 720p 4 s clips, about 14 credits. Needs Nic's okay before Flo
 - A-a PASS (he's flattened on his back, the old man passing over him, print readable on the side of his back).
 - A-b FAIL: a front headlock, which repeats Part 2.
 - Shot order flipped: Shot 1 = B (in the guard, confident, then swept), Shot 2 = A (passed and pinned) with the drop.
+
+## Fact check (15:20)
+A-a and B-b do use the real frames (P3A-stack, P3B-sweep) as the base: room, camera, poles, people on the wall and poses all match. But both people were rebuilt from AI references (REV2-final-a, S1-a), so the faces are AI-derived. Both stills are withdrawn. Re-run with only the real frame plus the real print file.
