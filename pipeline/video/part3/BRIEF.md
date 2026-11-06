@@ -43,3 +43,4 @@ A-a and B-b do use the real frames (P3A-stack, P3B-sweep) as the base: room, cam
 - C1 "best rash guard in the gym": `src/P3C-seated-back.png` (real f004 crop: a person sitting on the mat, back square to the camera, printed rash guard). Becomes him, waiting for his round.
 - C2 "worst guard in the gym": `incoming/2026-11-05/src/P2-turtle.png` (real), new generation: alone, face-down and spent after the roll.
 - Inputs per card: the real frame plus `brand/print-backs/Twin-Tigers_back.jpg` only.
+- C1-a FAIL: short sleeves (the product is long sleeve); the man in the blue-and-white top behind looks teenage. The print is faithful and the room is real. Re-run as C1v2.
