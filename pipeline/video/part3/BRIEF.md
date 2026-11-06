@@ -30,3 +30,7 @@ Two Omni 1.1 Flash 720p 4 s clips, about 14 credits. Needs Nic's okay before Flo
 
 ## Fact check (15:20)
 A-a and B-b do use the real frames (P3A-stack, P3B-sweep) as the base: room, camera, poles, people on the wall and poses all match. But both people were rebuilt from AI references (REV2-final-a, S1-a), so the faces are AI-derived. Both stills are withdrawn. Re-run with only the real frame plus the real print file.
+
+## Round 2 stills (real frame + print only), 14:25
+- B2-b PASS: in the old man's closed guard, back square to camera, print faithful and upright, faces new. B2-a backup.
+- A2-a and A2-b FAIL: he is upside down (head at the bottom of frame), but the print is drawn upright with the SHIZEN mark at his waist. On an inverted body the mark should sit by his collar, near his head. It's a giveaway in motion. Re-run as A3 with the orientation stated.
