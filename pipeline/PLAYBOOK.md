@@ -116,4 +116,8 @@ Video, not slideshow; deadline removed. One Flow account only; no switching acco
 - Action: put those phrases into captions and on-screen text (search is the one channel that compounds after the FYP test batch ends). Part 3 caption gets "no gi rash guard". Queue a search-first post: "rating the best no gi rash guards at my gym" (POV, low motion, back prints only, Shizen last).
 
 ## 6 Nov 22:24: second Flow "unusual activity" block
-C1v2 was blocked 14 min after a clean C1. The message cites browser extensions that modify the page, so the automated browser itself is the likely trigger, not volume. Fix to test: Nic (a human, normal browser, no automation) pastes Claude's cards into Flow himself and drops the outputs in the repo or chat. Instinct keeps everything else (stats, uploads, posting).
+C1v2 was blocked 14 min after a clean C1. Cause unknown: the message is generic (it mentions page-modifying extensions as one possibility) and credit headroom doesn't rule out other checks. A possible option, Nic's choice only: Nic (a human, normal browser, no automation) pastes Claude's cards into Flow himself and drops the outputs in the repo or chat. Instinct keeps everything else (stats, uploads, posting).
+
+## 7 Nov 01:37 pull
+- Part 2: 760 views (+1), avg 4.26 s, 33.1% full, FYP 90.5% / Search 9.5%, drop at 0:02, 0 follows. IG newest 165, 9 posts, 1 follower. No growth.
+- Flow account signed out at Nic's request (22:52). No Flow use, sign-in or polling until there is real site-side recovery and new direction from Nic. Part 3 paused: no passed stills.
