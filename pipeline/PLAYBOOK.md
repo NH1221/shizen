@@ -144,4 +144,4 @@ Gemini makes stills from the real Photos originals, but (1) no full-resolution f
 
 ## 7 Nov 19:39 pull
 - Part 2: 772 views (+7), avg 4.23 s, 32.8% full, drop at 0:02, Search 11.0% (from 10.1%), 0 follows/comments/shares. IG 165, no comments.
-- Learning: Part 2's search share keeps rising slowly while For You has stopped. Search is now the only channel still adding views to old posts. No creative conclusion changes: no winner, no buying signal, Spanish keyword idea still untested.
+- Learning (Part 2 only): its search share keeps rising slowly as views flatten, which fits most of its small new-view tail coming from search. Rounded shares don't prove search is the only source, and this says nothing about other posts. No creative conclusion changes: no winner, no buying signal, Spanish keyword idea still untested.
