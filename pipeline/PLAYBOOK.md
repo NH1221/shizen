@@ -130,3 +130,10 @@ C1v2 was blocked 14 min after a clean C1. Cause unknown: the message is generic 
 - IG: latest 165 plays, no likes or comments visible; 9 posts, 1 follower.
 - Read: no winner. The search share drift (+0.2 pp) is too small to call. Hypothesis to test later, one variable: add "jiu jitsu brasileño" as one caption keyword on a post, then compare its Search share at 23 h. Not validated.
 - Production: parked until a browser with file upload is set up (Nic's decision pending).
+
+## Working asset route (verified 7 Nov 14:22, santonmanton only)
+1. Google Photos web on santonmanton: Import, upload the real originals (Original-quality browser-upload preference, approved by Nic 14:18; no phone backup, no storage purchase).
+2. Gemini app, Create image: More uploads > Google Photos picker, select the files, Insert. Clean thumbnails, no red cards.
+3. Prompts name images by content and order ("image 1 = the real photo") because attachment order follows the selection order.
+Not yet verified: moving a generated still from Gemini into Flow for video.
+Uploaded so far: Twin-Tigers_back.jpg, P3C-seated-back.png, P2-turtle.png.
