@@ -124,3 +124,9 @@ C1v2 was blocked 14 min after a clean C1. Cause unknown: the message is generic 
 
 ## 7 Nov 07:38 pull
 - Part 2: 763 (+3), avg 4.25 s, 33.1% full, Search 9.9% (still rising share), 0 follows. IG unchanged. Production paused (Flow signed out).
+
+## 7 Nov 13:39 pull
+- Part 2: 765 views, 8 likes, 1 save, 0 follows, avg 4.25 s, 33% full, FYP 89.9% / Search 10.1%. Search terms are now almost all "jiu jitsu brasileño" variants (Spanish), small absolute volume.
+- IG: latest 165 plays, no likes or comments visible; 9 posts, 1 follower.
+- Read: no winner. The search share drift (+0.2 pp) is too small to call. Hypothesis to test later, one variable: add "jiu jitsu brasileño" as one caption keyword on a post, then compare its Search share at 23 h. Not validated.
+- Production: parked until a browser with file upload is set up (Nic's decision pending).
