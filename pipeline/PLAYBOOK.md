@@ -140,4 +140,8 @@ Uploaded so far: Twin-Tigers_back.jpg, P3C-seated-back.png, P2-turtle.png.
 
 ## 7 Nov 14:55: transfer blocker (hard limit in the current setup)
 Gemini makes stills from the real Photos originals, but (1) no full-resolution file can be exported (Download gives no usable file and there's no Save to Photos), and (2) Flow's start-frame picker only offers a local upload, which this browser setup can't feed. So a passed still can't reach Flow for video. Nic (14:18) rejected any PC or browser dependency and manual steps; the loop must stay remote. Workspace is not authorised. Production stays paused until a genuinely new supported remote route appears. Six-hour analytics continue.
-- 15:09: on santon, the More menu for C1's generated image has no Export to Docs (help page doesn't match the account). It does have Copy image, which needs a clipboard paste into Flow, and clipboard paste isn't available in this setup. Still no route.
+- 15:09: on santon, the More menu for C1's generated image has no Export to Docs (help page doesn't match the account). It does have Copy image, but no supported paste destination is available to us (not tested end to end; not a confirmed Flow refusal). Still no route.
+
+## 7 Nov 19:39 pull
+- Part 2: 772 views (+7), avg 4.23 s, 32.8% full, drop at 0:02, Search 11.0% (from 10.1%), 0 follows/comments/shares. IG 165, no comments.
+- Learning: Part 2's search share keeps rising slowly while For You has stopped. Search is now the only channel still adding views to old posts. No creative conclusion changes: no winner, no buying signal, Spanish keyword idea still untested.
