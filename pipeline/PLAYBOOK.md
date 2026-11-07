@@ -137,3 +137,6 @@ C1v2 was blocked 14 min after a clean C1. Cause unknown: the message is generic 
 3. Prompts name images by content and order ("image 1 = the real photo") because attachment order follows the selection order.
 Not yet verified: moving a generated still from Gemini into Flow for video.
 Uploaded so far: Twin-Tigers_back.jpg, P3C-seated-back.png, P2-turtle.png.
+
+## 7 Nov 14:55: transfer blocker (hard limit in the current setup)
+Gemini makes stills from the real Photos originals, but (1) no full-resolution file can be exported (Download gives no usable file and there's no Save to Photos), and (2) Flow's start-frame picker only offers a local upload, which this browser setup can't feed. So a passed still can't reach Flow for video. Routes left are owner decisions: a browser with file upload (Claude in Chrome or the desktop app), or Nic doing the download and Flow upload by hand. No production until one is chosen.
