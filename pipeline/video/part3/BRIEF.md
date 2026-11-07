@@ -44,3 +44,4 @@ A-a and B-b do use the real frames (P3A-stack, P3B-sweep) as the base: room, cam
 - C2 "worst guard in the gym": `incoming/2026-11-05/src/P2-turtle.png` (real), new generation: alone, face-down and spent after the roll.
 - Inputs per card: the real frame plus `brand/print-backs/Twin-Tigers_back.jpg` only.
 - C1-a FAIL: short sleeves (the product is long sleeve); the man in the blue-and-white top behind looks teenage. The print is faithful and the room is real. Re-run as C1v2.
+- C1v2-a (preview only, 7 Nov 14:32): provisional PASS. Long sleeves, print faithful, background adults with changed faces, real room. Watch: the pose was redrawn cross-legged (the source had one leg out), and the print sits very flat with no fabric folds; the low-res edit pass should soften it. Final pass waits for the full-resolution file.
