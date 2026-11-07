@@ -121,3 +121,6 @@ C1v2 was blocked 14 min after a clean C1. Cause unknown: the message is generic 
 ## 7 Nov 01:37 pull
 - Part 2: 760 views (+1), avg 4.26 s, 33.1% full, FYP 90.5% / Search 9.5%, drop at 0:02, 0 follows. IG newest 165, 9 posts, 1 follower. No growth.
 - Flow account signed out at Nic's request (22:52). No Flow use, sign-in or polling until there is real site-side recovery and new direction from Nic. Part 3 paused: no passed stills.
+
+## 7 Nov 07:38 pull
+- Part 2: 763 (+3), avg 4.25 s, 33.1% full, Search 9.9% (still rising share), 0 follows. IG unchanged. Production paused (Flow signed out).
