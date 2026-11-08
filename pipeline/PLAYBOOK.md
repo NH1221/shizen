@@ -150,3 +150,4 @@ Gemini makes stills from the real Photos originals, but (1) no full-resolution f
 - Part 2: 773 (+1), avg 4.23 s, 32.9% full, FYP 89.0% / Search 11.0%, 0 follows. Visible top queries (partial): jiu jitsu brasileño variants, plus "jiujitsu" and "bjj". IG unchanged (165). No creative signal; production still paused at the export/Flow-input gap.
 - 8 Nov 07:41: unchanged from 01:40 (Part 2 at 773, IG at 165).
 - 8 Nov 13:42: Part 2 774 (+1); all other metrics unchanged. IG 165.
+- 8 Nov 19:43: Part 2 774 (no change); avg 4.22 s, Search 11.1%, rounding-level shifts only. IG 165.
