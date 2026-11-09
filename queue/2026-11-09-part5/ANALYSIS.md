@@ -13,3 +13,7 @@ Post: 19:00 GMT 9 Nov (about 6 h after Part 4), TikTok then IG, AI label ON.
 - Instinct found the camo pattern and a white leg mark still visible at about (160, 690) in v1. The keep-sharp ellipse around head 1 reached up into the man behind.
 - Mask rebuilt: sharp zones tightened to the two heads only, full blur over the left background (x below 165, y below 560 in clip pixels), gblur 16. Checked full-res at 2.6 s and 0.5 / 5.5 s: no pattern, no mark, heads sharp, prints untouched.
 - Posting file: video-v2-post.mp4 (v1 files must not be posted).
+
+## Posted (9 Nov)
+- TikTok: https://www.tiktok.com/@shizenbjj/video/7706254742221180182 (submitted 19:24 after the content check passed; under review)
+- Instagram: https://www.instagram.com/shizenbjj/reel/DfiE122vyoF/
