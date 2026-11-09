@@ -6,3 +6,4 @@
 - Text: "pov: you spent more on the rash guard" (0 to about 2.5 s), "than on the membership" on the drop.
 - Caption: spent more on the rash guard than the membership 🐅 tag the guy at your gym who did this #bjj #nogi #rashguard #nogibjj #bjjhumor
 - P4 take 1 FAIL (9 Nov 09:25): main man and Tora print pass (faithful to the art); but the background faces aren't changed: the bearded man on the left and the man in black in the middle match the source, and the top-middle person's patterned sleeves remain. Take 2 names a concrete change for each person.
+- P4 take 2 PASS (09:40): main, white-tee and middle men clearly changed; print faithful; long plain sleeves. The swoosh on the top-centre shirt and the right-edge face are removed by a static crop in the edit (drop the top and right bands). GO for the 6 s clip.
