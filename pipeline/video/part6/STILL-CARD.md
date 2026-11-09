@@ -1,0 +1,9 @@
+# Part 6 still card (Tsuru), full
+Flow image mode, the 0-credit image model shown in the UI, 9:16, x1, one take.
+Image 1: `brand/print-backs/Tsuru_back.jpg`. Image 2: `incoming/2026-11-06/src/P3C-seated-back.png`.
+
+Prompt (paste verbatim):
+
+Edit image 2, the real photo. Image 2 is the base: keep its camera angle, the seated pose, the ponytail, the room, the light, the phone grain and softness exactly as they are, and keep real skin texture. Image 1 is only the artwork to print. Change only these things, all in this one edit. First, the woman sitting in the foreground with her back to the camera stays a woman: she becomes a woman in her late twenties with a dark brown ponytail and a completely different face from the original; she wears a cream LONG-SLEEVE rash guard, the same cream as the background of image 1, with plain cream sleeves running all the way down to her wrists and no print on the sleeves or front, and the artwork from image 1 printed on her back exactly as drawn: the crane with spread wings below the red sun, centred between her shoulder blades, with the SHIZEN mark just below the collar, following the angle of her back, and plain black shorts. Second, the person in the blue and white long-sleeve top behind her becomes a clearly adult man in his thirties with a short beard, in a plain navy top. Third, every other person in the background gets a clearly different face and hair from the original and is clearly an adult between 25 and 45, and all clothing is plain black, grey or navy with no logos, patterns or writing anywhere. Keep the image vertical, the same framing as image 2. No text, logos or writing anywhere except the SHIZEN mark on the print.
+
+Pass checks: she reads clearly as an adult woman; long plain sleeves; Tsuru faithful (crane, red sun, mark) and following her back; every background person changed and adult. Leftover background faces can be handled with the focus-falloff edit, not more takes.

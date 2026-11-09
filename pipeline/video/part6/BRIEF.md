@@ -1,24 +1,22 @@
-# Part 6: "she said it was her first class / first class rash guard though"
-## Why (from data so far, no retention inferred where we don't have it)
-- Part 3 at 4 h: 438 TikTok views, 3 likes, 0 comments. That's in the same range as earlier posts (open mat v4 610 at 4 h, earn the back 248 at 4 h): the one-shot pun format holds reach but hasn't broken out, and comments are still 0.
-- Every Shizen video so far has a male subject. One variable this time: a woman wearing the print, same pun-plus-drop format. Women are a large share of the rash guard market and of BJJ TikTok, and nothing we've posted speaks to them.
-## Shot
-- One low-motion shot, Flow-native, TSURU print (crane and red sun on cream), per Nic's 9 Nov steering to move beyond the tigers.
-- Base: `incoming/2026-11-09/src/P6-seated-back.png`, crop of real frame 3.5 s (`f003-5.jpg`, x500-1080, y880-1911): a woman with a ponytail sitting on the mat, back three-quarter to camera.
-- Clip: arms planted; only breathing, the ponytail settling, and a small head turn. Background people keep stretching.
-- Edit: same phone treatment, plus the focus-falloff mask if any background face survives.
-## Text and caption
-- 0 to 2.5 s: "she said it was her first class"
-- Drop: "first class rash guard though"
-- Caption: she said it was her first class 🐅 tag the girl at your gym who sandbagged you #bjj #nogi #rashguard #womensbjj #bjjgirls
-- Hypothesis: a female subject plus womensbjj tags reaches a new cluster: views at 4 h above Part 3's 438.
-## Source change (9 Nov 13:12): no new upload needed
-Flow upload failed this afternoon. Use the real frame already uploaded to Flow this morning instead: `P3C-seated-back.png` (project c69fc794, from real frame f004). It's the same woman with a ponytail sitting back-to-camera, from a different moment of the reel. Tora is already in project b93f4822. Use the picker's "Select project" to pull each asset; no generated image is used as a reference.
-## 9 Nov 13:23: Flow "unusual activity" on the P6 still (not charged). Part 6 stays prepared but blocked at still generation. A new day alone isn't a recovery signal; the next Flow submit needs a real recovery sign or another supported route.
-- Edit spec ready: `pipeline/video/part6/p6-v1.json` (two-line text beats, drop at 2.5 s, same phone treatment). Crop and focus mask to be set from the real clip.
-- No Gemini still: no working Gemini-to-Flow transfer has been shown (Download gave no usable file; still unverified, not a permanent rule). Not worth a generation.
+# Part 6: "she said it was her first class / first class rash guard though" (Tsuru)
+Status: prepared, blocked at still generation (Flow "unusual activity", 9 Nov 13:23). No submit until there's a real recovery sign or another supported route.
 
-## Design change (Nic, 9 Nov 22:09): Tsuru
-- Print: `brand/print-backs/Tsuru_back.jpg` (1250x1480, cream ground). The garment is the same cream as the file's background.
-- Real base unchanged: `P3C-seated-back.png` (already in Flow project c69fc794). Tsuru must be uploaded to Flow once, when uploads and generation work again.
-- Text unchanged ("she said it was her first class" / "first class rash guard though"). Caption: she said it was her first class 🕊️ tag the girl at your gym who sandbagged you #bjj #nogi #rashguard #womensbjj #bjjgirls
+## Why
+- Part 3 at 4 h: 438 TikTok views, 3 likes, 0 comments, within the range of earlier posts. The pun format holds reach but hasn't broken out.
+- One variable: a woman wearing the print (every earlier subject was male), plus a non-tiger design (Nic, 9 Nov 22:09: "incorporate the other designs").
+- Test: TikTok views at 4 h above Part 3's 438.
+
+## Assets
+- Real base: `incoming/2026-11-06/src/P3C-seated-back.png` (real crop of reel frame f004; already in Flow project c69fc794). A woman with a ponytail sitting with her back to the camera.
+- Print: `brand/print-backs/Tsuru_back.jpg` (crane and red sun, gold SHIZEN mark, cream ground). Needs one upload to Flow when uploads work.
+- Order: image 1 = Tsuru print, image 2 = P3C real base. No generated image as a reference.
+- Full still card: `pipeline/video/part6/STILL-CARD.md`.
+
+## Clip (after the still passes)
+Omni 1.1 Flash, 720p, 9:16, 6 s, x1, Frames to Video from the passed still. Arms planted; only breathing, her ponytail settling and a small head turn. Same fixed rules as Part 4 (plain sleeves, print fixed, no text or logos, no zoom).
+
+## Edit
+- Spec: `pipeline/video/part6/p6-v1.json` (preparatory; clip path is a placeholder; crop and focus mask set after seeing the real clip).
+- Text: "she said it was / her first class" 0.0 to 2.48 s; "first class / rash guard though" 2.5 to 5.8 s on the Sparta drop.
+- Caption: she said it was her first class 🕊️ tag the girl at your gym who sandbagged you #bjj #nogi #rashguard #womensbjj #bjjgirls
+- Post: TikTok then IG, AI label ON.
