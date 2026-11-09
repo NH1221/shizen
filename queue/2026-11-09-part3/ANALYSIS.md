@@ -22,7 +22,7 @@ Post: TikTok then IG, AI-generated label ON, Shizen only.
 
 ## Music licence record (verified by Instinct, 9 Nov 08:54)
 - Track: "Sparta" by Arulo, listed at https://mixkit.co/free-stock-music/trap/ (the old discover URL now returns no results).
-- Licence: Mixkit Stock Music Free License, https://mixkit.co/license/modal/musicFree/. Instinct's paraphrase of the current page: free for commercial and non-commercial use; allows download, copying, modification, distribution and public performance on any web or social platform, including ads. Verbatim quote still to be pasted here.
+- Licence: Mixkit Stock Music Free License, https://mixkit.co/license/modal/musicFree/. Verbatim (retrieved by Instinct 9 Nov from that page): "Items under the Mixkit Stock Music Free License can be used in your commercial and non-commercial projects for free." and "You’re permitted to download, copy, modify, distribute and publicly perform the Music Items on any web or social media platform, including internet-based video on demand services, podcasts and advertisements."
 - Audio in the file: Sparta trim (sha256 91d6af08f5152622..., original 42.0 to 54.0 s) from 45.43 s, plus clip ambience at 45%. Drop measured at 2.55 s; text change at 2.50 s.
 
 ## Posted (9 Nov)
