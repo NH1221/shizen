@@ -160,3 +160,14 @@ Learning: when limbs move, the model invents detail that wasn't in the still (wr
 
 ## Flow block pattern (hypothesis, not established)
 Blocks so far: 6 Nov 14:36 (after a run of image and video submits that afternoon), 6 Nov 22:17 (14 min after one still), 9 Nov 13:17 (after 7 generations since 07:57: 4 stills, 3 clips, plus a block of uploads). Cause unknown. Pacing to test from 10 Nov: at most 4 submits a day per account, at least 20 min apart, stills and clip for one video in one sitting, and stop at the first warning.
+
+## Design rotation (from 9 Nov, Nic: "incorporate the other designs")
+The garment colour is each file's background colour; prompts must say so, or the model defaults to cream.
+| Next | Design | File | Garment | Planned use |
+|---|---|---|---|---|
+| Part 6 | Tsuru (crane, red sun) | Tsuru_back.jpg | cream | woman, "first class" |
+| Part 7 | Ryu (gold dragon) | Ryu_back.jpg | navy | "the coach's rash guard": the grey-bearded older man seated, back to camera |
+| Part 8 | Hebi (coiled snake) | Hebi_back.jpg | black | "rolls like a snake / taps like one too" |
+| Part 9 | Twin Koi | Twin-Koi_back.jpg | charcoal | "pick your partner" vote: Koi vs Ryu |
+| later | Nami (waves), Hebi-Mark | Nami_back.jpg, Hebi-Mark_back.jpg | navy, black | |
+No more tiger-only posts until each of these has run once.

@@ -3,7 +3,7 @@
 - Part 3 at 4 h: 438 TikTok views, 3 likes, 0 comments. That's in the same range as earlier posts (open mat v4 610 at 4 h, earn the back 248 at 4 h): the one-shot pun format holds reach but hasn't broken out, and comments are still 0.
 - Every Shizen video so far has a male subject. One variable this time: a woman wearing the print, same pun-plus-drop format. Women are a large share of the rash guard market and of BJJ TikTok, and nothing we've posted speaks to them.
 ## Shot
-- One low-motion shot, Flow-native, Tora print.
+- One low-motion shot, Flow-native, TSURU print (crane and red sun on cream), per Nic's 9 Nov steering to move beyond the tigers.
 - Base: `incoming/2026-11-09/src/P6-seated-back.png`, crop of real frame 3.5 s (`f003-5.jpg`, x500-1080, y880-1911): a woman with a ponytail sitting on the mat, back three-quarter to camera.
 - Clip: arms planted; only breathing, the ponytail settling, and a small head turn. Background people keep stretching.
 - Edit: same phone treatment, plus the focus-falloff mask if any background face survives.
@@ -17,3 +17,8 @@ Flow upload failed this afternoon. Use the real frame already uploaded to Flow t
 ## 9 Nov 13:23: Flow "unusual activity" on the P6 still (not charged). Part 6 stays prepared but blocked at still generation. A new day alone isn't a recovery signal; the next Flow submit needs a real recovery sign or another supported route.
 - Edit spec ready: `pipeline/video/part6/p6-v1.json` (two-line text beats, drop at 2.5 s, same phone treatment). Crop and focus mask to be set from the real clip.
 - No Gemini still: no working Gemini-to-Flow transfer has been shown (Download gave no usable file; still unverified, not a permanent rule). Not worth a generation.
+
+## Design change (Nic, 9 Nov 22:09): Tsuru
+- Print: `brand/print-backs/Tsuru_back.jpg` (1250x1480, cream ground). The garment is the same cream as the file's background.
+- Real base unchanged: `P3C-seated-back.png` (already in Flow project c69fc794). Tsuru must be uploaded to Flow once, when uploads and generation work again.
+- Text unchanged ("she said it was her first class" / "first class rash guard though"). Caption: she said it was her first class 🕊️ tag the girl at your gym who sandbagged you #bjj #nogi #rashguard #womensbjj #bjjgirls
