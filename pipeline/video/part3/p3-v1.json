@@ -1,0 +1,8 @@
+{
+  "clips": [
+    {"file": "incoming/2026-11-09/P3-C1-clip-take1.mp4", "in": 0.0, "out": 5.8, "soft": 0.8, "fx": "scale=432:768:flags=bilinear,scale=1080:1920:flags=bicubic"}
+  ],
+  "text": [[["best rash guard in the gym"], 0.0, 2.48], [["worst guard in the gym"], 2.5, 5.8]],
+  "y": 300, "size": 52,
+  "music": {"file": "incoming/2026-11-02/sparta-cut.mp3", "start": 3.53, "amb": 0.45}
+}
