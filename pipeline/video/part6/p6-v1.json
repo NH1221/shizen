@@ -1,0 +1,36 @@
+{
+  "clips": [
+    {
+      "file": "incoming/2026-11-10/P6-clip-take1.mp4",
+      "in": 0.0,
+      "out": 5.8,
+      "soft": 0.8,
+      "fx": "scale=432:768:flags=bilinear,scale=1080:1920:flags=bicubic"
+    }
+  ],
+  "text": [
+    [
+      [
+        "she said it was",
+        "her first class"
+      ],
+      0.0,
+      2.48
+    ],
+    [
+      [
+        "first class",
+        "rash guard though"
+      ],
+      2.5,
+      5.8
+    ]
+  ],
+  "y": 260,
+  "size": 52,
+  "music": {
+    "file": "incoming/2026-11-02/sparta-cut.mp3",
+    "start": 3.43,
+    "amb": 0.45
+  }
+}

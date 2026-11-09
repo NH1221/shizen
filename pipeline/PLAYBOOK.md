@@ -157,3 +157,6 @@ Gemini makes stills from the real Photos originals, but (1) no full-resolution f
 ## 9 Nov: first fully remote Flow-native video (Part 3)
 Route that works: real originals uploaded via Flow Ingredients > Upload media; still made in Flow image mode (0 credits); Frames to Video from that still. No Gemini export needed.
 Learning: when limbs move, the model invents detail that wasn't in the still (writing appeared on the sleeve when the arm lifted). Keep arms planted; animate only breathing, head turns and the background.
+
+## Flow block pattern (hypothesis, not established)
+Blocks so far: 6 Nov 14:36 (after a run of image and video submits that afternoon), 6 Nov 22:17 (14 min after one still), 9 Nov 13:17 (after 7 generations since 07:57: 4 stills, 3 clips, plus a block of uploads). Cause unknown. Pacing to test from 10 Nov: at most 4 submits a day per account, at least 20 min apart, stills and clip for one video in one sitting, and stop at the first warning.
