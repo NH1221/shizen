@@ -14,6 +14,6 @@
 - Hypothesis: a female subject plus womensbjj tags reaches a new cluster: views at 4 h above Part 3's 438.
 ## Source change (9 Nov 13:12): no new upload needed
 Flow upload failed this afternoon. Use the real frame already uploaded to Flow this morning instead: `P3C-seated-back.png` (project c69fc794, from real frame f004). It's the same woman with a ponytail sitting back-to-camera, from a different moment of the reel. Tora is already in project b93f4822. Use the picker's "Select project" to pull each asset; no generated image is used as a reference.
-## 9 Nov 13:23: Flow "unusual activity" on the P6 still (not charged). Part 6 moves to tomorrow.
+## 9 Nov 13:23: Flow "unusual activity" on the P6 still (not charged). Part 6 stays prepared but blocked at still generation. A new day alone isn't a recovery signal; the next Flow submit needs a real recovery sign or another supported route.
 - Edit spec ready: `pipeline/video/part6/p6-v1.json` (two-line text beats, drop at 2.5 s, same phone treatment). Crop and focus mask to be set from the real clip.
-- No Gemini still: a Gemini still can't reach Flow (no export), so it can't become motion. Not worth a generation.
+- No Gemini still: no working Gemini-to-Flow transfer has been shown (Download gave no usable file; still unverified, not a permanent rule). Not worth a generation.
