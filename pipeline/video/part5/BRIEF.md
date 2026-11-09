@@ -7,3 +7,4 @@
 - Caption: which one are you rolling in? comment 1 or 2 🐅 #bjj #nogi #rashguard #nogibjj #jiujitsu
 - Hypothesis: a direct, easy vote lifts comments above 0 (every post so far: 0 to 1). Success: 5+ comments at 23 h.
 - P5 take 1 FAIL (10:25): foreground pass (Twin Tigers left faithful, Tora right follows the angled back, plain long sleeves, new faces). Background: the central man in the black long sleeve and the curly-haired man leaning bottom-left keep the source faces. Take 2 names each person.
+- P5 take 2 PASS with an edit treatment (10:40): foreground correct (prints faithful, plain long sleeves, new faces); centre and right background men changed. The remaining background faces (left leaning man, top-left man, blond edge man) are removed by a phone-style focus falloff in the edit: background above the two men blurred (feathered mask, the two heads kept sharp), plus a small left-edge crop for the white mark. Prototype checked on the still. No more still takes.
