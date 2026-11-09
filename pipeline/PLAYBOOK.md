@@ -152,3 +152,4 @@ Gemini makes stills from the real Photos originals, but (1) no full-resolution f
 - 8 Nov 13:42: Part 2 774 (+1); all other metrics unchanged. IG 165.
 - 8 Nov 19:43: Part 2 774 (no change); avg 4.22 s, Search 11.1%, small display changes (cause unverified). IG 165.
 - 9 Nov 01:44: Part 2 776 (+2), Search 11.3%, rest unchanged. IG 165.
+- 9 Nov 07:45: Part 2 777 (+1), rest unchanged. Partial top queries now include "kenapa bjj ngesot" (Indonesian, 2.4%). IG 165.
