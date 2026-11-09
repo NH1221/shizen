@@ -9,3 +9,10 @@ Scores: hook 1, curiosity 1 (setup line, then the twist on the drop), voice 2, l
 
 Caption: spent more on the rash guard than the membership 🐅 tag the guy at your gym who did this #bjj #nogi #rashguard #nogibjj #bjjhumor
 Post: TikTok then IG, AI label ON. Space it at least a few hours after Part 3.
+
+## Audio audit (9 Nov 10:05), measured on video-v1-post.mp4 at 100 ms windows
+- 0.0 to 1.4 s: the track's pre-drop phrase at about -15 to -16 dB (this is why Instinct's 0-2.4 s average reads close to the post-drop average).
+- 1.6 to 2.5 s: the track's strip-down, -46 to -50 dB, with only clip ambience underneath (raw ambience about -41 dB x 0.45 = about -48 dB, as measured).
+- 2.55 s: the drop, -50 to -17 dB, landing with "than on the / membership" (text change 2.50 s).
+- Same source section as Part 3 (track from 45.43 s). Shape is build, silence, drop on the punchline, as intended.
+- Publish: 12:54 GMT 9 Nov, after Part 3's 4 h read.
