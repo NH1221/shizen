@@ -12,3 +12,5 @@
 - Drop: "first class rash guard though"
 - Caption: she said it was her first class 🐅 tag the girl at your gym who sandbagged you #bjj #nogi #rashguard #womensbjj #bjjgirls
 - Hypothesis: a female subject plus womensbjj tags reaches a new cluster: views at 4 h above Part 3's 438.
+## Source change (9 Nov 13:12): no new upload needed
+Flow upload failed this afternoon. Use the real frame already uploaded to Flow this morning instead: `P3C-seated-back.png` (project c69fc794, from real frame f004). It's the same woman with a ponytail sitting back-to-camera, from a different moment of the reel. Tora is already in project b93f4822. Use the picker's "Select project" to pull each asset; no generated image is used as a reference.
