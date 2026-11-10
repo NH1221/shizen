@@ -20,3 +20,4 @@ Omni 1.1 Flash, 720p, 9:16, 6 s, x1, Frames to Video from the passed still. Arms
 - Text: "she said it was / her first class" 0.0 to 2.48 s; "first class / rash guard though" 2.5 to 5.8 s on the Sparta drop.
 - Caption: she said it was her first class 🕊️ tag the girl at your gym who sandbagged you #bjj #nogi #rashguard #womensbjj #bjjgirls
 - Post: TikTok then IG, AI label ON.
+- Motion card: `pipeline/video/part6/MOTION-CARD.md`. Edit spec: `pipeline/video/part6/p6-v1.json` (placeholder clip path `incoming/PENDING/...`; crop and focus mask set after the real clip).

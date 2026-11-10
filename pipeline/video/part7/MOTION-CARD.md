@@ -1,0 +1,7 @@
+# Part 7 motion card (Ryu)
+Frames to Video from the passed Part 7 still. Omni 1.1 Flash, 720p, 9:16, 6 s, x1 (about 10 credits; check the UI first). Save as `incoming/<date>/P7-clip-take1.mp4` and update the clip path in `p7-v1.json`.
+
+Prompt (verbatim):
+Static locked-off UGC iPhone footage from a few metres behind them at seated height. The older grey-bearded man in the navy rash guard sits on the mat with his back angled towards the camera, explaining something to the younger man beside him, nodding slightly as he talks; the younger man listens and nods once. Nobody moves their arms or hands. The people in the background keep chatting with small natural movements. One take, no jump cuts, no change of angle or location, no camera zoom. Arms and hands stay still the whole time. Keep every face, the plain long sleeves with no print or writing of any kind, and the back print and SHIZEN mark exactly as in the image; the print stays fixed to the fabric and never changes or redraws. No text, captions or logos appear anywhere. Audio: ambient gym sound only, mats, distant voices, no clear words, no music.
+
+Pass checks (every frame, not a contact sheet): one continuous angle; sleeves and front stay plain (no invented writing); print matches the still in every frame; no new logos; no limbs warp; background people stay adults. Cut before any frame that breaks a check; if fewer than 5.8 clean seconds remain, report it instead of re-rolling.
