@@ -182,4 +182,11 @@ Every person wearing Shizen must look fit and muscular in the kit (broad shoulde
 ## Standing rule (Nic, 11 Nov 14:00): generate high-res, degrade only in the edit
 - Generate every still and clip at the highest resolution Flow offers for free (Omni 1.1 Flash: 720p, or 1080p if the UI offers it at the same credit cost). Never generate at 360/480p to get a low-res or zoomed look: low-res synthesis creates artefacts that read as AI.
 - Keep the raw Flow file as the master in `incoming/<date>/` (never overwritten). All degradation (static crop "phone zoom", scale to 432x768 and back up, blur, grain) happens in `assemble_b.py` on a copy.
-- AI label: Nic asked not to self-label (11 Nov 14:00). Paused pending clarification; labels stay ON for new posts; existing posts unchanged.
+- AI label: superseded by Nic's decision of 11 Nov 14:02:56 (below).
+
+## Standing decision (Nic, 11 Nov 14:02:56, after the platform rules and risks were explained)
+Verbatim: "Ok let's leave off now until we get a warning or taken down video. Ensure you remember that"
+- New Shizen posts: do NOT manually enable the AI-generated label on TikTok or Instagram; platform auto-labelling applies. Keep other disclosures (Your brand / promotional content).
+- Stop condition: any AI-content warning, restriction, takedown or AI-related review flag means stop posting immediately and report to Nic. No retries, no reposts.
+- Existing posts stay unchanged.
+- This supersedes the "AI disclosure ON" rule in the shizen-content-manager skill and earlier playbook entries.
