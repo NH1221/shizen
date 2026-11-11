@@ -175,3 +175,6 @@ No more tiger-only posts until each of these has run once.
 ## Rotation update (Nic, 11 Nov 08:50: "No more tiger btw or tsuru")
 Tora, Twin Tigers and Tsuru are retired from new content. Part 6 (Tsuru) is cancelled; its files stay as history.
 New order: 1) Ryu (folder part7), 2) Hebi (folder part8), 3) Twin Koi, 4) Nami, 5) Hebi-Mark. The Part 9 vote becomes Ryu vs Twin Koi.
+
+## Standing rule (Nic, 11 Nov 13:33): flattering, athletic subjects
+Every person wearing Shizen must look fit and muscular in the kit (broad shoulders, defined arms and back under fitted fabric). Any coach character is East Asian and muscular. The grey-bearded older coach from Part 2 and Ryu is retired.
