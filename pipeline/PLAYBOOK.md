@@ -190,3 +190,5 @@ Verbatim: "Ok let's leave off now until we get a warning or taken down video. En
 - Stop condition: any AI-content warning, restriction, takedown or AI-related review flag means stop posting immediately and report to Nic. No retries, no reposts.
 - Existing posts stay unchanged.
 - This supersedes the "AI disclosure ON" rule in the shizen-content-manager skill and earlier playbook entries.
+
+- 11 Nov, Part 8 take 2 rejected: the card asked a scramble frame (P2-turtle) to become a calm kneel and the model replaced the whole scene. Rule: choose the real base by pose first; the still edit only swaps identities, clothing and print, never the staging. Hebi moves to base P6-seated-back (take 3).
