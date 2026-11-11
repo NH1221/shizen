@@ -1,3 +1,5 @@
+# RETIRED (Nic, 11 Nov: "No more tiger btw or tsuru"). Kept as history; never generate or post.
+
 # Part 6: "she said it was her first class / first class rash guard though" (Tsuru)
 Status: prepared, blocked at still generation (Flow "unusual activity", 9 Nov 13:23). No submit until there's a real recovery sign or another supported route.
 

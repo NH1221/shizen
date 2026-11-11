@@ -171,3 +171,7 @@ The garment colour is each file's background colour; prompts must say so, or the
 | Part 9 | Twin Koi | Twin-Koi_back.jpg | charcoal | "pick your partner" vote: Koi vs Ryu |
 | later | Nami (waves), Hebi-Mark | Nami_back.jpg, Hebi-Mark_back.jpg | navy, black | |
 No more tiger-only posts until each of these has run once.
+
+## Rotation update (Nic, 11 Nov 08:50: "No more tiger btw or tsuru")
+Tora, Twin Tigers and Tsuru are retired from new content. Part 6 (Tsuru) is cancelled; its files stay as history.
+New order: 1) Ryu (folder part7), 2) Hebi (folder part8), 3) Twin Koi, 4) Nami, 5) Hebi-Mark. The Part 9 vote becomes Ryu vs Twin Koi.
