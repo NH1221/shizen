@@ -178,3 +178,8 @@ New order: 1) Ryu (folder part7), 2) Hebi (folder part8), 3) Twin Koi, 4) Nami, 
 
 ## Standing rule (Nic, 11 Nov 13:33): flattering, athletic subjects
 Every person wearing Shizen must look fit and muscular in the kit (broad shoulders, defined arms and back under fitted fabric). Any coach character is East Asian and muscular. The grey-bearded older coach from Part 2 and Ryu is retired.
+
+## Standing rule (Nic, 11 Nov 14:00): generate high-res, degrade only in the edit
+- Generate every still and clip at the highest resolution Flow offers for free (Omni 1.1 Flash: 720p, or 1080p if the UI offers it at the same credit cost). Never generate at 360/480p to get a low-res or zoomed look: low-res synthesis creates artefacts that read as AI.
+- Keep the raw Flow file as the master in `incoming/<date>/` (never overwritten). All degradation (static crop "phone zoom", scale to 432x768 and back up, blur, grain) happens in `assemble_b.py` on a copy.
+- AI label: Nic asked not to self-label (11 Nov 14:00). Paused pending clarification; labels stay ON for new posts; existing posts unchanged.

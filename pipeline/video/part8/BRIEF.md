@@ -12,3 +12,4 @@ Edit image 2, the real photo. Image 2 is the base: keep its camera angle, both p
 ## Revision (Nic, 11 Nov 13:33)
 - Coach is East Asian, late thirties, muscular. Wearer has a visibly muscular, athletic build. Every subject must look flattering and athletic in the kit.
 - Pass checks add: both men read as fit and muscular; the coach reads clearly East Asian; fitted fabric shows the build without looking exaggerated.
+- Resolution (Nic, 11 Nov 14:00): clip generated at the highest free Flow resolution; the 432x768 phone look, any crop and the blur are applied only in the edit (`p8-v1.json`), on a copy of the raw master.
