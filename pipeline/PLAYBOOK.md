@@ -192,3 +192,9 @@ Verbatim: "Ok let's leave off now until we get a warning or taken down video. En
 - This supersedes the "AI disclosure ON" rule in the shizen-content-manager skill and earlier playbook entries.
 
 - 11 Nov, Part 8 take 2 rejected: the card asked a scramble frame (P2-turtle) to become a calm kneel and the model replaced the whole scene. Rule: choose the real base by pose first; the still edit only swaps identities, clothing and print, never the staging. Hebi moves to base P6-seated-back (take 3).
+
+## 12 Nov 09:16 pull
+- Part 8 Hebi posted 09:0x (TT 7707208454481464598, IG DfotHqnMK-S). Cleared review to Everyone in ~10 min, 28 views at 9 min, no flags, AI label off, promotional disclosure on.
+- Part 5 vote test: 0 comments at 23 h, target 5+. DROP the vote format for now.
+- Ryu 23 h: TT 707 v / 9 l / 0 c / 1 share; IG 197 v / 3 l / 1 c / 1 share. Same ~700 plateau as the tiger posts, so design change alone does not move reach; the first shares came on a non-tiger design.
+- Source bank: every clean seated-back adult frame is now used (P4 Tora, P5, P6/P3C Hebi, P7 Ryu). f004-5 and f003-5 contain people who may be minors in the foreground, so they are out. New real frames are needed before Part 9.
