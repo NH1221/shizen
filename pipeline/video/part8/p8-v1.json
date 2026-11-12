@@ -1,17 +1,23 @@
 {
   "clips": [
     {
-      "file": "incoming/PENDING/P8-clip-take1.mp4",
-      "in": 0.0,
-      "out": 5.8,
+      "file": "incoming/2026-11-12/P8-clip-take1-dof.mp4",
+      "in": 0.1,
+      "out": 5.9,
       "soft": 0.8,
-      "fx": "scale=432:768:flags=bilinear,scale=1080:1920:flags=bicubic"
+      "fx": "scale=432:768:flags=bilinear,scale=1080:1920:flags=bicubic",
+      "crop": [
+        680,
+        1209,
+        20,
+        40
+      ]
     }
   ],
   "text": [
     [
       [
-        "he said it was",
+        "she said it was",
         "a flow roll"
       ],
       0.0,
@@ -26,7 +32,7 @@
       5.8
     ]
   ],
-  "y": 260,
+  "y": 230,
   "size": 52,
   "music": {
     "file": "incoming/2026-11-02/sparta-cut.mp3",
