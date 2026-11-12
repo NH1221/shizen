@@ -37,3 +37,10 @@ Edit image 2, the real photo. Image 2 is the base: keep its exact camera angle, 
 Same camera, framing and people positions as P6 (overlay check against the base); her face never visible or clearly new; hair off the print; long plain sleeves; snake centred on the spine and faithful; SHIZEN mark from the art; background adult, no logos (the UFC top and logos gone); no blown highlights.
 
 ### Motion (after a pass): Omni 1.1 Flash, highest free resolution offered (720p or above, never 360/480p), 9:16, 6 s, x1, Frames to Video. Static locked-off UGC iPhone footage. She sits still, breathing slowly, with a slight turn of her head to the left; her arms and hands do not move. Background people stay in place with small natural movement only, no grappling. Ambient gym sound only, no words, no music. One take, no cuts, no zoom, no change of angle; keep faces, clothing and the print exactly; the print never redraws; no text or logos.
+
+## Still take 3 (12 Nov 08:24): PASS, `incoming/2026-11-12/stills/P8-take3.jpg` (sha 1637e1dd...)
+- Overlay vs P6: camera, framing, room and every background position match; her head and torso sit where the original's do (her near arm now rests over her raised knee, a small pose change that keeps arms still for motion).
+- Face not shown (ear and cheek edge only); high bun clear of the print; long plain black sleeves; Hebi faithful (single thin S snake, head up, SHIZEN mark centred above it), centred on the spine.
+- Background all adults, plain clothes, UFC top and logos gone, no writing. No clipped highlights.
+- Edit note: the far background faces (top row and the grey-tee man right) are small and some sit close to the originals. Apply the focus-falloff mask (Part 5 method) to everything above roughly y 560 so only the wearer is sharp.
+- Motion: no earlier than 08:44 GMT, card above ("Motion (after a pass)").
