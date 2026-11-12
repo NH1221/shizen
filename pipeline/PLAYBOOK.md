@@ -198,3 +198,8 @@ Verbatim: "Ok let's leave off now until we get a warning or taken down video. En
 - Part 5 vote test: 0 comments at 23 h, target 5+. DROP the vote format for now.
 - Ryu 23 h: TT 707 v / 9 l / 0 c / 1 share; IG 197 v / 3 l / 1 c / 1 share. Same ~700 plateau as the tiger posts, so design change alone does not move reach; the first shares came on a non-tiger design.
 - Source bank: every clean seated-back adult frame is now used (P4 Tora, P5, P6/P3C Hebi, P7 Ryu). f004-5 and f003-5 contain people who may be minors in the foreground, so they are out. New real frames are needed before Part 9.
+
+## Standing decision (Nic, 12 Nov 12:50): mainly male subjects
+- Verbatim: "Also majority audience male so use male actors" then "Mainly".
+- From Part 9 (Twin Koi) onward, the main subject (the wearer) is mainly a clearly adult male, muscular and flattering per the 11 Nov rule. A female lead is the exception, not the default. Background people can be mixed.
+- Source-frame search targets frames whose main subject is a clearly adult man with his back to the camera. Hebi P8 stays as posted.
