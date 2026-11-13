@@ -203,3 +203,18 @@ Verbatim: "Ok let's leave off now until we get a warning or taken down video. En
 - Verbatim: "Also majority audience male so use male actors" then "Mainly".
 - From Part 9 (Twin Koi) onward, the main subject (the wearer) is mainly a clearly adult male, muscular and flattering per the 11 Nov rule. A female lead is the exception, not the default. Background people can be mixed.
 - Source-frame search targets frames whose main subject is a clearly adult man with his back to the camera. Hebi P8 stays as posted.
+
+## 13 Nov 08:23 pull
+- P8 Hebi 23 h: TT 688 v / 1 l / 0 c / 0 saves, public to Everyone, no warning. IG 93 v / 0 c (likes not shown; shares and saves not exposed, so unknown, not zero). No buying interest in comments.
+- P7 Ryu 23 h for comparison: TT 707 / 9 / 0 / 1 share; IG 197.
+- Read: reach still plateaus near 700 on TikTok. Hebi got far fewer likes than Ryu (1 vs 9) and half the IG views. Likely factors (untested, one data point): female lead for a mostly male audience (now changed per Nic, 12 Nov), and a pun payoff without a real reveal. Keep the male-lead rule; give Part 9 a clearer payoff.
+
+## Owner removal (Nic, 12 Nov 17:54): pink-top video taken down
+- Verbatim: "Can you remove the video of the guy in pink t-shirt. As it's too clearly ai".
+- Instinct removed the 24 Oct "which one rolls at your gym?" video (pink heart-patterned top) from TikTok 7700287340668898582 and Instagram De4tEHdOCQW; both verified gone. Owner quality call, not a platform warning.
+- NEVER repost it, and never use any of its AI footage or stills as references (consistent with the real-reference-only rule).
+- Lesson: Nic's bar for "clearly AI" applies to the whole back catalogue, not only new posts. Old pre-realism-method videos are the most at risk.
+
+## Clarification (Nic, 11 Nov 14:00, recovered verbatim by Instinct)
+- "Also ensure the pipeline first generated the clips in hd then lowers resolution after for things like zoom in shots for 480p. Just so that the ai model doesn't generate weird artifacting that you'd notice as clearly not real recording of a person"
+- This governs generated clips: generate at the highest free setting (720p is compliant), degrade only in the edit. It does not forbid our 720x1280 real source frames.
