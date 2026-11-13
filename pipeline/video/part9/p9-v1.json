@@ -1,0 +1,42 @@
+{
+  "clips": [
+    {
+      "file": "incoming/2026-11-13/P9-clip-take1-dof.mp4",
+      "in": 0.1,
+      "out": 7.9,
+      "soft": 0.8,
+      "fx": "scale=432:768:flags=bilinear,scale=1080:1920:flags=bicubic",
+      "crop": [
+        660,
+        1173,
+        44,
+        40
+      ]
+    }
+  ],
+  "text": [
+    [
+      [
+        "says he does jiu jitsu",
+        "for inner peace"
+      ],
+      0.0,
+      3.28
+    ],
+    [
+      [
+        "tried to take my arm",
+        "4 times"
+      ],
+      3.3,
+      7.8
+    ]
+  ],
+  "y": 230,
+  "size": 52,
+  "music": {
+    "file": "incoming/2026-11-02/sparta-cut.mp3",
+    "start": 2.68,
+    "amb": 0.45
+  }
+}
