@@ -218,3 +218,15 @@ Verbatim: "Ok let's leave off now until we get a warning or taken down video. En
 ## Clarification (Nic, 11 Nov 14:00, recovered verbatim by Instinct)
 - "Also ensure the pipeline first generated the clips in hd then lowers resolution after for things like zoom in shots for 480p. Just so that the ai model doesn't generate weird artifacting that you'd notice as clearly not real recording of a person"
 - This governs generated clips: generate at the highest free setting (720p is compliant), degrade only in the edit. It does not forbid our 720x1280 real source frames.
+
+## 13 Nov: Part 9 Twin Koi published
+- TikTok 09:20 GMT, Everyone at 09:23 after standard review, preflight clean, Your brand ON, manual AI label off: tiktok.com/@shizenbjj/video/7707583558029921539
+- Instagram 09:26 GMT, full 9:16, original audio, exact caption, manual AI label off, no warnings: instagram.com/shizenbjj/reel/DfrTjy1xwi8/
+- File: queue/2026-11-13-twin-koi/video-v1-post.mp4 (sha eca7b29b..., commit c0564df). /ttevaluate 21/22.
+- Experiment: first male-lead post after Nic's 12 Nov rule; first true 8 s clip (7.8 s cut); setup and contradiction payoff instead of a pun. Compare at 4 h and 23 h against Ryu (707 TT / 197 IG) and Hebi (688 TT / 93 IG).
+- Flow today: 2 submits (still 08:25:46, 8 s clip 08:46:30, 12 credits). No more today.
+
+## Operational learnings (13 Nov)
+- Raw clip transfer: the Flow signed link and Drive links are refused by this workspace's network allowlist, and the Drive connector here cannot see a link-shared file from another account. What worked: a fresh download from Flow into a new folder, then a direct chat attachment (a stale local path gives "file may have moved or deleted"). Do not use Drive as a fallback for raw clips. If chat fails, split the file at the byte level with no re-encode.
+- Instagram upload: when the usual upload route reads a valid file as under 1 KB (even after a fresh download, reload or new session), use the alternate ordinary profile create route (worked first time on 13 Nov), set 9:16 at Crop, no re-encode. Try it before calling a social upload blocked.
+- Large intermediate renders (video-v1.mp4, about 60 MB) trigger GitHub size warnings; keep committing only the posting file and raw master from now on.
