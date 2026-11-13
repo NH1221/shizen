@@ -24,3 +24,11 @@ Overlay against P4 (same camera, framing, positions); his face not shown beyond 
 
 ### Motion (after a pass): Omni 1.1 Flash, highest free resolution (720p, never 360p), 9:16, 8 s if offered (check the credit cost first; otherwise 6 s), x1, Frames to Video.
 Static locked-off UGC iPhone footage. He sits still, breathing slowly, then lifts his head slightly and turns it a little to the right; his arms and hands do not move. The man at the left stays still apart from breathing and a small nod. Background people stay in place with small natural movement only, no grappling. Ambient gym sound only, no words, no music. One take, no cuts, no zoom, no change of angle; keep faces, clothing and the print exactly; the print never redraws; no text or logos.
+
+## Still take 1 (13 Nov 08:25:46): PASS, `incoming/2026-11-13/stills/P9-take1.jpg`
+- Overlay vs P4: camera, framing and every position match.
+- Sleeves checked at full zoom: both are long. His right sleeve ends in a cuff at the wrist with only the hand showing; his left arm is bent forward with the sleeve covering it to the point where the forearm goes out of view in front of his body. The bare skin beside his left elbow is his own left thigh and knee (the original's leg is in the same place), not the elbow.
+- Koi: two fish head to tail, sage and cream, fins and scales as drawn; SHIZEN mark from the art. The print sits slightly left of the frame-centre of his torso, which matches his three-quarter turn (the mark and print are aligned with each other).
+- Lead: clearly adult, muscular, new face (jaw, beard line and profile only). Left man East Asian, grey tee. Everyone adult; ART OF ROLL and brand marks gone.
+- Edit notes: a small white mark on the navy figure at bottom-left (crop it out); the curly-haired man behind may sit close to the original, so use the focus-falloff mask above roughly the wearer's shoulder line, keeping his head sharp.
+- Motion: 8 s at 720p (12 credits, live price), no earlier than 08:45:46.
