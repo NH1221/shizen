@@ -47,3 +47,10 @@ Prompt: Static locked-off UGC iPhone footage. The man in the navy rash guard sit
 
 ## Posting
 Manual AI label OFF, auto labels untouched, TikTok Your brand ON. Any AI warning, restriction or takedown stops posting immediately. Log 4 h and 23 h numbers against 0:01 retention, full watch and views.
+
+## 14 Nov 09:30 source review: Roger Gracie Academy HQ YouTube frames (2:42, 2:44, 2:45) REJECTED, no generation
+- Landscape 1280x720: a 9:16 crop is only about 405x720, below the bank size, and would need the model to invent pixels.
+- No usable lead: the foreground man faces the camera side-on with his face visible; the only back (2:45) is mid-drill with a partner over him, which invites contact and limb motion.
+- The back where the print goes carries a large third-party wordmark, plus sponsor logos on shorts and rash guards; a lot for one edit to remove.
+- A named academy's own produced video with identifiable instructors and students, likely not phone footage; bright windows behind.
+- Tighter hunting criteria: native vertical phone video (TikTok, Reels, Shorts), 1080x1920 preferred and 720x1280 minimum; a lead whose back is to the camera and NOT in a drill or in contact; no big wordmark on the lead's back; avoid gyms' or famous athletes' own promo channels and anyone well known.
