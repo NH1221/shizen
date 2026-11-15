@@ -240,3 +240,10 @@ Verbatim: "Ok let's leave off now until we get a warning or taken down video. En
 ## Identity provenance caveat (Nic asked 13 Nov: "Absolutely everyone in every video isn't a real person right?")
 - Honest answer: not guaranteed. November clips are edits of real gym frames. Leads and named roles got full identity changes, but some background people were judged "close to the original" and were only blurred or cropped (Parts 8 and 9 notes say so). No final was checked against a named real person, but we cannot claim everyone is invented. Old posts stay unchanged unless Nic explicitly authorises a change.
 - New hard rule from Part 10: every person in a final must be fully replaced, not blurred. (1) Pick source frames with few people, each large enough to be re-identified; crop distant people out of the real frame in code BEFORE the still edit. (2) The still card names a specific new face for every person in frame. (3) QA compares every face side by side with the source; any face that could be the source person fails the still (blur or crop in the edit no longer counts as a fix).
+
+## 15 Nov: Part 10 Ryu "coach banned his rash guard" published (~11:10 GMT)
+- TikTok: tiktok.com/@shizenbjj/video/7708353035096853782 (content check clean, review to Everyone; Your brand ON, Branded content off, manual AI label off, auto labels untouched).
+- Instagram: instagram.com/shizenbjj/reel/DfwpG3RBKWi/ (manual AI label off). No warning, restriction or takedown.
+- File: queue/2026-11-15-ryu-banned/video-v1-post.mp4 (sha 1491fd63..., commit bbef3be). /ttevaluate 21/22.
+- Experiment: first-second test. Frame 1 shows conflict (coach glaring at the dragon) with the hook on screen at 0.0 s; 5.6 s; design held at Ryu; first source from a new real frame with both people fully replaced (face check passed).
+- Measure at 4 h and 23 h: 0:01 retention (target over 70%; P9 most left at 0:01), full watch (over 25%; P9 7%), views (over 1,500; plateau ~700). Compare with Ryu P7 (707 TT / 9 likes).
