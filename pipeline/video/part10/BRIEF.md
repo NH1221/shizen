@@ -107,3 +107,15 @@ Nothing else changes: plain wall, white mat, the bag on the bench. No text, logo
 6. No logos or writing, no clipped highlights (the white mat must keep texture), no anatomy errors (hands and feet).
 
 ## Motion (after a still pass, at least 20 min later): unchanged from the brief above, 6 s, 720p, 10 credits.
+
+## Still v1 (15 Nov, received 10:32): PASS, `incoming/2026-11-15/stills/P10-v1.jpg`
+1. Overlay: same camera height, room and both positions. The model pulled back about 10% (the lead sits slightly higher and smaller); no restage. Coach's arms are now crossed (base: arms down) - a small pose change that suits the beat; motion must keep them crossed.
+2. Face check at 4x: lead is a new person (olive skin, low fade, younger, different ear, nose and jaw vs the base's older man with greying hair); coach is a new East Asian man (base: bearded man with dark wavy hair). Neither could be the original. PASS.
+3. Phone glance: dragon and the coach staring down at it read at once.
+4. Ryu matches the art (head, whiskers, claws, coils, flame tail), scaled along the visible back panel; SHIZEN mark from the art; shoulder logo gone.
+5. Long navy sleeves to the wrists, no front or sleeve print; coach East Asian, muscular, unimpressed; both clearly adult.
+6. No clipped pixels (mat keeps texture); feet and visible hand correct; no logos or writing besides SHIZEN.
+
+## Motion card (FINAL; submit no earlier than 20 min after the still)
+Omni 1.1 Flash, Frames to Video from P10-v1 only, 720p (highest free), 9:16, 6 s (10 credits), x1. Keep the raw master.
+Prompt: Static locked-off UGC iPhone footage. The man in the navy rash guard sits still with his arms around his knees, breathing slowly, looking ahead to the left; his arms and hands do not move. The man standing behind him keeps his arms crossed and keeps staring down at the seated man's back, then slowly shakes his head once. Ambient gym sound only, no words, no music. One take, no cuts, no zoom, no change of angle; keep both faces, the clothing and the print exactly; the print never redraws; no text or logos; no smiling.
