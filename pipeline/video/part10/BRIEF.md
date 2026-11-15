@@ -86,3 +86,24 @@ Hard criteria, in priority order:
 6. Inside the crop: no burned-in text, no bright windows behind a face, no large wordmark across his back.
 7. Nobody well known.
 Send 3 to 5 untouched full-res frames (and the link plus timestamp) by direct chat attachment, ideally from different videos.
+
+## 15 Nov 09:25 source review: PASS Coastal 34:10; Holy City 0:00 and 39:10 rejected
+- Source: Coastal Jiu Jitsu, "Adult No-Gi Jiu Jitsu in Miramar Beach | Leg Entanglements to the Back", 34:10, https://www.youtube.com/watch?v=FrHv31_H500&t=2050s. Untouched 1920x1080 frame `incoming/2026-11-15/src/coastal-3410.jpg` (sha 3c7526aa...).
+- Base for Flow: real 9:16 crop x 1130 to 1738, full height, `incoming/2026-11-15/src/P10-coastal-crop.png` (608x1080, native pixels, no resize). Inside it: the seated lead (back three-quarter, arms around his knees, no contact; back fills about 55% of the height) and ONE standing man behind him, face about 100 px, who becomes the coach. The instructor, the windows, the door and the fan are all outside the crop. So the coach-in-frame version of the concept is back.
+- Holy City 39:10: lead cut by the frame edge, back only about 32% of the height, rolling pair close to the crop. Holy City 0:00: lead cut at the left edge, wall logo, a man lying behind his head, sandals and a mirror edge in the crop.
+
+## Still card (FINAL, image 1 = Ryu_back.jpg, image 2 = P10-coastal-crop.png; Flow image mode, Nano Banana 2.1, 0 credits, 9:16, x1)
+Edit image 2, the real photo. Image 2 is the base: keep its exact camera angle, framing, camera height, the room, both people's positions and poses, the light, the phone grain and softness, and real skin texture. Image 1 is only the artwork to print. Change only these things, all in this one edit.
+First, the man sitting on the mat in the foreground keeps his exact pose (sitting with his arms wrapped around his knees, his back three-quarter to the camera, his head in profile looking left) and becomes a completely different, clearly adult man in his early thirties: light olive skin, short dark brown hair in a low skin fade, a short dark brown beard, a straighter nose and a different ear and jawline from the original; broad, muscular, athletic shoulders and back. He wears a navy LONG-SLEEVE rash guard, the same navy as the background of image 1, with plain navy sleeves all the way down to his wrists, no logo on the shoulder and no print on the sleeves or front, and the artwork from image 1 printed large on the visible back panel exactly as drawn, following the angle of his back, with the SHIZEN mark centred just below the back of the collar; plain black shorts and plain black leggings.
+Second, the man standing behind him keeps his exact position and standing pose and becomes a completely different, clearly adult East Asian man in his late thirties: short black hair, clean-shaven, a different face shape, nose and eyes from the original; lean and visibly muscular, in a fitted plain grey short-sleeve rash guard. He tilts his head down to look at the back of the seated man, with a flat, unimpressed expression, mouth closed.
+Nothing else changes: plain wall, white mat, the bag on the bench. No text, logos or writing anywhere except the SHIZEN mark on the print. Neither man may keep his original face.
+
+## Still QA gates
+1. Overlay against P10-coastal-crop: same camera, framing and both positions.
+2. Face check, hard gate: crop both faces from the still and the base side by side at 4x. If either could be the original person, FAIL (no blur fix).
+3. Frame 1 test at phone size: the print and the coach looking down at it read in one glance.
+4. Ryu faithful (the dragon as drawn, not simplified), navy, long plain sleeves, shoulder logo gone, SHIZEN mark from the art.
+5. Coach East Asian, muscular, looking at the back; both clearly adult.
+6. No logos or writing, no clipped highlights (the white mat must keep texture), no anatomy errors (hands and feet).
+
+## Motion (after a still pass, at least 20 min later): unchanged from the brief above, 6 s, 720p, 10 credits.
