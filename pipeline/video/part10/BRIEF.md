@@ -69,3 +69,20 @@ Hard criteria, in priority order:
 Send 3 to 5 candidates with the source link and timestamp, ideally from different videos.
 
 Script holds: "coach banned his rash guard / from class" then "said nobody was watching / the technique". The still card will replace exactly two people (lead and instructor), with the instructor becoming an East Asian, muscular man in his late thirties looking at the lead's back, unimpressed.
+
+## 15 Nov 08:32 full-res review: Dapto and Pearson REJECTED
+- Dapto 4:15 to 4:21: guard demo, lead on his back with a partner over him. 4:24: burned-in "GAME 5" title. 4:27 and 4:30: the teal man sits back to camera but a partner is tangled with him (guard), and a seated student at left looks under 18. Fails contact and age.
+- Pearson 2:30 to 2:34: both men standing and drilling a double leg, in contact; no seated back.
+
+## Pivot (option C): one-man frame, tension carried by the hook text and a tight frame on the print
+The coach-in-frame requirement is what made the hunt fail. Drop it: frame 1 is a tight shot where his back and the print fill the frame, with the conflict line on screen from frame 1. Script, caption, design (Ryu, navy) and length (about 5.5 s) stay the same.
+
+Hard criteria, in priority order:
+1. Real camera footage of a no-gi class or open mat (phone or an ordinary single camera). No stock, AI, competition or broadcast.
+2. Everyone visible in the final crop clearly an adult.
+3. One adult man with his back to the camera (standing, seated or kneeling; square or three-quarter), still, touching nobody, not drilling. A bystander watching others roll counts.
+4. A 9:16 crop around him is at least 600x1066 and his back fills at least 40% of the crop height.
+5. Anyone else inside that crop is either removable by cropping or large enough to fully replace (face about 60 px or more), two people at most.
+6. Inside the crop: no burned-in text, no bright windows behind a face, no large wordmark across his back.
+7. Nobody well known.
+Send 3 to 5 untouched full-res frames (and the link plus timestamp) by direct chat attachment, ideally from different videos.
