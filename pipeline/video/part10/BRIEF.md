@@ -54,3 +54,18 @@ Manual AI label OFF, auto labels untouched, TikTok Your brand ON. Any AI warning
 - The back where the print goes carries a large third-party wordmark, plus sponsor logos on shorts and rash guards; a lot for one edit to remove.
 - A named academy's own produced video with identifiable instructors and students, likely not phone footage; bright windows behind.
 - Tighter hunting criteria: native vertical phone video (TikTok, Reels, Shorts), 1080x1920 preferred and 720x1280 minimum; a lead whose back is to the camera and NOT in a drill or in contact; no big wordmark on the lead's back; avoid gyms' or famous athletes' own promo channels and anyone well known.
+
+## 15 Nov: hunt found no compliant set. Decision: option B, accept the "class listening to the instructor" source type (supersedes the criteria above)
+The concept only needs one watcher: the coach looking at the lead's back. So the frame is a student seated with his back to the camera while the instructor faces the camera. Everyone else is cropped out in code before the still edit, which also makes full identity replacement easier (two people to replace, not five).
+
+Hard criteria, in priority order:
+1. Real camera footage of a no-gi class or open mat: a phone, or an ordinary single camera on a gym or YouTube channel. No stock, no AI, no competition or broadcast footage.
+2. Everyone in the frame clearly an adult.
+3. Lead: an adult man in the foreground sitting or kneeling with his back to the camera (square or three-quarter), calm, not drilling, touching nobody. No large wordmark across his back (small logos elsewhere are fine).
+4. Exactly one other prominent person: the instructor (or a partner) facing the camera, standing or kneeling, face at least about 60 px tall, hands not touching the lead. Talking is fine; his gesture gets frozen in the motion prompt.
+5. A 9:16 crop containing just these two is at least 600x1066: vertical 720x1280 or above, or landscape 1920x1080 or above. Anyone else must fall outside that crop, or be small enough to crop away.
+6. Inside that crop: no burned-in captions, no bright windows behind a face, no large wordmarks.
+7. Nobody well known (famous athletes or named head instructors).
+Send 3 to 5 candidates with the source link and timestamp, ideally from different videos.
+
+Script holds: "coach banned his rash guard / from class" then "said nobody was watching / the technique". The still card will replace exactly two people (lead and instructor), with the instructor becoming an East Asian, muscular man in his late thirties looking at the lead's back, unimpressed.
