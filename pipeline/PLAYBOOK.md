@@ -247,3 +247,9 @@ Verbatim: "Ok let's leave off now until we get a warning or taken down video. En
 - File: queue/2026-11-15-ryu-banned/video-v1-post.mp4 (sha 1491fd63..., commit bbef3be). /ttevaluate 21/22.
 - Experiment: first-second test. Frame 1 shows conflict (coach glaring at the dragon) with the hook on screen at 0.0 s; 5.6 s; design held at Ryu; first source from a new real frame with both people fully replaced (face check passed).
 - Measure at 4 h and 23 h: 0:01 retention (target over 70%; P9 most left at 0:01), full watch (over 25%; P9 7%), views (over 1,500; plateau ~700). Compare with Ryu P7 (707 TT / 9 likes).
+
+## 15 Nov 15:16: Part 10 at 4 h
+- TikTok: 662 v / 15 l / 0 c / 1 share / 0 saves / 0 follows. Avg watch 3.14 s of 5.63 s. 0:01 retention 76% (target over 70%: PASS, first time). Full watch 14.3% (target over 25%: miss). For You 100%.
+- Instagram: 171 plays, 1 like, 1 comment ("Rashguards 🔥🔥🔥", same account as P9). Watch data not exposed.
+- Read: the frame-1 conflict hook works (76% at 0:01 vs most leaving at 0:01 on P9) and likes are our best at 4 h (15 vs Ryu P7's 9 at 23 h). The loss is now the hold: average 3.1 s means viewers leave around or after the payoff at 2.2 s, when nothing new happens for 3.4 s. Views at 4 h already near P9's 24 h total; judge reach at 23 h.
+- Keep: conflict in frame 1 with the hook on screen at 0.0 s. Next variable (Part 11): hold. Options to test one at a time: payoff as a visual beat (the coach's reaction lands on the line), shorter end (cut ~1 s after the payoff), or a second text beat.
