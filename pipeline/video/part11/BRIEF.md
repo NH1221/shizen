@@ -101,3 +101,23 @@ v4 text: "...the gold yin-yang circle and the word SHIZEN, copied exactly from i
 Everything else is word for word the v1 card above (including the original coach sentence).
 Gate change: the coach may sit up to about 60 px (384-wide overlay) from his base position if his hands are clear of the lead; the room, wall, camera height and lead pose must still match exactly; the snake must be the two-lobed figure eight.
 If v4 fails, stop for today and resume tomorrow after the refresh with the same card.
+
+## Still v4 (16 Nov, received 11:41): FAIL, `incoming/2026-11-16/stills/P11-v4.jpg` (record only, never use)
+- Snake not faithful: stacked S-loops with a curled tail; the art's body crossing itself into one horizontal figure eight (with the belly-scale band) is missing.
+- Overlay: the camera pulled back about 15% (the lead's head sits about 90 px lower in 384-wide terms) and the coach moved about 80 px right with his arms now at his sides.
+- Room, lead pose and wordmark were right.
+- Today: 4 submits, 0 passes. Across v1 to v4 the model never drew Hebi-Mark's crossing figure eight correctly (v1 came closest), while Ryu (P7, P10) and Twin Koi (P9) were faithful first time. Hebi-Mark's self-crossing coil is likely beyond this model in one edit.
+
+## Decision for 17 Nov: switch the design to Twin Koi, keep everything else
+- DESIGN: Twin Koi (`brand/print-backs/Twin-Koi_back.jpg`), rendered faithfully first time in P9. COLOUR: charcoal (the art's background).
+- Sequel text unchanged: "coach banned his / dragon rash guard", "so today he / wore this", "coach has / given up".
+- Caption: next he's banning both 🐉🐟 which one would you ban? #bjj #nogi #rashguard #nogibjj #bjjhumor
+- Hebi-Mark parked until a still route can draw it faithfully.
+
+## Still card v5 (17 Nov, first submit no earlier than 08:15; image 1 = brand/print-backs/Twin-Koi_back.jpg, image 2 = incoming/2026-11-15/src/P11-coastal-2085-crop.png). The v1 card word for word with only the print sentences swapped:
+Edit image 2, the real photo. Image 2 is the base: keep its exact camera angle, framing, camera height, the room, both people's positions and poses, the light, the phone grain and softness, and real skin texture. Image 1 is only the artwork to print. Change only these things, all in this one edit.
+First, the man sitting on the mat in the foreground keeps his exact pose (sitting with his knees up, his back to the camera, his head turned slightly left and down) and becomes a completely different, clearly adult man in his early thirties: light olive skin, short dark brown hair in a low skin fade, a short dark brown beard, a different ear, neck and jawline from the original; broad, muscular, athletic shoulders and back. He wears a dark charcoal LONG-SLEEVE rash guard, the same charcoal as the background of image 1, with plain charcoal sleeves all the way down to his wrists, no logo on the shoulder and no print on the sleeves or front, and the artwork from image 1 printed large on his back exactly as drawn: the two sage-green and cream koi circling each other head to tail in a yin-yang shape, centred on his spine. Above it, centred just below the collar, the gold yin-yang circle and the word SHIZEN, copied exactly from image 1 at the same small size and in the same thin letters. Plain black shorts and plain black leggings.
+Second, the man standing behind him becomes a completely different, clearly adult East Asian man in his late thirties: short black hair, clean-shaven, a different face shape, nose, eyes and ears from the original; lean and visibly muscular, in a fitted plain grey short-sleeve rash guard and black shorts. He looks down at the seated man's back with a flat, unimpressed expression, mouth closed.
+Nothing else changes: plain wall, white mat, the bench and the bag. No text, logos or writing anywhere except the SHIZEN mark on the print. Neither man may keep his original face.
+
+Gates: as before (overlay with the room, wall, camera height and lead pose matching exactly; coach within about 60 px with hands clear of the lead; 4x face check of both against coastal-2085; both koi faithful, two fish head to tail, fins and scales as drawn; wordmark matches the art and reads SHIZEN at 2x; charcoal long plain sleeves; both adult; mat texture; hands and feet). Motion and edit cards unchanged apart from "black" becoming "charcoal" in the motion prompt.
