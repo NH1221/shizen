@@ -89,3 +89,15 @@ Second, [CHANGED] the man standing at the right keeps his exact position at the 
 Nothing else changes: plain wall, white mat, the bench and the bag. No text, logos or writing anywhere except the SHIZEN mark on the print. Neither man may keep his original face.
 
 Gates unchanged (all v1 gates plus the two added ones). Room and lead pose must match the base on the overlay: any change of room, wall, camera height or lead pose fails.
+
+## Still v3 (16 Nov, received 11:20): FAIL, `incoming/2026-11-16/stills/P11-v3.jpg` (record only, never use)
+- Lead pose changed (kneeling back on his heels with a hand on the mat; base: seated, knees up) and the framing is tighter: automatic fail. Snake again closer to an S-curve with one crossing than Hebi-Mark's two-lobed figure eight. Crisp, polished look again.
+- Room and wordmark were right.
+- Read across v1 to v3: only v1 kept the real scene; every rewrite of the coach sentence came back restaged. v1's coach drift is tolerable if his hands stay clear in motion.
+
+## Still card v4 (today's 4th and last submit, at least 20 min after v3). It is the v1 card EXACTLY, with one phrase changed in the wordmark sentence:
+v1 text: "...the gold yin-yang circle and the word SHIZEN in large, sharp, evenly spaced capital letters spelled exactly S-H-I-Z-E-N, as in image 1."
+v4 text: "...the gold yin-yang circle and the word SHIZEN, copied exactly from image 1 at the same small size and in the same thin letters."
+Everything else is word for word the v1 card above (including the original coach sentence).
+Gate change: the coach may sit up to about 60 px (384-wide overlay) from his base position if his hands are clear of the lead; the room, wall, camera height and lead pose must still match exactly; the snake must be the two-lobed figure eight.
+If v4 fails, stop for today and resume tomorrow after the refresh with the same card.
