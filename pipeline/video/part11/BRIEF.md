@@ -74,3 +74,18 @@ Second, the man standing at the right keeps his exact position at the right edge
 Nothing else changes: plain wall, white mat, the bench and the bag. No text, logos or writing anywhere except the SHIZEN mark on the print. Neither man may keep his original face.
 
 Added gates: wordmark matches image 1 in style and proportion (thin serif, small, widely spaced) AND reads SHIZEN at 2x; coach within about 20 px (384-wide overlay) of his base position, hands clear of the lead.
+
+## Still v2 (16 Nov, received 10:57): FAIL, `incoming/2026-11-16/stills/P11-v2.jpg` (record only, never use)
+- Restaged scene, not an edit of the real frame: a concrete room with pillars replaces the plain light wall, bench and bag; the camera is lower and wider; the lead's pose changed (legs spread, right hand planted on the mat); the coach is now full-length. It also has a studio-polished, shallow-focus look the real phone frame never had.
+- Wrong print: the snake is the single S-curve from Hebi, not Hebi-Mark's figure-eight coil.
+- Odd sleeve: a short sleeve with a separate arm sleeve on his left arm.
+- Wordmark and coach position were right, but the frame fails the realism gate outright.
+- Likely cause: v2's longer, more prescriptive card (proportions, spacing, positions). v1 kept the real scene. Lesson: change the fewest words from a card that kept the scene.
+
+## Still card v3 (FINAL; same images; fresh from the real crop). It is the v1 card with only two sentences changed (marked).
+Edit image 2, the real photo. Image 2 is the base: keep its exact camera angle, framing, camera height, the room, both people's positions and poses, the light, the phone grain and softness, and real skin texture. Image 1 is only the artwork to print. Change only these things, all in this one edit.
+First, the man sitting on the mat in the foreground keeps his exact pose (sitting with his knees up, his back to the camera, his head turned slightly left and down) and becomes a completely different, clearly adult man in his early thirties: light olive skin, short dark brown hair in a low skin fade, a short dark brown beard, a different ear, neck and jawline from the original; broad, muscular, athletic shoulders and back. He wears a black LONG-SLEEVE rash guard, the same black as the background of image 1, with plain black sleeves all the way down to his wrists, no logo on the shoulder and no print on the sleeves or front, and the artwork from image 1 printed large on his back exactly as drawn: the single coiled snake looping into a figure eight, head at the top and tail at the bottom, in the same pale gold line work, centred on his spine. [CHANGED] Above it, centred just below the collar, the small gold yin-yang circle and the small word SHIZEN in the same thin, widely spaced serif letters as image 1, copied exactly, not enlarged or restyled. Plain black shorts and plain black leggings.
+Second, [CHANGED] the man standing at the right keeps his exact position at the right edge and his exact standing pose, with his hand on his own hip, and becomes a completely different, clearly adult East Asian man in his late thirties: short black hair, clean-shaven, a different face shape, nose, eyes and ears from the original; lean and visibly muscular, in a fitted plain grey short-sleeve rash guard and black shorts. He looks down at the seated man's back with a flat, unimpressed expression, mouth closed.
+Nothing else changes: plain wall, white mat, the bench and the bag. No text, logos or writing anywhere except the SHIZEN mark on the print. Neither man may keep his original face.
+
+Gates unchanged (all v1 gates plus the two added ones). Room and lead pose must match the base on the overlay: any change of room, wall, camera height or lead pose fails.
