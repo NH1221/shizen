@@ -253,3 +253,9 @@ Verbatim: "Ok let's leave off now until we get a warning or taken down video. En
 - Instagram: 171 plays, 1 like, 1 comment ("Rashguards 🔥🔥🔥", same account as P9). Watch data not exposed.
 - Read: the frame-1 conflict hook works (76% at 0:01 vs most leaving at 0:01 on P9) and likes are our best at 4 h (15 vs Ryu P7's 9 at 23 h). The loss is now the hold: average 3.1 s means viewers leave around or after the payoff at 2.2 s, when nothing new happens for 3.4 s. Views at 4 h already near P9's 24 h total; judge reach at 23 h.
 - Keep: conflict in frame 1 with the hook on screen at 0.0 s. Next variable (Part 11): hold. Options to test one at a time: payoff as a visual beat (the coach's reaction lands on the line), shorter end (cut ~1 s after the payoff), or a second text beat.
+
+## 16 Nov 10:18: Part 10 at 23 h
+- TikTok: 692 v / 15 l / 0 c / 1 share / 0 saves / 0 follows. Avg 3.16 s of 5.63 s, full watch 14.4%. 76% at 0:01 (PASS), most gone at 0:02. For You 99.7%. ~230 views in hour 1, 150 to 190/h to hour 4, flat after hour 5.
+- Instagram: 171 plays, 1 like, 1 brand-account comment (not buying intent).
+- Read: the frame-1 conflict hook is solved (keep it). Reach still stops at the test batch (~700) because nothing after 0:02 holds people and nobody comments or shares. The drop at 0:02 is the gap between the setup line and the payoff (2.2 s), then 3.4 s with nothing new.
+- Part 11 changes the hold: three fast beats (new text every ~1.6 s), the reveal on the music drop at 1.5 s, a visible coach reaction for beat 3, about 5 s total, and a two-option comment question. It is a sequel to Part 10 (same fictional coach, new design) so the story carries.
