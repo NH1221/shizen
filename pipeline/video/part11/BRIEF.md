@@ -121,3 +121,16 @@ Second, the man standing to the right keeps his exact position and standing pose
 Nothing else changes: plain wall, white mat, the bench and the bag. No text, logos or writing anywhere except the SHIZEN mark on the print. Neither man may keep his original face.
 
 Gates: as before (overlay with the room, wall, camera height and lead pose matching exactly; coach within about 60 px with hands clear of the lead; 4x face check of both against coastal-2085; both koi faithful, two fish head to tail, fins and scales as drawn; wordmark matches the art and reads SHIZEN at 2x; charcoal long plain sleeves; both adult; mat texture; hands and feet). Motion and edit cards unchanged apart from "black" becoming "charcoal" in the motion prompt.
+
+## Still v5 (17 Nov, received 08:31): PASS, `incoming/2026-11-17/stills/P11-v5.jpg`
+1. Overlay vs P11-coastal-2085-crop: room, wall, bench, bag, camera height and framing match; the lead's pose matches (seated, knees up, head left and down), head within about 15 px. Coach about 30 px left of base (inside the 60 px tolerance), standing behind the lead's right shoulder; his hand hangs at his own side, not on the lead.
+2. Face check at 4x against coastal-2085: lead is a new person (olive skin, low fade, younger, different ear and jaw vs the source's older man with greying hair); coach is a new clean-shaven East Asian man (source: bearded, wavy hair). PASS.
+3. Phone glance: koi and the coach glaring down read at once.
+4. Twin Koi faithful: two fish head to tail, sage and cream, fins, scales and tail fins as drawn; centred on the visible back.
+5. Wordmark: small thin widely spaced serif under the yin-yang, matches the art, reads SHIZEN at 2x.
+6. Charcoal long plain sleeves, shoulder logo gone; both clearly adult; no other writing; no clipped highlights (mat keeps texture); visible foot correct.
+
+## Motion card (FINAL; at least 20 min after the v5 submit)
+Omni 1.1 Flash, Frames to Video from P11-v5 only, 720p, 9:16, 6 s (10 credits), x1. Keep the raw master; send by direct chat attachment from a fresh download.
+Prompt: Static locked-off UGC iPhone footage. The man in the charcoal rash guard sits completely still with his back to the camera, breathing slowly; his arms and hands do not move. The man standing behind him keeps his hands exactly where they are and stares down at the seated man's back for two seconds, then slowly tips his head back to look up at the ceiling with a long, tired exhale, then lowers his eyes back to the seated man's back. Ambient gym sound only, no words, no music. One take, no cuts, no zoom, no change of angle; keep both faces, the clothing and the print exactly; the print and the SHIZEN lettering never redraw; no other text or logos; no smiling.
+Clip gates: as listed above, including SHIZEN reading correctly in frame 0 at 2x (one re-roll if it garbles, then local softening).
