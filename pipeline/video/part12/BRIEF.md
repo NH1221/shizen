@@ -64,3 +64,21 @@ First, the man sitting on the mat in the foreground keeps his exact pose (sittin
 Second, the man standing behind him keeps his exact position and standing pose with his hands on his hips and becomes a completely different, clearly adult East Asian man in his late thirties: short black hair, clean-shaven, a different face shape, nose, eyes and ears from the original; lean and visibly muscular, in a fitted plain grey short-sleeve rash guard and black shorts. He looks down at the seated man's back with a flat, unimpressed expression, mouth closed.
 Nothing else changes: plain wall, white mat, the bench and the bag. No text, logos or writing anywhere except the SHIZEN mark on the print. Nobody may keep their original face or head.
 Added gate: no third person may appear. Motion then goes tomorrow (first slot after the refresh) if v2 passes.
+
+## Still v2 (17 Nov, submitted 13:48:31): INVALID, `incoming/2026-11-17/stills/P12-v2-INVALID-wrong-input.jpg` (record only, never use, never attach)
+- Execution error caught by Instinct: Flow's "Add to prompt" kept the previously selected v1 GENERATED image (9a9e8210) as image 2 instead of the uploaded crop-v2. So this output is an edit of an AI image (breaks the real-reference rule) and still shows the third person. It says nothing about whether card v2 works.
+- Today's submits: 4 of 4 used. No Flow until tomorrow.
+
+## Pre-submit ingredient check (new standing step, every Flow submit)
+Before pressing generate: open each attached ingredient and confirm its source is the intended upload (file name, size or source URL), not just the thumbnail. Image 1 must be the brand print file; image 2 must be the real crop. Clear any previously selected generated image from the prompt first. Record both ingredient sources in the submit note.
+
+## 18 Nov production plan
+1. First slot after the account refresh (no earlier than 08:15): still with card v2 above, image 1 = brand/print-backs/Ryu_back.jpg, image 2 = incoming/2026-11-17/src/P12-coastal-2100-crop-v2.png (sha df836761...), after the ingredient check.
+2. Claude checks: overlay against crop-v2; 4x face check of BOTH people against coastal-2100 (the lead and the standing man); no third person; Ryu faithful; wordmark reads SHIZEN at 2x; navy long plain sleeves; mat texture; hands and feet.
+3. If it fails, one more still the same day (at least 20 min later) with whatever single fix the review names.
+4. On a pass, the clip at least 20 min later with the two-person motion card below.
+
+## Motion card v2 (two-person base; replaces the motion card above)
+Omni 1.1 Flash, Frames to Video from the passed still only, 720p, 9:16, 6 s (10 credits), x1. Keep the raw master; fresh download by direct chat attachment.
+Prompt: Static locked-off UGC iPhone footage. The man in the navy rash guard sits completely still, hunched forward with his head down, breathing slowly; his arms and hands do not move. The man standing behind him keeps his hands on his hips and stares down at the seated man's back, then slowly shakes his head once with a quiet sigh. Ambient gym sound only, no words, no music. One take, no cuts, no zoom, no change of angle; keep both faces, the clothing and the print exactly; the print and the SHIZEN lettering never redraw; no other text or logos; no smiling.
+Clip gates: as Part 11, including SHIZEN in frame 0 at 2x and no third person appearing.
