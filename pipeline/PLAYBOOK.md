@@ -277,3 +277,43 @@ Verbatim: "Ok let's leave off now until we get a warning or taken down video. En
 - vs Part 10 at 4 h (662 v / 15 l / 3.14 s / 14.3% / 76%): worse on every metric. The sequel framing ("coach banned his dragon rash guard") needs Part 10 for context that For You viewers do not have, and the faster three-beat text did not hold people longer. Likes by design so far: Ryu 9 and 15, Twin Koi 6 and 4, Hebi 1: the dragon is the design people like.
 - Decision: drop sequels (For You viewers see each post alone). Part 12 goes back to Part 10's standalone format with Ryu, a new standalone joke, and one variable: length cut to about 4 s, ending right after the payoff so more viewers finish and it loops.
 - 17 Nov lesson (Part 12 v2): Flow's "Add to prompt" can keep a previously selected generated image as an ingredient after a new upload. Standing pre-submit check: confirm each ingredient's actual source (not just the thumbnail) and clear old selections before generating.
+
+## Prompt method v1 (17 Nov, from an audit of every Flow still and clip since Part 7)
+Requested by Nic (via Instinct, 17 Nov 21:08): better prompts, fewer generation errors. Not yet tested as a method; judge it on the next runs.
+
+### What the record shows
+| Take | Result | Failure type | What caused it |
+|---|---|---|---|
+| P7 t1 Ryu, P9 t1 Twin Koi, P10 v1 Ryu, P11 v5 Twin Koi, P8 t3 Hebi | PASS first or near-first | none | Base pose already matched the shot; short fixed card; only identity, clothes and print changed |
+| P8 t1 | FAIL (men touching) | base choice | Scramble frame |
+| P8 t2 | FAIL (whole scene replaced) | prompt asked for a new pose | Card asked a scramble to become a calm kneel |
+| P11 v1 | FAIL (big bold wordmark; coach drifted) | prompt wording | "large, sharp" letters invited a restyled wordmark |
+| P11 v2 | FAIL (new room, new pose, wrong snake) | prompt too prescriptive | Long rewrite with proportions, spacing and positions |
+| P11 v3 | FAIL (lead kneeling, tighter frame, wrong snake) | prompt rewrite + model variance | Two sentences rewritten |
+| P11 v4 | FAIL (camera pulled back ~15%, wrong snake) | model variance + print complexity | Only one phrase changed from v1 |
+| P11 v1 to v4 | Hebi-Mark coil wrong 4 of 4 | print complexity (model limit) | Self-crossing figure-eight never reproduced; Ryu, Twin Koi and Hebi's S-curve always reproduced |
+| P12 v1 | FAIL (real face moved onto a third person) | base choice + vague identity line | An unneeded bystander stayed in the crop with a one-line description |
+| P12 v2 | INVALID | execution (not a prompt issue) | Flow kept an old generated image as image 2 |
+| P10 clip | Wordmark garbled in motion | model limit at 720p | Small serif text redrawn; fixed by local softening |
+| P11 clip | Wordmark held | (same card style) | Shows the garble is variable, not certain |
+| P9 clip | Unrequested hand fidget | model variance | Kept because it looked natural; arms-still line stays |
+
+### The method (use for every still and clip)
+1. Base first (most important). Choose a real frame where every kept person is ALREADY in the pose the shot needs. Crop in code to only the people the shot needs (normally two). Never ask the model to change a pose, add or remove a person, or move anyone.
+2. One fixed card, slots only. Use the template below word for word. Fill only the slots. Never add positions, distances, proportions or camera notes; every rewrite so far restaged the scene.
+3. Pose slot copies the base, nothing more ("sitting hunched forward with his arms around his knees"). Describe hands only where the base shows them.
+4. Identity: every kept person gets a specific new face in fixed words (the same lead and coach descriptions every time), plus one line forbidding reuse of any face from image 2. That last line is new and untested.
+5. Wordmark: always the locked phrase "copied exactly from image 1 at the same small size and in the same thin letters". Never "large", "bold" or "sharp".
+6. Print: production uses only designs the model has reproduced: Ryu, Twin Koi, Hebi (S-curve). Hebi-Mark and Nami are parked; test them only with a spare submit on a proven base, never on a production day.
+7. Retry rule: if a still fails, change ONE slot or ONE phrase, never rewrite. If two stills in a row fail on scene or pose with the same card, change the base, not the words.
+8. Motion: fixed motion template; the lead stays still; one named head action for the other person; arms-still line always present. Wordmark garble in motion is handled by one re-roll, then local softening.
+9. Execution (not prompting): before every submit, clear old selections and confirm each ingredient's real source (file name, size or URL), not the thumbnail. Record both sources in the submit note.
+
+### Still card template (slots in <angle brackets>)
+Edit image 2, the real photo. Image 2 is the base: keep its exact camera angle, framing, camera height, the room, every person's position and pose, the light, the phone grain and softness, and real skin texture. Image 1 is only the artwork to print. Change only these things, all in this one edit.
+First, the man <LEAD PLACE, e.g. sitting on the mat in the foreground> keeps his exact pose (<POSE AS IN THE BASE>) and becomes a completely different, clearly adult man in his early thirties: light olive skin, short dark brown hair in a low skin fade, a short dark brown beard, a different ear, neck and jawline from the original; broad, muscular, athletic shoulders and back. He wears a <COLOUR> LONG-SLEEVE rash guard, the same <COLOUR> as the background of image 1, with plain <COLOUR> sleeves all the way down to his wrists, no logo on the shoulder and no print on the sleeves or front, and the artwork from image 1 printed large on his back exactly as drawn, centred on his spine. Above it, centred just below the collar, the gold yin-yang circle and the word SHIZEN, copied exactly from image 1 at the same small size and in the same thin letters. Plain black shorts and plain black leggings.
+Second, the man <COACH PLACE, e.g. standing behind him> keeps his exact position and standing pose<HANDS ONLY IF SHOWN IN THE BASE, e.g. " with his hands on his hips"> and becomes a completely different, clearly adult East Asian man in his late thirties: short black hair, clean-shaven, a different face shape, nose, eyes and ears from the original; lean and visibly muscular, in a fitted plain grey short-sleeve rash guard and black shorts. He looks down at the seated man's back with a flat, unimpressed expression, mouth closed.
+Nothing else changes: <BACKGROUND ITEMS IN THE BASE>. No text, logos or writing anywhere except the SHIZEN mark on the print. Neither man may keep his original face, and no face from image 2 may appear on anyone.
+
+### Motion template
+Static locked-off UGC iPhone footage. The man in the <COLOUR> rash guard sits completely still<POSE WORDS>, breathing slowly; his arms and hands do not move. The man standing behind him keeps his hands <WHERE THEY ARE IN THE STILL> and stares down at the seated man's back, then <ONE HEAD ACTION>. Ambient gym sound only, no words, no music. One take, no cuts, no zoom, no change of angle; keep both faces, the clothing and the print exactly; the print and the SHIZEN lettering never redraw; no other text or logos; no smiling.
