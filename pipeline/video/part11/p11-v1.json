@@ -1,0 +1,50 @@
+{
+  "clips": [
+    {
+      "file": "incoming/2026-11-17/P11-clip-v1.mp4",
+      "in": 0.0,
+      "out": 5.5,
+      "soft": 0.8,
+      "fx": "scale=432:768:flags=bilinear,scale=1080:1920:flags=bicubic",
+      "crop": [
+        690,
+        1227,
+        15,
+        0
+      ]
+    }
+  ],
+  "text": [
+    [
+      [
+        "coach banned his",
+        "dragon rash guard"
+      ],
+      0.0,
+      1.48
+    ],
+    [
+      [
+        "so today he",
+        "wore this"
+      ],
+      1.5,
+      2.73
+    ],
+    [
+      [
+        "coach has",
+        "given up"
+      ],
+      2.75,
+      5.5
+    ]
+  ],
+  "y": 330,
+  "size": 52,
+  "music": {
+    "file": "incoming/2026-11-02/sparta-cut.mp3",
+    "start": 4.45,
+    "amb": 0.45
+  }
+}
