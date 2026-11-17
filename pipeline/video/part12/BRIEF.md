@@ -49,3 +49,18 @@ Clip gates: as Part 11, including SHIZEN in frame 0 at 2x (one re-roll if it gar
 
 ## Edit plan
 About 4 s from the clip's calmest start. Beat 1 to ~1.6 s, music drop and beat 2 at ~1.6 s, end about 0.6 s after the head shake finishes, on a frame matching frame 1 for the loop. Text placed clear of both faces and the print. /ttevaluate 18/22 or better.
+
+## Still v1 (17 Nov, submitted 13:27:16): FAIL, `incoming/2026-11-17/stills/P12-v1.jpg` (record only, never use)
+- HARD FACE GATE FAIL: the man at the left edge (back to the camera and bald in the source) was turned into a man in profile with dark wavy hair and a full dark beard who closely resembles the REAL standing man in coastal-2100 (side-by-side at 4x: same hair, beard line, brow and nose). The model carried a real face across to another person. Not usable.
+- Lead (new olive-skinned man) and coach (new clean-shaven East Asian man) passed the face check; Ryu faithful; wordmark serif, reads SHIZEN at 2x; navy long plain sleeves; positions close.
+- Lesson: every extra person in the crop is another chance for a real face to survive or move. Crop out anyone who is not needed BEFORE the edit.
+
+## Base v2: crop x 1180 to 1788 (`incoming/2026-11-17/src/P12-coastal-2100-crop-v2.png`, 608x1080 native, sha df836761...)
+Only the lead and the standing man. The walking man is gone (the bag strap remains at the left edge); the lead's knees and forearms are cut at the left edge (phone framing); the fan stays outside.
+
+## Still card v2 (today's last submit, no earlier than 13:47:16; image 1 = Ryu_back.jpg, image 2 = P12-coastal-2100-crop-v2.png). The v1 card with the "Third" sentence removed, nothing else changed:
+Edit image 2, the real photo. Image 2 is the base: keep its exact camera angle, framing, camera height, the room, every person's position and pose, the light, the phone grain and softness, and real skin texture. Image 1 is only the artwork to print. Change only these things, all in this one edit.
+First, the man sitting on the mat in the foreground keeps his exact pose (sitting hunched forward with his arms around his knees, his back to the camera, his head down) and becomes a completely different, clearly adult man in his early thirties: light olive skin, short dark brown hair in a low skin fade, a short dark brown beard, a different ear, neck and jawline from the original; broad, muscular, athletic shoulders and back. He wears a navy LONG-SLEEVE rash guard, the same navy as the background of image 1, with plain navy sleeves all the way down to his wrists, no logo on the shoulder and no print on the sleeves or front, and the artwork from image 1 printed large on his back exactly as drawn, centred on his spine. Above it, centred just below the collar, the gold yin-yang circle and the word SHIZEN, copied exactly from image 1 at the same small size and in the same thin letters. Plain black shorts and plain black leggings.
+Second, the man standing behind him keeps his exact position and standing pose with his hands on his hips and becomes a completely different, clearly adult East Asian man in his late thirties: short black hair, clean-shaven, a different face shape, nose, eyes and ears from the original; lean and visibly muscular, in a fitted plain grey short-sleeve rash guard and black shorts. He looks down at the seated man's back with a flat, unimpressed expression, mouth closed.
+Nothing else changes: plain wall, white mat, the bench and the bag. No text, logos or writing anywhere except the SHIZEN mark on the print. Nobody may keep their original face or head.
+Added gate: no third person may appear. Motion then goes tomorrow (first slot after the refresh) if v2 passes.
