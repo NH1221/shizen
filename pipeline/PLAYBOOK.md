@@ -259,3 +259,15 @@ Verbatim: "Ok let's leave off now until we get a warning or taken down video. En
 - Instagram: 171 plays, 1 like, 1 brand-account comment (not buying intent).
 - Read: the frame-1 conflict hook is solved (keep it). Reach still stops at the test batch (~700) because nothing after 0:02 holds people and nobody comments or shares. The drop at 0:02 is the gap between the setup line and the payoff (2.2 s), then 3.4 s with nothing new.
 - Part 11 changes the hold: three fast beats (new text every ~1.6 s), the reveal on the music drop at 1.5 s, a visible coach reaction for beat 3, about 5 s total, and a two-option comment question. It is a sequel to Part 10 (same fictional coach, new design) so the story carries.
+
+## 17 Nov: Part 11 Twin Koi sequel published
+- TikTok submitted 09:13:25 GMT (in review at post time): tiktok.com/@shizenbjj/video/7709065980571340054
+- Instagram live ~09:15:40 GMT: instagram.com/shizenbjj/reel/Df1lillvz8N/
+- File queue/2026-11-17-koi-sequel/video-v1-post.mp4 (sha e141a308..., commit d40ccd6). /ttevaluate 20/22. Your brand ON, manual AI labels OFF.
+- No brand comment: the caption carries the question; promo comments were spam-filtered before and seeding our own comments would be engagement manipulation.
+- Test: hold (three beats, reveal on the drop at 1.5 s, coach reaction at 2.75 s, 5.5 s) and comment pull (two-option question). Flow today: 2 submits (08:2x still, 08:50:39 clip).
+- Still-route lesson (16 Nov): Hebi-Mark's self-crossing coil failed 4 times; long or heavily rewritten cards restage the scene. Change the fewest words from a card that held the scene.
+
+## Part 12 plan (prep in parallel; treatment confirmed after Part 11's 4 h numbers)
+- Series continues if Part 11 holds: "coach banned the dragon AND the koi" then "so he showed up in this" with Nami (navy waves, unused so far), same fictional coach and lead.
+- Source: a NEW composition from the same Coastal class video (FrHv31_H500) so the room stays consistent but the shot is new; 34:00 to 34:50 excluded (Parts 10 and 11).
