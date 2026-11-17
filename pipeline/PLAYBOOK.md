@@ -271,3 +271,8 @@ Verbatim: "Ok let's leave off now until we get a warning or taken down video. En
 ## Part 12 plan (prep in parallel; treatment confirmed after Part 11's 4 h numbers)
 - Series continues if Part 11 holds: "coach banned the dragon AND the koi" then "so he showed up in this" with Nami (navy waves, unused so far), same fictional coach and lead.
 - Source: a NEW composition from the same Coastal class video (FrHv31_H500) so the room stays consistent but the shot is new; 34:00 to 34:50 excluded (Parts 10 and 11).
+
+## 17 Nov 13:17: Part 11 at 4 h (Twin Koi sequel)
+- TikTok: 562 v / 4 l / 0 c / 0 shares / 0 saves / 0 follows. Avg 2.69 s of 5.5 s, full 13.1%, 71% at 0:01. For You 100%. IG 180 plays, no comments.
+- vs Part 10 at 4 h (662 v / 15 l / 3.14 s / 14.3% / 76%): worse on every metric. The sequel framing ("coach banned his dragon rash guard") needs Part 10 for context that For You viewers do not have, and the faster three-beat text did not hold people longer. Likes by design so far: Ryu 9 and 15, Twin Koi 6 and 4, Hebi 1: the dragon is the design people like.
+- Decision: drop sequels (For You viewers see each post alone). Part 12 goes back to Part 10's standalone format with Ryu, a new standalone joke, and one variable: length cut to about 4 s, ending right after the payoff so more viewers finish and it loops.

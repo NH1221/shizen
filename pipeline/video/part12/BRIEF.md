@@ -25,3 +25,27 @@ Third, the man at the far left edge walking away keeps his position and becomes 
 Nothing else changes: plain wall, white mat, the bench and the bag. No text, logos or writing anywhere except the SHIZEN mark on the print. Nobody may keep their original face or head.
 
 Gates: as Part 11 (overlay with room, wall, camera height and lead pose matching; coach within about 60 px, hands clear of the lead; 4x face check of every visible person against coastal-2100; print faithful; wordmark matches the art and reads SHIZEN at 2x; plain long sleeves; all adult; mat texture; hands and feet).
+
+## FINAL treatment (17 Nov, after Part 11 at 4 h)
+- Standalone, not a sequel. DESIGN: Ryu (`brand/print-backs/Ryu_back.jpg`), COLOUR: navy. Nami parked (its stacked symmetric waves are as intricate as Hebi-Mark, which this model could not draw).
+- Variable: length about 4 s, ending just after the payoff (Part 10 lost most viewers at 0:02 and ran 3.4 s past its payoff).
+- Text: "coach asked him to wear / something plain" 0 to ~1.6 s; "this is the plain one" from ~1.6 s (on the music drop) to the end, over the coach's head shake.
+- Caption: he genuinely thinks this is low key 🐉 what's the loudest rash guard at your gym? #bjj #nogi #rashguard #nogibjj #bjjhumor
+- Success at 4 h vs Part 10: full watch over 25%, average watch over 75% of length, 0:01 over 70%, likes at or above 15, views over 700.
+
+## FINAL still card (image 1 = brand/print-backs/Ryu_back.jpg, image 2 = incoming/2026-11-17/src/P12-coastal-2100-crop.png; Flow image mode, Nano Banana 2.1, 0 credits, 9:16, x1)
+Edit image 2, the real photo. Image 2 is the base: keep its exact camera angle, framing, camera height, the room, every person's position and pose, the light, the phone grain and softness, and real skin texture. Image 1 is only the artwork to print. Change only these things, all in this one edit.
+First, the man sitting on the mat in the foreground keeps his exact pose (sitting hunched forward with his arms around his knees, his back to the camera, his head down) and becomes a completely different, clearly adult man in his early thirties: light olive skin, short dark brown hair in a low skin fade, a short dark brown beard, a different ear, neck and jawline from the original; broad, muscular, athletic shoulders and back. He wears a navy LONG-SLEEVE rash guard, the same navy as the background of image 1, with plain navy sleeves all the way down to his wrists, no logo on the shoulder and no print on the sleeves or front, and the artwork from image 1 printed large on his back exactly as drawn, centred on his spine. Above it, centred just below the collar, the gold yin-yang circle and the word SHIZEN, copied exactly from image 1 at the same small size and in the same thin letters. Plain black shorts and plain black leggings.
+Second, the man standing behind him keeps his exact position and standing pose with his hands on his hips and becomes a completely different, clearly adult East Asian man in his late thirties: short black hair, clean-shaven, a different face shape, nose, eyes and ears from the original; lean and visibly muscular, in a fitted plain grey short-sleeve rash guard and black shorts. He looks down at the seated man's back with a flat, unimpressed expression, mouth closed.
+Third, the man at the far left edge walking away keeps his position and becomes a different adult man with short dark hair, in a plain black rash guard.
+Nothing else changes: plain wall, white mat, the bench and the bag. No text, logos or writing anywhere except the SHIZEN mark on the print. Nobody may keep their original face or head.
+
+Still gates: overlay (room, wall, camera height, lead pose exact; coach within about 60 px, hands clear of the lead); 4x face/head check of all three people against coastal-2100; Ryu faithful (as in Parts 7 and 10); wordmark matches the art and reads SHIZEN at 2x; navy long plain sleeves, shoulder logo gone; all adult; no other writing; mat texture; hands and feet.
+
+## FINAL motion card (at least 20 min after a still pass)
+Omni 1.1 Flash, Frames to Video from the passed still only, 720p, 9:16, 6 s (10 credits), x1. Keep the raw master; fresh download by direct chat attachment.
+Prompt: Static locked-off UGC iPhone footage. The man in the navy rash guard sits completely still, hunched forward with his head down, breathing slowly; his arms and hands do not move. The man standing behind him keeps his hands on his hips and stares down at the seated man's back, then slowly shakes his head once with a quiet sigh. The man at the far left edge stands still. Ambient gym sound only, no words, no music. One take, no cuts, no zoom, no change of angle; keep every face, the clothing and the print exactly; the print and the SHIZEN lettering never redraw; no other text or logos; no smiling.
+Clip gates: as Part 11, including SHIZEN in frame 0 at 2x (one re-roll if it garbles, then local softening).
+
+## Edit plan
+About 4 s from the clip's calmest start. Beat 1 to ~1.6 s, music drop and beat 2 at ~1.6 s, end about 0.6 s after the head shake finishes, on a frame matching frame 1 for the loop. Text placed clear of both faces and the print. /ttevaluate 18/22 or better.
