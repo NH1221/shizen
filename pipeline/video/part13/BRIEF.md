@@ -24,3 +24,12 @@ Instinct sends a 15-second survey zip (browser frames, low-res fine) per candida
 - 6:00 to 7:30: a seated man side-on, with people walking past in the foreground, nobody facing the camera close to him. 23:00 to 24:10: two seated men side-on to the camera facing each other, not a back to the camera. Rest is rolling or contact.
 - Added hunting filter: small rooms only (a wall within a few metres behind the subjects); skip events and big halls.
 - Also screened out by Instinct: Fulshear nELvlBOtnaA (fisheye, wall logos), N2-NMbGrvFI (windows, gi), Ian Lieberman 2Kqf5UA2w-I (Zoom class).
+
+## 18 Nov 10:08 6am BJJ Warrior (fzHz5tXg-kg, 43:47, 264 storyboard frames): REJECTED whole source
+- 8:30 to 11:10 (the talking pause): the instructor stands side-on in a hoodie in front of a huge round gym wordmark; the seated students between him and the camera face the camera or sit side-on; the only back to the camera (red cap, olive top) sits at the bottom-right edge, cut off, far from the instructor (both cannot fit one 9:16 crop with nobody between them).
+- 13:20 to 17:30: groups drilling on the floor, mostly in contact, side-on; doors and the big logo behind.
+- Rest: drilling, rolling, standing.
+- Also screened out by Instinct: Force Open Mat qBqGS0j2PPQ (high wide camera, bright open door, people far away), Arroyo 6Zr9c56i-K4 (wide corner lens, crowd, contact demo).
+
+## Widening the pool (fallback composition, if no two-person frame by end of 19 Nov)
+A SOLO frame: one adult man with his back to the camera, sitting or kneeling, calm, filling most of a 9:16 crop, nobody else in the crop. Far more common (any bystander watching a roll). The conflict then lives in the text instead of a watching coach (Part 10's hook formula: a conflict line on screen from frame 1). Same filters otherwise (straight lens, small room, no captions, windows or wordmarks behind him, clearly adult, nobody well known).
