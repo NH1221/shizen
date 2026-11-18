@@ -126,3 +126,12 @@ On a fail: one slot or phrase changes (Claude names it), never a rewrite; wordma
 
 ### Motion card (tomorrow, after a still PASS; Frames to Video from the passed still only; Omni 1.1 Flash, 720p, 9:16, 6 s, x1)
 Static locked-off UGC iPhone footage. The man in the charcoal rash guard sits completely still with his arms around his knees, breathing slowly, looking ahead to the left; his arms and hands do not move. The man standing behind him keeps his hands exactly where they are and stares down at the seated man's back, then slowly shakes his head once with a quiet sigh. Ambient gym sound only, no words, no music. One take, no cuts, no zoom, no change of angle; keep both faces, the clothing and the print exactly; the print and the SHIZEN lettering never redraw; no other text or logos; no smiling.
+
+## Still v1 (18 Nov 15:15, card 0e487aa, verified ingredients): PASS, `incoming/2026-11-18/stills/P13-v1.jpg`
+1. Overlay vs P10-coastal-crop: same room, wall, bench, bags, camera height; lead in the same pose (arms around knees, three-quarter back, head in profile left), framed slightly tighter (head about 40 px right of base on the 384-wide overlay; no restage). Coach in place, arms now crossed (as in P10 v1), hands clear of the lead.
+2. 4x face check vs coastal-3410: lead is new (olive skin, low fade, dark beard vs the source's Black man with greying hair); coach is new (clean-shaven East Asian vs the source's bearded man with dark curly hair). Neither could be the original.
+3. Exactly two people.
+4. Twin Koi faithful: two fish head to tail, sage and cream, fins, scales and tails as drawn.
+5. Wordmark: small thin serif under the yin-yang, reads SHIZEN at 2x.
+6. Charcoal long plain sleeves, shoulder logo gone; both adult; no other writing; no clipped highlights; visible hand and feet correct.
+Motion: 19 Nov first slot after the refresh (no earlier than 08:15), motion card above, Frames to Video from P13-v1 only. Arms-crossed note: the card's "keeps his hands exactly where they are" covers it.
