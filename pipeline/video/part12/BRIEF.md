@@ -111,3 +111,11 @@ Static locked-off UGC iPhone footage. The man in the navy rash guard sits comple
 - FAIL: the wordmark is the right small serif style but the letters are malformed at 2x (the E and N come out reversed or broken, reading roughly "SHIZƎN"). Same wording that rendered correctly in P11 v5 and P12 v1, so this is model variance, not the prompt.
 - Decision: one retry with the SAME FINAL card, unchanged (method rule: variance is not fixed by rewording). Submit 2 no earlier than 08:38:41, same verified ingredients.
 - If the retry passes every gate, use it. If it fails on anything, use v3 as the pass with the wordmark softened locally in the edit (Part 10 method, logged), so the remaining submits go to the clip.
+
+## Still v4 (18 Nov, submitted 08:47:17, same FINAL card and verified ingredients): PASS, chosen over v3
+- Wordmark: small thin serif under the yin-yang, reads SHIZEN at 2x (the N is slightly soft but correct). Gate passed; v3 fallback not needed.
+- Overlay: room, wall, bench, camera height and framing match crop-v2; lead in the same hunched-forward pose (slightly more upright, within about 20 px); coach in place, hands on hips, clear of the lead.
+- 4x face check: lead new (olive skin, low fade, beard vs the source's Black man with greying hair); coach new (clean-shaven East Asian vs the source's bearded man with wavy hair). No third person.
+- Ryu faithful; navy long plain sleeves, shoulder logo gone; hands and feet correct; mat keeps texture.
+- Note: an unchanged card fixed the wordmark on the second roll, consistent with variance (method rule 7).
+- Motion: no earlier than 09:07:17 (20 min after this submit; spacing is between submits), Motion v2 card from the FINAL cards section, Frames to Video from P12-v4 only.
