@@ -322,3 +322,11 @@ Static locked-off UGC iPhone footage. The man in the <COLOUR> rash guard sits co
 - TikTok: 676 v / 5 l / 0 c / 0 shares / 1 save / 0 follows. Avg 2.66 s of 5.5 s, full 12.5%, 70% at 0:01, 31m36s total play. For You 99.7%, Search 0.3%. IG 180 plays, no comments. No warnings.
 - vs Part 10 at 23 h (692 / 15 l / 3.16 s / 14.4% / 76%): lower on every measure. Confirms the 17 Nov decision: no sequels, standalone posts with Ryu. First save on a post since tracking began (1).
 - Part 12 still v3 submitted 18 Nov 08:18:41 with the FINAL card (2bbcfe7); ingredients verified by source (Ryu 42d95392, crop-v2 f0703eee 608x1080).
+
+## 18 Nov: Part 12 Ryu "this is the plain one" published
+- TikTok 09:29:44 GMT, Everyone 09:31:19: tiktok.com/@shizenbjj/video/7709441207461498134
+- Instagram 09:30:22 GMT: instagram.com/shizenbjj/reel/Df4MBeeSweZ/
+- File queue/2026-11-18-ryu-plain/video-v1-post.mp4 (4,095,323 bytes, sha b3a11482..., commit b2e6b0f). /ttevaluate 20/22. Your brand ON, manual AI off.
+- Test: standalone Ryu, 4.1 s, payoff at 1.6 s on the drop. Compare at 4 h with Part 10 (full over 25%, avg over 3.1 s, 0:01 over 70%, likes 15+, views over 700).
+- Prompt method v1 first run: still 2 rolls (v3 wordmark variance, v4 pass with the unchanged card), clip pass first roll. 3 of 4 submits used.
+- Spare submit 18 Nov left unused on purpose: the only proven bases are the same Coastal spot used in Parts 10 to 12, and a fourth post from it would make the profile look repetitive. The bottleneck is new real sources, not submits.
