@@ -330,3 +330,4 @@ Static locked-off UGC iPhone footage. The man in the <COLOUR> rash guard sits co
 - Test: standalone Ryu, 4.1 s, payoff at 1.6 s on the drop. Compare at 4 h with Part 10 (full over 25%, avg over 3.1 s, 0:01 over 70%, likes 15+, views over 700).
 - Prompt method v1 first run: still 2 rolls (v3 wordmark variance, v4 pass with the unchanged card), clip pass first roll. 3 of 4 submits used.
 - Spare submit 18 Nov left unused on purpose: the only proven bases are the same Coastal spot used in Parts 10 to 12, and a fourth post from it would make the profile look repetitive. The bottleneck is new real sources, not submits.
+- 18 Nov: source hunting for new two-person rooms failed on 12 videos (distance, contact, windows, fisheye, crowds). With 99.7%+ For You traffic and 1 follower, repeating a proven room is cheap; reuse proven real bases and vary design, text and action. Hunt for new rooms only in spare time.
