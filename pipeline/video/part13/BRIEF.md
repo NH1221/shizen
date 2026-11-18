@@ -41,3 +41,11 @@ A SOLO frame: one adult man with his back to the camera, sitting or kneeling, ca
 - The channel owner is a known BJJ blogger and illustrator who appears on camera (nobody well known rule).
 - Also screened out by Instinct: ChokeDeal3r rIY7Ise6Obs (frosted window wall), Spectrum I-sWw-yFpdE (gi, big logos), Kyuzo masB5WZX7yU (huge wordmarks), Fightness edZ8Xfm1J4M (low-res 4:3, captions).
 - Size reminder for screening thumbnails: the back must fill roughly the lower 40% or more of the FULL frame height (people that look small in a 16:9 thumbnail are too small).
+
+## 18 Nov 10:26 Coastal "Seated Guard Attacks & Wrestling Up" (AwNf71Pkn98, 69:08, 416 vertical storyboard frames): no two-person frame; ONE solo fallback candidate
+- Native vertical phone footage (good), but handheld and roaming, and most of it is rolling or contact, or wide shots with the window wall behind.
+- 29:30 to 30:40: two or three men standing watching at the bench, but a rolling pair in contact fills the foreground. Reject for the two-person shot.
+- 48:00 to 69:08: empty mat, cleaning, windows. Reject.
+- SOLO FALLBACK candidate, 41:00 to 41:40: one man sitting on the mat close to the camera with his back square to it, arms forward, calm. Risks to check at native size: the sunset windows sit directly behind his head (must not be clipped to white), a rolling pair in the upper right (must fall outside a 9:16 crop or be small enough to crop away), and the native resolution of this upload.
+- Also screened out by Instinct: MXT mZwofU1EPVY (fisheye, windows), Adam Metcalf McjZzJnNkCs (wide high framing, big wordmark).
+- Request: untouched native frames at 41:00, 41:10, 41:20, 41:30 (with the native resolution) so the solo fallback is ready; keep hunting two-person frames meanwhile.
