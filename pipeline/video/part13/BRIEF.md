@@ -12,3 +12,9 @@ Skip highlight reels, known instructors' instructionals, competition footage, an
 
 ## Process
 Instinct sends a 15-second survey zip (browser frames, low-res fine) per candidate video; Claude screens and names exact timestamps; Instinct extracts untouched native frames; Claude crops in code to the two people and fills the template card from PLAYBOOK "Prompt method v1" (Ryu by default, design confirmed after the 4 h numbers). No Flow before Claude's frame PASS.
+
+## 18 Nov 09:50 Won BJJ "Full No Gi Class" (FWls2Lj28Og, 86:44, 522 storyboard frames every 10 s): REJECTED whole source
+- Fisheye action camera: strong barrel distortion across the frame (Flow would inherit warped bodies and an action-cam look, not a phone).
+- Bright window wall behind almost every person; big wall logos and banners.
+- Crowded mat throughout; the few seated backs near the camera (around 50:00 to 53:40, 58:30 to 64:50, 72:00 to 75:50, 76:10 to 79:50) are low in the corner with other people overlapping, nobody facing the camera close to them; people who may be teenagers among the crowd.
+- Added hunting filter: no fisheye or action-camera footage (look for straight walls and door frames in the thumbnail).
