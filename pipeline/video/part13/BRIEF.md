@@ -61,3 +61,22 @@ A SOLO frame: one adult man with his back to the camera, sitting or kneeling, ca
 - So Part 13 uses the Part 10 base (`incoming/2026-11-15/src/P10-coastal-crop.png`, real frame Coastal 34:10, proven on 15 Nov: scene held, both faces replaced, coach staring at the back). Identities are fully replaced from the real frame again; the fixed lead and coach descriptions keep them consistent with Parts 10 to 12. No new scene is invented.
 - Design, text and the one test variable are set at 13:25 from Part 12's 4 h numbers. Card = template from PLAYBOOK "Prompt method v1" with the P10 base pose: "sitting on the mat with his arms wrapped around his knees, his back three-quarter to the camera, his head in profile looking left"; coach "standing behind him" with no hand position named (the base has his arms at his sides).
 - Source hunting continues in the background only when Instinct has spare time, targeting one new room for Part 14+ (same pair gate). Lower priority than production.
+
+## SUPERSEDED 18 Nov 13:00: the reuse plan above (P10 base) is cancelled
+Nic's rule (12:58): every post needs original footage and a new start frame; no reuse of any prior start frame, generated motion or source segment. Nothing was generated from the reuse plan.
+
+## Part 13 (new): "first day at BJJ", solo walking shot
+- Concept: a beginner's first class, already dressed like a champion. One man walking away from the camera onto the mat (or standing at the mat edge), back to the camera, the print readable. Low motion: a few slow steps away, arms relaxed (walk-away shots were accepted before).
+- Text: "his first ever bjj class" (0 to ~1.5 s), then on the drop "the rash guard is already a black belt" (to the end).
+- Caption: day 1 and the rash guard is already a black belt 🐉 what did you wear to your first class? #bjj #nogi #rashguard #nogibjj #bjjhumor
+- Why: the only genuine comment so far came from "the white belt gets humbled" humour; "what did you wear to your first class" is a question every grappler can answer from their own life (low-friction comments). Design: Ryu (best likes).
+- One test variable: a single-person walking shot with a relatable question, versus the seated pair format.
+
+## Source criteria (single person; supersedes the pair gate for this concept)
+1. Real camera footage (phone or ordinary single camera) of a no-gi gym or open mat; straight lens, no fisheye; not stock, AI, competition or broadcast. Never a segment already used by Shizen.
+2. One clearly adult man walking away from the camera, or standing still, with his back square or near-square to it; touching nobody. Not a famous person.
+3. A 9:16 crop around him is at least 600x1066 with nobody else in it (background people must be outside the crop or crop-able); his back is at least 30% of the crop height and his whole torso is inside the crop.
+4. Inside the crop: no burned-in text, no bright window behind him, no large wordmark (small logos on his own clothes are fine: they are replaced).
+5. Plain-ish background with some depth (wall, mats, bench).
+Where: the first and last minutes of uncut class recordings (people walking on and off the mat, getting water, walking to the wall), open-mat vlogs between rounds, gym tour videos. Each candidate: link + timestamp + untouched native frames at 3 to 4 nearby moments.
+No Flow until Claude passes a frame. Today's spare submit stays unused unless a frame passes in time.

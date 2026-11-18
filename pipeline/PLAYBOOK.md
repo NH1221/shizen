@@ -331,3 +331,8 @@ Static locked-off UGC iPhone footage. The man in the <COLOUR> rash guard sits co
 - Prompt method v1 first run: still 2 rolls (v3 wordmark variance, v4 pass with the unchanged card), clip pass first roll. 3 of 4 submits used.
 - Spare submit 18 Nov left unused on purpose: the only proven bases are the same Coastal spot used in Parts 10 to 12, and a fourth post from it would make the profile look repetitive. The bottleneck is new real sources, not submits.
 - 18 Nov: source hunting for new two-person rooms failed on 12 videos (distance, contact, windows, fisheye, crowds). With 99.7%+ For You traffic and 1 follower, repeating a proven room is cheap; reuse proven real bases and vary design, text and action. Hunt for new rooms only in spare time.
+
+## Standing rule (Nic, 18 Nov 12:58, via Instinct): every post is fully original
+- Each new post needs ORIGINAL footage and a NEW start frame. Never reuse a prior start frame, a generated still or clip, or a real source-footage segment already used. Supersedes the 18 Nov 10:52 reuse plan (commit 2165f1b) and the "reuse proven bases" line above.
+- Different timestamps of an already-used video are allowed only if they are a different moment and pose (not the same segment); every person still fully replaced and face-checked.
+- Consequence: real source frames are now the main production constraint (one new passed frame per post). Strategy response: build formats from SINGLE-PERSON shots (a man walking away, standing or sitting with his back to the camera), which are far more common in real footage than the back-plus-watcher pair, and keep a bank of passed frames ahead of production.
