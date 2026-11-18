@@ -18,3 +18,9 @@ Instinct sends a 15-second survey zip (browser frames, low-res fine) per candida
 - Bright window wall behind almost every person; big wall logos and banners.
 - Crowded mat throughout; the few seated backs near the camera (around 50:00 to 53:40, 58:30 to 64:50, 72:00 to 75:50, 76:10 to 79:50) are low in the corner with other people overlapping, nobody facing the camera close to them; people who may be teenagers among the crowd.
 - Added hunting filter: no fisheye or action-camera footage (look for straight walls and door frames in the thumbnail).
+
+## 18 Nov 09:59 "210330 Nogi" (pvjVUrGEW_U, 34:23, 208 storyboard frames every 10 s): REJECTED whole source
+- A huge hall (event or mass open mat) shot from floor level: hundreds of small people across the whole horizon in every frame, which cannot be cropped out or fully replaced; harsh rows of overhead strip lights.
+- 6:00 to 7:30: a seated man side-on, with people walking past in the foreground, nobody facing the camera close to him. 23:00 to 24:10: two seated men side-on to the camera facing each other, not a back to the camera. Rest is rolling or contact.
+- Added hunting filter: small rooms only (a wall within a few metres behind the subjects); skip events and big halls.
+- Also screened out by Instinct: Fulshear nELvlBOtnaA (fisheye, wall logos), N2-NMbGrvFI (windows, gi), Ian Lieberman 2Kqf5UA2w-I (Zoom class).
