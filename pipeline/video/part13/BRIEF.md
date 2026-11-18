@@ -33,3 +33,11 @@ Instinct sends a 15-second survey zip (browser frames, low-res fine) per candida
 
 ## Widening the pool (fallback composition, if no two-person frame by end of 19 Nov)
 A SOLO frame: one adult man with his back to the camera, sitting or kneeling, calm, filling most of a 9:16 crop, nobody else in the crop. Far more common (any bystander watching a roll). The conflict then lives in the text instead of a watching coach (Part 10's hook formula: a conflict line on screen from frame 1). Same filters otherwise (straight lens, small room, no captions, windows or wordmarks behind him, clearly adult, nobody well known).
+
+## 18 Nov 10:17 Meerkatsu "Nogi Sweeps from Closed guard" (z0ySGw_Nm7w, 8:59, 109 frames every 5 s): REJECTED
+- Wide static tutorial shot: the people fill only about a fifth to a quarter of the frame height, so a 600x1066 crop leaves the back at about 20% of the crop height (rule: 40%+) and faces about 30 px (rule: 60+). Cropping tighter would drop below the minimum crop size and need upscaling.
+- 1:30 to 1:35: the seated back's legs are tangled with the partner's (contact); the partner faces side-on, not the camera. 3:20 to 3:25: both side-on, mid-explanation with gestures.
+- Burned-in technique subtitles on most frames (would sit inside a crop's bottom third).
+- The channel owner is a known BJJ blogger and illustrator who appears on camera (nobody well known rule).
+- Also screened out by Instinct: ChokeDeal3r rIY7Ise6Obs (frosted window wall), Spectrum I-sWw-yFpdE (gi, big logos), Kyuzo masB5WZX7yU (huge wordmarks), Fightness edZ8Xfm1J4M (low-res 4:3, captions).
+- Size reminder for screening thumbnails: the back must fill roughly the lower 40% or more of the FULL frame height (people that look small in a 16:9 thumbnail are too small).
