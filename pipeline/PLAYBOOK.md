@@ -350,3 +350,9 @@ Full doc: "Shizen growth strategy" (claude.ai artifact TQwQZCZiTQASTgJdo2E531). 
 - No founder clips, voiceover, design-process recordings, gym filming or any other creative input or assets from Nic. Do not ask him for them.
 - Gifted samples, spend and outreach beyond existing authority (e.g. commenting on other creators' videos) are not approved and not started.
 - The autonomous loop stays inside Shizen, separate from Nic's personal and design brand. The growth strategy doc was updated to match (founder layer, outreach and Nic decisions removed).
+
+## 18 Nov 16:56 full TikTok refresh (lifetime totals, all 17 posts; file analytics/tiktok-2026-11-18-1656.csv)
+- 13 posts between 626 and 922 views; 11 of those 676 to 803. Above 780: P7 Ryu coach 922 v / 14 l, Part 2 "lost the roll" 803 v / 8 l. The earlier "every post below 777" line is stale (descriptive only, not a causal ceiling).
+- Best like rates: the 25 and 26 Oct opinion posts ("boring or too much?" 13 l / 322 v; "every rash guard is a billboard, a cartoon or a highlighter" 20 l / 288 v): 4.0 and 6.9 likes per 100 views, far above recent posts (0.1 to 2.1). Low reach. New strategy concept: "Hot take" (opinion line + back shot).
+- P12: 0 views at ~7.5 h on Studio AND the public profile, Everyone, plays normally, no warning. Cause unknown. Account: 3 followers, 115 likes.
+- P13 decision: generate the fresh motion 19 Nov from 08:15 as planned (generation is unaffected), but HOLD posting P13 until the P12 23 h check (~09:30 19 Nov). If P12 is still at 0 then: check the post's own analytics and the Studio post page for any eligibility or review notice; any AI-related or restriction notice triggers the stop rule (report, no posting). If there is no notice at all, post P13 as normal and note it.
