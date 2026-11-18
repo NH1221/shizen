@@ -49,3 +49,8 @@ A SOLO frame: one adult man with his back to the camera, sitting or kneeling, ca
 - SOLO FALLBACK candidate, 41:00 to 41:40: one man sitting on the mat close to the camera with his back square to it, arms forward, calm. Risks to check at native size: the sunset windows sit directly behind his head (must not be clipped to white), a rolling pair in the upper right (must fall outside a 9:16 crop or be small enough to crop away), and the native resolution of this upload.
 - Also screened out by Instinct: MXT mZwofU1EPVY (fisheye, windows), Adam Metcalf McjZzJnNkCs (wide high framing, big wordmark).
 - Request: untouched native frames at 41:00, 41:10, 41:20, 41:30 (with the native resolution) so the solo fallback is ready; keep hunting two-person frames meanwhile.
+
+## 18 Nov 10:36 native frames 41:00 to 41:30 (1080x1920): solo fallback REJECTED
+- The reversed COASTAL wordmark and the round sticker on the window glass sit at about y 600 to 830 (native); the lead's head starts at about y 820 (41:00) to 940 (41:20). A 9:16 crop that starts below the wordmark (y 830+) can be at most about 1090 tall and 613 wide, which cuts the top of his head at 41:00 and his shoulders (he is about 720 to 780 px wide) in every frame.
+- 41:10: the rolling pair sits directly behind his head, inside any crop. 41:20 and 41:30: the pair overlaps the right edge at his shoulder height, inside any crop that holds his whole back.
+- No legal crop removes every other person AND the wordmark while keeping his back whole and at least 40% of the height. Not fixable without restaging, which the method forbids.
