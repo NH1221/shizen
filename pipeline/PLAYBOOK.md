@@ -317,3 +317,8 @@ Nothing else changes: <BACKGROUND ITEMS IN THE BASE>. No text, logos or writing 
 
 ### Motion template
 Static locked-off UGC iPhone footage. The man in the <COLOUR> rash guard sits completely still<POSE WORDS>, breathing slowly; his arms and hands do not move. The man standing behind him keeps his hands <WHERE THEY ARE IN THE STILL> and stares down at the seated man's back, then <ONE HEAD ACTION>. Ambient gym sound only, no words, no music. One take, no cuts, no zoom, no change of angle; keep both faces, the clothing and the print exactly; the print and the SHIZEN lettering never redraw; no other text or logos; no smiling.
+
+## 18 Nov 08:19: Part 11 at 23 h (Twin Koi sequel)
+- TikTok: 676 v / 5 l / 0 c / 0 shares / 1 save / 0 follows. Avg 2.66 s of 5.5 s, full 12.5%, 70% at 0:01, 31m36s total play. For You 99.7%, Search 0.3%. IG 180 plays, no comments. No warnings.
+- vs Part 10 at 23 h (692 / 15 l / 3.16 s / 14.4% / 76%): lower on every measure. Confirms the 17 Nov decision: no sequels, standalone posts with Ryu. First save on a post since tracking began (1).
+- Part 12 still v3 submitted 18 Nov 08:18:41 with the FINAL card (2bbcfe7); ingredients verified by source (Ryu 42d95392, crop-v2 f0703eee 608x1080).
