@@ -80,3 +80,17 @@ Nic's rule (12:58): every post needs original footage and a new start frame; no 
 5. Plain-ish background with some depth (wall, mats, bench).
 Where: the first and last minutes of uncut class recordings (people walking on and off the mat, getting water, walking to the wall), open-mat vlogs between rounds, gym tour videos. Each candidate: link + timestamp + untouched native frames at 3 to 4 nearby moments.
 No Flow until Claude passes a frame. Today's spare submit stays unused unless a frame passes in time.
+
+## 18 Nov 13:28 decision: shot changed to "face down after the roll"; today's spare submit NOT used
+- Instinct screened 13 more videos (Emerge, StealthManchester, Hanoi, Westchase, FiveRounds, NYC, Fish/Bloom, Frontline, Fightzone Shorts, Birmingham, Miami, Swindon and others): no pass. Walking or seated backs alone in a clean crop are rarer than expected.
+- New shot, chosen because it is everywhere in real open-mat footage and suits the model: a man lying face down (or kneeling folded forward, head down) on the mat between rounds, exhausted, back up. His face is hidden, so his identity cannot be copied; the print sits on a large, flat back; motion is only heavy breathing. Part 2 used this shot and is our best-held post.
+- Concept unchanged in spirit (first day at BJJ, humbled): text "his first ever bjj class" (0 to ~1.5 s), then "the rash guard is a black belt. he is not." on the drop. Caption: day 1 and the rash guard is already a black belt 🐉 what did you wear to your first class? #bjj #nogi #rashguard #nogibjj #bjjhumor. Design Ryu, navy.
+- Today's 4th submit stays unused: no rush through source, card and QA on the same afternoon. First submit tomorrow after the refresh, only if a frame has passed.
+
+## Source gate v3 (face-down rest; supersedes the walking-shot gate)
+1. Real camera footage (phone or ordinary single camera) of no-gi training; straight lens; not stock, AI, competition or broadcast; never a segment Shizen has used.
+2. One adult man lying face down on the mat, or kneeling folded forward with his head down or on the mat, resting, touching nobody. Face not visible. Body visibly adult (full-size build, adult training session).
+3. A 9:16 crop of at least 600x1066 holds his whole back and head; legs may be cut by the crop edge.
+4. Anyone else inside the crop: no visible face and not grappling (ideally nobody). No burned-in text, bright window or large wordmark inside the crop.
+5. Unknown person: not the gym's head instructor or a known athlete.
+Where to look (fast): the last 10 seconds of each round in open-mat and sparring-rounds videos, end-of-class moments, and "rounds" or "open mat" Shorts and Reels filmed from the wall. Send link, timestamp and 3 untouched native frames per candidate.
