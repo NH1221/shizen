@@ -105,3 +105,9 @@ Static locked-off UGC iPhone footage. The man in the navy rash guard sits comple
 7. Download the raw clip fresh into a new folder; attach it directly; do not edit or re-encode. Claude checks every frame and SHIZEN in frame 0.
 8. If the clip's wordmark garbles: one re-roll at least 20 min later; if that garbles too, Claude softens it in the edit.
 9. Maximum 4 submits; stop at the first Flow warning; no other accounts, no purchases.
+
+## Still v3 (18 Nov, submitted 08:18:41, FINAL card 2bbcfe7, verified ingredients): FAIL on the wordmark only; kept as FALLBACK
+- PASS: overlay (room, wall, bench, camera height and framing match crop-v2; lead's head and back within about 20 px, slightly more upright but same hunched-forward pose; coach in place, hands on hips, clear of the lead); 4x face check (lead: new olive-skinned man vs the source's Black man with greying hair; coach: new clean-shaven East Asian man vs the source's bearded man with wavy hair; neither could be the original); no third person; Ryu faithful (as in Parts 7 and 10); navy long plain sleeves, shoulder logo gone; hands and feet correct; no clipped pixels. The bag area changed slightly (extra bags), background only.
+- FAIL: the wordmark is the right small serif style but the letters are malformed at 2x (the E and N come out reversed or broken, reading roughly "SHIZƎN"). Same wording that rendered correctly in P11 v5 and P12 v1, so this is model variance, not the prompt.
+- Decision: one retry with the SAME FINAL card, unchanged (method rule: variance is not fixed by rewording). Submit 2 no earlier than 08:38:41, same verified ingredients.
+- If the retry passes every gate, use it. If it fails on anything, use v3 as the pass with the wordmark softened locally in the edit (Part 10 method, logged), so the remaining submits go to the clip.
