@@ -94,3 +94,35 @@ No Flow until Claude passes a frame. Today's spare submit stays unused unless a 
 4. Anyone else inside the crop: no visible face and not grappling (ideally nobody). No burned-in text, bright window or large wordmark inside the crop.
 5. Unknown person: not the gym's head instructor or a known athlete.
 Where to look (fast): the last 10 seconds of each round in open-mat and sparring-rounds videos, end-of-class moments, and "rounds" or "open mat" Shorts and Reels filmed from the wall. Send link, timestamp and 3 untouched native frames per candidate.
+
+## CORRECTED 18 Nov 14:57 (Nic's clarification 14:55): proven real bases are allowed again; only the generation must be new. The face-down hunt stops.
+
+## Part 13 FINAL: "guess his belt" (Twin Koi, charcoal) on the P10 real base
+- Why: the strategy's payoff-at-the-end format with a question anyone can answer. The P10 base already shows a coach staring at the back, which sells the joke. Twin Koi (not Ryu) so the post does not look like a re-run of Part 10 on the same base.
+- Text: "guess his belt / from the rash guard" from frame 1 to ~2.4 s; then on the drop, to the end: "2 stripe white belt / 3 weeks in".
+- Caption: guess his belt 👀 wrong answers only #bjj #nogi #rashguard #nogibjj #bjjhumor
+- Length about 5 s, payoff in the last ~2 s, loops.
+- Allocation: today's 4th submit = the STILL (0 credits). Motion tomorrow in the first slot after a still PASS (fresh day, at least 20 min after the still anyway).
+
+### Inputs (verify each by file name and size before generating; clear any old selection first)
+- Image 1 = `brand/print-backs/Twin-Koi_back.jpg` (1250x1480, sha 464181f0...)
+- Image 2 = `incoming/2026-11-15/src/P10-coastal-crop.png` (608x1080, sha 48936449..., real frame Coastal 34:10)
+- Flow image mode, Nano Banana 2.1, 9:16, x1. No generated image anywhere in the prompt.
+
+### Still card (prompt method v1 template, slots filled; paste exactly)
+Edit image 2, the real photo. Image 2 is the base: keep its exact camera angle, framing, camera height, the room, every person's position and pose, the light, the phone grain and softness, and real skin texture. Image 1 is only the artwork to print. Change only these things, all in this one edit.
+First, the man sitting on the mat in the foreground keeps his exact pose (sitting with his arms wrapped around his knees, his back three-quarter to the camera, his head in profile looking left) and becomes a completely different, clearly adult man in his early thirties: light olive skin, short dark brown hair in a low skin fade, a short dark brown beard, a different ear, neck and jawline from the original; broad, muscular, athletic shoulders and back. He wears a dark charcoal LONG-SLEEVE rash guard, the same charcoal as the background of image 1, with plain charcoal sleeves all the way down to his wrists, no logo on the shoulder and no print on the sleeves or front, and the artwork from image 1 printed large on his back exactly as drawn, centred on his spine. Above it, centred just below the collar, the gold yin-yang circle and the word SHIZEN, copied exactly from image 1 at the same small size and in the same thin letters. Plain black shorts and plain black leggings.
+Second, the man standing behind him keeps his exact position and standing pose and becomes a completely different, clearly adult East Asian man in his late thirties: short black hair, clean-shaven, a different face shape, nose, eyes and ears from the original; lean and visibly muscular, in a fitted plain grey short-sleeve rash guard and black shorts. He looks down at the seated man's back with a flat, unimpressed expression, mouth closed.
+Nothing else changes: plain wall, white mat, the bench and the bag. No text, logos or writing anywhere except the SHIZEN mark on the print. Neither man may keep his original face, and no face from image 2 may appear on anyone.
+
+### Still gates (Claude checks; all must pass)
+1. Overlay vs P10-coastal-crop: room, wall, camera height, framing and the lead's pose match; coach within about 60 px (384-wide overlay), hands clear of the lead.
+2. 4x face check of BOTH men against the real frame `incoming/2026-11-15/src/coastal-3410.jpg`: either could be the original person = FAIL (blur is not a fix).
+3. Exactly two people; no third person.
+4. Twin Koi faithful: two fish head to tail, sage and cream, fins and scales as drawn, on the visible back.
+5. Wordmark matches the art and reads SHIZEN at 2x.
+6. Charcoal long plain sleeves, shoulder logo gone; both clearly adult; no other writing; mat keeps texture; hands and feet correct.
+On a fail: one slot or phrase changes (Claude names it), never a rewrite; wordmark-only fails get one unchanged re-roll (variance).
+
+### Motion card (tomorrow, after a still PASS; Frames to Video from the passed still only; Omni 1.1 Flash, 720p, 9:16, 6 s, x1)
+Static locked-off UGC iPhone footage. The man in the charcoal rash guard sits completely still with his arms around his knees, breathing slowly, looking ahead to the left; his arms and hands do not move. The man standing behind him keeps his hands exactly where they are and stares down at the seated man's back, then slowly shakes his head once with a quiet sigh. Ambient gym sound only, no words, no music. One take, no cuts, no zoom, no change of angle; keep both faces, the clothing and the print exactly; the print and the SHIZEN lettering never redraw; no other text or logos; no smiling.
