@@ -370,3 +370,10 @@ Full doc: "Shizen growth strategy" (claude.ai artifact TQwQZCZiTQASTgJdo2E531). 
 - Burned (never use again): the whole Coastal Jiu Jitsu room (FrHv31_H500 and AwNf71Pkn98; Parts 10 to 13), and the art.of.roll reel scenes (Parts 3 to 9, incl. P2-turtle, P4/P6/P7 seated backs, f003 to f040 frames).
 - Supersedes the 18 Nov 14:55 reading ("proven real bases may be reused"). Part 13 stays up on TikTok (no takedown requested). Instagram stays paused.
 - Every new source is audited against the posted backlog before it can pass: different gym, different walls and mats, different composition.
+
+## 19 Nov: Part 14 "hot take" (Ryu, Holy City) posted, TikTok only
+- TikTok 11:55:59 GMT, Everyone 12:02: tiktok.com/@shizenbjj/video/7709850058140830998. File edf0717 (6,171,177 bytes, sha b8220ffd...). Caption exact. Your brand ON (shows Promotional content), manual AI off, auto labels untouched. Posted once.
+- Upload notes: first pre-post check gave a generic error after 23 min; retry cleared; Studio then crashed before Post; fresh tab, same exact file re-uploaded, check clear, posted once. No warning, restriction or checkpoint.
+- Instagram remains PAUSED (not posted; reinstatement is not permission). Part 13 stays up. Flow today: 3 submits; spare unused.
+- BURNED: the whole Holy City Jujitsu room (EShhwFBHsR4, every timestamp). Burned list now: art.of.roll reel, Coastal Jiu Jitsu (both videos), Holy City.
+- Measure at 4 h and 23 h vs the strategy targets (views over 1,500, avg over 5 s, full over 25%, 3+ genuine comments, 2+ shares); compare with the October opinion posts' like rates (4.0 and 6.9 per 100 views).
