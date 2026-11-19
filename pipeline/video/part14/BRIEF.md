@@ -26,3 +26,9 @@ Nothing else changes: <BACKGROUND ITEMS>. No text, logos or writing anywhere exc
 
 ## Motion card (after a still pass)
 Static locked-off UGC iPhone footage. The man in the navy rash guard sits completely still with his back to the camera, breathing slowly, then turns his head slightly to one side; his arms and hands do not move. Ambient gym sound only, no words, no music. One take, no cuts, no zoom, no change of angle; keep his face, the clothing and the print exactly; the print and the SHIZEN lettering never redraw; no other text or logos; nobody else appears.
+
+## 19 Nov 10:25 Holy City survey (358 frames): two candidate moments
+- A, 16:50 to 17:10 (best): man in a rainbow top sitting cross-legged, back square to the camera, mid-frame, calm, touching nobody; a crop around x 760 to 1368 (native) should exclude the kneeling pair at right (from about x 1410), the HOLY CITY banner and wall art (x 450 to 630), the orange man at the back left and the watermark. Back about 40% of the height. Check: a small mat logo near his left shoulder line, and how far right the kneeling pair sits.
+- B, 36:40 to 36:50: orange-top man alone sitting three-quarter back to the camera, large (about 55% of the height); but a person lying behind and right of his head in every sampled frame (inside any crop). Backup only.
+- Rejected: the rest (rolling, crowds, wide shots, people facing the camera, or the bald man beside the orange man 34:50 to 36:30).
+- Native extracts requested (untouched 1920x1080): 16:50, 16:55, 17:00, 17:05, 17:10, plus 36:40 and 36:45.
