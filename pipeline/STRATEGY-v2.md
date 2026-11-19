@@ -54,6 +54,7 @@ P12 to P14 baseline: one static back-to-camera shot, near-still opening, print r
 - Any platform integrity flag stops everything and is reported.
 
 ## Source plan
+ACTIVE 19 Nov 20:30: the shirt front is unverified, so face-up and turn-to-camera shots are blocked. Next-day lead is the face-down "you good?" route (one real moment, visible thumbs-up payoff, frame-0 breathing); the back-only flash-forward is an optional upgrade. See pipeline/video/next/PREP-rank1-rank2.md section 10.
 Execution checklist, fail conditions, identity descriptors and cards for ranks 1 and 2: pipeline/video/next/PREP-rank1-rank2.md (authoritative over older repo reuse lines).
 - Rank 1: one unused gym video with a man lying flat on his back after a round AND a man walking onto the mat with his back to the camera (different people are fine; both are replaced with the same fictional look).
 - Rank 2: one unused frame of a big man standing at the mat edge, back to camera, nobody else in the crop.

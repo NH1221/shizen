@@ -169,3 +169,62 @@ Static locked-off UGC iPhone footage. The big man in the charcoal rash guard sta
 | _EQ1e8SvRnw | 0:10, 1:00 | Crowd, obstruction |
 
 - No isolated rank 1 pair found. Status: HOLD.
+
+## 10. NEXT-DAY ROUTE while the shirt front is unverified (19 Nov 20:30; this is the active plan)
+**Why it changes.** A live Drive check (Shizen assets 18 files, originals 4 files, plus name searches) found only BACK views. The front stays unverified, and no front is invented. Shot B face-up and the rank 2 turn both show the front, so both stay blocked.
+
+**The fix:** use a pose that hides the front AND the face, and is common in real footage. That pose is a man lying FACE DOWN after a round, back up. Part 2 (our best-held post: 33% full watch) used this posture. It hides the face, so no identity is copied. The print sits flat on a large back, and the only motion needed is breathing.
+
+### Lead: "you good?" (one real moment, 1 still + 1 clip, 2 spare)
+- **Opening (frame 0, motion):** his back heaves hard with heavy breathing. Text: "\"i'll just do one light round\"" (0 to ~2.2 s). The quote against the flattened body is the expectation-vs-reality tension.
+- **~2.4 s, text:** "coach: you good?"
+- **Payoff, visible action (~3.5 s):** without lifting his head, he raises one hand off the mat in a shaky thumbs-up, then lets it drop. The print is on screen the whole time but is not the payoff.
+- **End (~5.5 s):** heaving continues and the cut loops to frame 0. The music drop lands on the thumbs-up, with the breathing kept under it.
+- **Caption:** one light round they said 🐉 who's the guy at your gym who says this every time? #bjj #nogi #rashguard #nogibjj #bjjhumor
+- **Design:** Ryu, navy.
+- **Structural change vs P12 to P14** (static upright back, near-still opening, print-reveal payoff) on 3 real axes:
+  1. posture: prone, seen from above;
+  2. frame-0 motion;
+  3. payoff type: the visible action of a response, not a print reveal.
+- **Pass line at 23 h:** full watch 25%+ and 2+ shares or saves. Falsifier: two runs at or below 14% full watch.
+
+### Optional upgrade: the flash-forward, back-only version
+Only if the SAME new room also has an upright back-to-camera moment (standing, kneeling up or walking away; solo; any person, since both are replaced with L1). That shot goes in as "how it started", ahead of the face-down shot "how it ended".
+- **Cost:** 2 stills (day N-1) + 2 clips (day N).
+- **Rule:** both must pass. Otherwise post the lead alone. Never pose a shot by prompt.
+
+### Source fail conditions for the face-down shot
+S1 to S9 from section 1 still apply (solo, unused room, no minors, static camera, no lettering, no gi). Also reject if:
+
+| # | Reject if |
+|---|---|
+| P1 | He is not lying face down, or kneeling folded with his forehead on the mat, with his back up and still. Mid-scramble, on his side, or a partner touching him all fail |
+| P2 | Any part of his face is visible: a cheek turned to the camera, or an eye or nose in view |
+| P3 | His back is foreshortened beyond about 45°, so the print could not read. The camera should be behind him or at his side at standing height, looking down |
+| P4 | His back (collar to waist) is under about 35% of the crop height |
+| P5 | Neither hand is visible and free on the mat beside him (both hands under his chest or head fails), since the payoff needs one free hand |
+| P6 | Mat lettering or a logo is under or around him (the P14 lesson) |
+
+**Where to look:** the last seconds of each round in open-mat and sparring-rounds uploads, and end-of-class moments. In those, people drop face down while the camera keeps running.
+
+### Cards (sections 3 and 5 apply; change one slot per retry)
+**Still (image 1 = Ryu_back.jpg; image 2 = the face-down crop):**
+
+Edit image 2, the real photo. Image 2 is the base: keep its exact camera angle, framing, camera height, the room, the man's position and pose lying face down, the light, the phone grain and softness, and real skin texture. Image 1 is only the artwork to print. Change only these things, all in this one edit.
+The man lying face down on the mat keeps his exact pose (<POSE AS IN BASE, e.g. face down, head turned away, right arm along his side, left hand flat on the mat by his shoulder>) and becomes [L1]. [GARMENT, navy; FRONT CLAUSE: "He lies on his front, so the front of the shirt is against the mat and not visible."] On his back, the artwork from image 1 printed large exactly as drawn, centred on his spine. Above it, centred just below the collar, the gold yin-yang circle and the word SHIZEN, copied exactly from image 1 at the same small size and in the same thin letters.
+Nothing else changes: <BACKGROUND ITEMS IN THE BASE>. No text, logos or writing anywhere except the SHIZEN mark on the print. His face stays hidden, and no face from image 2 may appear on anyone.
+
+**Motion (Omni 1.1 Flash, 720p, 6 s):**
+
+Static locked-off UGC iPhone footage. The man in the navy rash guard lies face down on the mat exactly as in the frame, completely spent: from the first frame his back rises and falls hard with deep, heavy breaths. Halfway through, without lifting his head, he slowly raises his <FREE HAND AS IN BASE> a little off the mat into a weak, shaky thumbs-up, holds it for a moment, then lets it drop back onto the mat. His face stays hidden the whole time. Ambient gym sound and his heavy breathing only, no words, no music. One take, no cuts, no zoom, no change of angle; keep his build, the clothing and the print exactly; the print and the SHIZEN lettering never redraw and move with his breathing back; no other text or logos.
+
+**Retry slot** (if the hand is malformed twice): "he lifts his <FREE HAND> a few centimetres off the mat and lets it flop back down". This is the single change. Text 2 stays the same.
+
+### QA (in addition to section 6)
+- No face in any frame.
+- The thumb and hand are anatomically correct at full frame rate, with 5 digits where visible.
+- The print stays flat on the back through the breathing.
+
+### Budget, day N
+- **Submits:** still first, then the clip at least 20 minutes later, with 2 spare re-rolls. Hold if the still fails twice with the same card, because then the base is the problem.
+- **No base, no post.** If no face-down frame passes, post nothing. Never re-use the old format to fill the day.

@@ -414,3 +414,8 @@ Research and tool audit: pipeline/research/2026-11-19-virality-research.md. Plan
   - A low early count does not prove suppression; reach is judged at 23 h.
   - This fits the v2 diagnosis that the one-back-plus-text-reveal format is used up (P14 changed scene and line, not format), but one post cannot confirm it.
 - No change to plan. No generation today; Instagram paused. Source hunt 14:20: 5 videos sampled, none approved (pipeline/video/next/PREP-rank1-rank2.md, section 9). Rank 1 on HOLD. Shot B and the rank 2 turn are blocked until the shirt front is verified from existing files.
+
+## 19 Nov 20:30: route while the shirt front is unverified
+- Instinct's live Drive check (assets 18 files, originals 4 files, name searches; model4-dragon and model4-serpentmark both inspected) found BACK views only. The front stays unverified; none is invented and Nic is not asked.
+- Next-day lead: face-down "you good?". It shows neither the front nor a face, and uses the posture of our best-held post. Frame-0 heaving back; text "\"i'll just do one light round\"" then "coach: you good?"; the payoff is a visible shaky thumbs-up without lifting his head. It needs one solo face-down moment in an unused room. Optional upgrade: the back-only flash-forward, if the same room also has an upright back view. Details are in pipeline/video/next/PREP-rank1-rank2.md section 10.
+- No base, no post: the front gap is not permission to recycle the P12 to P14 format. P14 23 h read is due 20 Nov 10:56.
