@@ -356,3 +356,11 @@ Full doc: "Shizen growth strategy" (claude.ai artifact TQwQZCZiTQASTgJdo2E531). 
 - Best like rates: the 25 and 26 Oct opinion posts ("boring or too much?" 13 l / 322 v; "every rash guard is a billboard, a cartoon or a highlighter" 20 l / 288 v): 4.0 and 6.9 likes per 100 views, far above recent posts (0.1 to 2.1). Low reach. New strategy concept: "Hot take" (opinion line + back shot).
 - P12: 0 views at ~7.5 h on Studio AND the public profile, Everyone, plays normally, no warning. Cause unknown. Account: 3 followers, 115 likes.
 - P13 decision: generate the fresh motion 19 Nov from 08:15 as planned (generation is unaffected), but HOLD posting P13 until the P12 23 h check (~09:30 19 Nov). If P12 is still at 0 then: check the post's own analytics and the Studio post page for any eligibility or review notice; any AI-related or restriction notice triggers the stop rule (report, no posting). If there is no notice at all, post P13 as normal and note it.
+
+## 19 Nov 09:45: Part 13 TikTok posted; Instagram suspension checkpoint; PRODUCTION PAUSED
+- P12 gate 09:31: still 0 views (public and Studio), analytics processing, Everyone, plays fine, no AI or restriction notice. Rule d756509 applied: no notice, so P13 posted.
+- Part 13 TikTok 09:38 GMT: tiktok.com/@shizenbjj/video/7709814741673430275 (file 9c0e57a, sha 1ddccf93...; Your brand ON, manual AI off; content check clean; Everyone 09:40; playback verified; caption exact). Flow today: 1 submit (08:25:09).
+- Instagram NOT posted. The saved session had signed out; on login Instagram showed a human-confirmation checkpoint on an accounts/suspended path. After one image check, Instagram confirmed at 09:44 the profile is not suspended and follows Community Standards. No AI-specific reason shown.
+- Stop rule applied by Instinct: generation and posting PAUSED, reported to Nic, awaiting his direction. Instagram is NOT done for P13; no asset uploaded. Do not treat the clearance as permission to resume.
+- Process note: if any platform shows a human-verification check (CAPTCHA) or suspension screen again, stop and report rather than completing it. Automated completion of those checks is off-limits for us and can itself raise flags.
+- Open questions (unknown cause): P12 0 views for 24 h with no notice; whether the IG checkpoint relates to automated logins. Both logged as unknown.
