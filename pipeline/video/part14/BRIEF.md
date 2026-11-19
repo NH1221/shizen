@@ -55,3 +55,12 @@ Nothing else changes: the blue walls, the blue mat and the water bottle stay as 
 ## Motion card (after a still pass, at least 20 min after the still submit)
 Omni 1.1 Flash, Frames to Video from the passed still only, 720p, 9:16, 6 s, x1.
 Static locked-off UGC iPhone footage. The man in the navy rash guard sits completely still, cross-legged with his back to the camera and his head bowed, breathing slowly, then lifts his head a little and turns it slightly to the left; his arms and hands do not move. Ambient gym sound only, no words, no music. One take, no cuts, no zoom, no change of angle; keep his face, the clothing and the print exactly; the print and the SHIZEN lettering never redraw; no other text or logos; nobody else appears.
+
+## Still v1 (19 Nov 10:48:58, card 28a543f): PASS, `incoming/2026-11-19/stills/P14-v1.jpg` (sha a002f785...)
+1. Overlay: room, camera height, framing and pose match (cross-legged, back square, head bowed, hands in lap). The head points down rather than slightly left: within the base pose (the source head is also bowed, three-quarter); no restage.
+2. Identity at 4x: new man (black crew cut with a fade, dark beard at the jaw, different ear and neck) vs the source (light brown hair, light skin, clean neck). Not the original.
+3. Exactly one person.
+4. Ryu faithful; navy long plain sleeves; the "MAI" shoulder lettering and the rainbow top are gone.
+5. Wordmark: small thin serif under the yin-yang, reads SHIZEN at 2x.
+6. Left mat logo removed. Bottom mat lettering ("...LLAMUR") remains at about 87% of the height: handled in the edit with a static crop that stops above it (720x1280 clip: crop about [613,1090,54,0], a 1.17x phone zoom), so it never appears in the post. Hands and feet correct; mat keeps texture.
+Motion: no earlier than 11:09, motion card above, Frames to Video from P14-v1 only. Clip gates add: bottom lettering must stay below the edit crop line (y about 1090) in every frame.
