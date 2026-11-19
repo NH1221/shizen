@@ -364,3 +364,9 @@ Full doc: "Shizen growth strategy" (claude.ai artifact TQwQZCZiTQASTgJdo2E531). 
 - Stop rule applied by Instinct: generation and posting PAUSED, reported to Nic, awaiting his direction. Instagram is NOT done for P13; no asset uploaded. Do not treat the clearance as permission to resume.
 - Process note: if any platform shows a human-verification check (CAPTCHA) or suspension screen again, stop and report rather than completing it. Automated completion of those checks is off-limits for us and can itself raise flags.
 - Open questions (unknown cause): P12 0 views for 24 h with no notice; whether the IG checkpoint relates to automated logins. Both logged as unknown.
+
+## CORRECTION (Nic, 19 Nov 10:13:53, via Instinct): no posted scene may appear again
+- Nic said Part 13 looked reused. Rule now: a scene or base that has appeared in ANY posted Shizen video is off limits, even with a new generation and new identities. Every post must be visibly different footage the audience has not seen.
+- Burned (never use again): the whole Coastal Jiu Jitsu room (FrHv31_H500 and AwNf71Pkn98; Parts 10 to 13), and the art.of.roll reel scenes (Parts 3 to 9, incl. P2-turtle, P4/P6/P7 seated backs, f003 to f040 frames).
+- Supersedes the 18 Nov 14:55 reading ("proven real bases may be reused"). Part 13 stays up on TikTok (no takedown requested). Instagram stays paused.
+- Every new source is audited against the posted backlog before it can pass: different gym, different walls and mats, different composition.
