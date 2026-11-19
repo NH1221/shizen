@@ -387,3 +387,9 @@ Full doc: "Shizen growth strategy" (claude.ai artifact TQwQZCZiTQASTgJdo2E531). 
 
 ## 19 Nov: strategy v2 (format-first) adopted
 Research and tool audit: pipeline/research/2026-11-19-virality-research.md. Plan: pipeline/STRATEGY-v2.md. New pre-production skill: .claude/skills/format-lab (structural-novelty gate, mechanism, evidence grade, pass line and falsifier). P14 critique accepted: new scene and new line, same format. Part 15 plan (pipeline/video/part15) is superseded by F1 to F4.
+
+## 19 Nov 12:31: strategy corrected to v2.1 after Instinct's audit; P12 deleted
+- P12 deleted from TikTok 12:25 via the normal owner profile menu; "Deleted" confirmed; Studio shows 18 posts with P12 absent and P11, P13, P14 intact. No Instagram deletion or upload (new warning; paused).
+- Corrections made: Ling et al. 'second person' = a character facing the camera, not 'you' wording (support removed from F2); TikTok 2020 newsroom marked historical; arXiv graded preprint; no '700 batch' or '15% noise' precision; lifetime totals not used as matched controls; TikTok automation quote scoped exactly ('operate accounts in bulk'); Instagram terms unverified, observed warning kept separate.
+- Plan changes: F2 relabelled old-format control; F4 now quotes official IBJJF rules only, no Shizen product claims; F1 has a fallback and hold rule; new F6 walk-in reveal (motion in frame 0); F3 is third-person (no fabricated biography).
+- Capability added: format-lab checks adapted (with credit) from four MIT community skill repos; audit in .claude/skills/format-lab/references/community-skills-audit.md. Examples to inspect: pipeline/research/2026-11-19-examples-to-inspect.md.
