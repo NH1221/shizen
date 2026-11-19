@@ -377,3 +377,10 @@ Full doc: "Shizen growth strategy" (claude.ai artifact TQwQZCZiTQASTgJdo2E531). 
 - Instagram remains PAUSED (not posted; reinstatement is not permission). Part 13 stays up. Flow today: 3 submits; spare unused.
 - BURNED: the whole Holy City Jujitsu room (EShhwFBHsR4, every timestamp). Burned list now: art.of.roll reel, Coastal Jiu Jitsu (both videos), Holy City.
 - Measure at 4 h and 23 h vs the strategy targets (views over 1,500, avg over 5 s, full over 25%, 3+ genuine comments, 2+ shares); compare with the October opinion posts' like rates (4.0 and 6.9 per 100 views).
+
+## 19 Nov 12:21 to 12:24: operational log (via Instinct)
+- Nic (12:21): remove the P12 "coach / plain" video from both platforms, and resume Instagram.
+- Instagram (12:22): on opening, a NEW explicit warning that the account is suspected of automated behaviour, with a risk of restriction or permanent disablement. Instinct stopped without dismissing, deleting or uploading. Instagram PAUSED again pending Nic's direction. This is the second Instagram integrity flag in a day (09:44 suspension checkpoint).
+- TikTok P12: the delete option is currently disabled in Studio; Instinct is checking a supported UI route. No deletion completed yet. (P12 also had 0 views for 24 h+; cause unknown. Zero views alone do not prove duplicate suppression.)
+- P13 stays on TikTok; it must NOT be posted to Instagram (Coastal scene burned). P14 is live on TikTok.
+- Risk note (Claude): both platforms prohibit automated or inauthentic account behaviour in their terms. The warning names automation; our posting runs through a browser agent. Cause not proven, but continuing automated Instagram activity after an explicit warning risks losing the account. Recommendation to Nic: no further automated Instagram actions; if Instagram matters, a human does any Instagram step by hand, or Instagram is dropped for now. TikTok carries the same category of risk and should be watched.
