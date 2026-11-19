@@ -26,12 +26,12 @@ Views 676 to 922; average watch about 2.7 to 3.2 s (about 50 to 57% of 5.5 s); f
 - Budget: 1 still + 1 clip; 2 spare.
 - Pass: 3+ comments with tags OR shares 3+ per 1,000. Falsifier: two runs with 0 tags and 0 shares.
 
-### F3. Text-story (13 to 18 s, one slow shot)
-- Structure: one calm shot, 5 to 6 text beats telling a short first-person story with a twist at the end ("first comp. drew a guy with a white belt. thought it'd be easy. ... he was a black belt in judo. the rash guard didn't help."). Different on: length band, narrative shape, point of view, audio (text-paced).
+### F3. Text-story (8 s, one slow shot, 4 beats)
+- Structure: one calm shot, 4 short first-person text beats with a twist at the end ("first comp" / "drew a guy in a white belt" / "turns out: black belt in judo" / "the rash guard did not save me"). Different on: length band, narrative shape, point of view, audio (text-paced).
 - Mechanism: open loop and curiosity, held by reading; tests whether text holds people past 3 s. Evidence: A- (on-screen text 67% vs 30% in viral sample); C (storytime format widespread). Risk: lower completion on longer videos.
-- Hypothesis: average watch rises above 7 s (absolute) even if full watch falls.
-- Budget: 1 still + 1 clip (6 s clip looped is NOT allowed as fake length; use the 8 s option, and cut a calm 8 s; the text carries time). Note: 13 to 18 s needs a slower text pace over 8 s of footage; if under 13 s, keep the story to 8 s.
-- Pass: average watch 6 s+ and full watch 15%+. Falsifier: average watch under 4 s twice.
+- Hypothesis: a 4-beat story holds people longer in absolute terms than our 2-beat puns.
+- Budget: 1 still + 1 clip at 8 s (12 credits; no looping or slowed footage to fake length).
+- Pass: average watch 5 s+ and full watch 15%+. Falsifier: average watch under 3.5 s twice.
 
 ### F4. Utility list (save and search)
 - Structure: one shot of the back, text as a numbered list: "3 things to check before buying a no gi rash guard": 1 flatlock seams, 2 sleeve length, 3 the print won't crack (sublimated prints are dyed in, not printed on top). Last beat: "this one's sublimated". 8 to 10 s. Different on: content job (utility), narrative shape (list), caption (search phrase).
