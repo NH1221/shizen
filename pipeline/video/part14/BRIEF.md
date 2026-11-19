@@ -32,3 +32,26 @@ Static locked-off UGC iPhone footage. The man in the navy rash guard sits comple
 - B, 36:40 to 36:50: orange-top man alone sitting three-quarter back to the camera, large (about 55% of the height); but a person lying behind and right of his head in every sampled frame (inside any crop). Backup only.
 - Rejected: the rest (rolling, crowds, wide shots, people facing the camera, or the bald man beside the orange man 34:50 to 36:30).
 - Native extracts requested (untouched 1920x1080): 16:50, 16:55, 17:00, 17:05, 17:10, plus 36:40 and 36:45.
+
+## 19 Nov 10:36 native review: PASS A at 16:50 (holycity-f1010.png); B rejected
+- Base: `incoming/2026-11-19/src/P14-holycity-1010-crop.png` = real crop x 757 to 1365, full height (608x1080, native pixels) of Holy City 16:50.
+- Gates: novelty PASS (blue walls and mats, Holy City room, never in any post); solo PASS (only the seated man; the kneeling pair starts beyond x 1365, the people at the back left are outside); pose PASS (sitting cross-legged, back square to the camera, head down, hands in his lap, touching nobody, calm; 17:00 head turn and 17:05 hands-behind-head not used); size PASS (head to seat about 37% of the height); light PASS (no window, nothing clipped); watermark outside the crop.
+- Text in crop (handled, not a fail): the right edge of the big white mat logo at the left (about y 375 to 435) and small white mat lettering near the bottom (about y 945). The card turns both into plain blue mat (a background-only change); the bottom lettering also falls outside the edit crop.
+- B (36:40, 36:45): a rolling pair sits directly behind and right of his head in both frames: fails the solo gate.
+
+## FINAL still card (image 1 = brand/print-backs/Ryu_back.jpg; image 2 = incoming/2026-11-19/src/P14-holycity-1010-crop.png, 608x1080; Flow image mode, Nano Banana 2.1, 9:16, x1; clear old selections and verify both by name and size first)
+Edit image 2, the real photo. Image 2 is the base: keep its exact camera angle, framing, camera height, the room, every person's position and pose, the light, the phone grain and softness, and real skin texture. Image 1 is only the artwork to print. Change only these things, all in this one edit.
+First, the man sitting on the mat keeps his exact pose (sitting cross-legged with his back to the camera, his head bowed and his hands resting in his lap) and becomes a completely different, clearly adult man in his early thirties: warm tan skin, short black hair in a crew cut, a short black beard visible at his jaw, a different ear and neck from the original; broad, muscular, athletic shoulders and back. He wears a navy LONG-SLEEVE rash guard, the same navy as the background of image 1, with plain navy sleeves all the way down to his wrists, no logo or writing on the back, shoulders or collar and no print on the sleeves or front, and the artwork from image 1 printed large on his back exactly as drawn, centred on his spine. Above it, centred just below the collar, the gold yin-yang circle and the word SHIZEN, copied exactly from image 1 at the same small size and in the same thin letters. Plain black shorts, with his legs bare as in image 2.
+Nothing else changes: the blue walls, the blue mat and the water bottle stay as they are, except that the white logo and lettering printed on the blue mat become plain blue mat. No text, logos or writing anywhere except the SHIZEN mark on the print. He may not keep his original face, and no face from image 2 may appear on anyone.
+
+## Still gates (Claude checks)
+1. Overlay vs the crop: same room, camera height, framing and pose (cross-legged, head bowed, hands in lap); no restage.
+2. Identity: head, ear, neck and hair visibly different from the source man (short brown hair, light skin) at 4x.
+3. Exactly one person in frame.
+4. Ryu faithful; navy long plain sleeves; the original "MAI" shoulder lettering gone.
+5. Wordmark matches the art and reads SHIZEN at 2x.
+6. Mat logo and lettering gone or reduced to plain mat; no other text; mat keeps texture; hands and feet correct.
+
+## Motion card (after a still pass, at least 20 min after the still submit)
+Omni 1.1 Flash, Frames to Video from the passed still only, 720p, 9:16, 6 s, x1.
+Static locked-off UGC iPhone footage. The man in the navy rash guard sits completely still, cross-legged with his back to the camera and his head bowed, breathing slowly, then lifts his head a little and turns it slightly to the left; his arms and hands do not move. Ambient gym sound only, no words, no music. One take, no cuts, no zoom, no change of angle; keep his face, the clothing and the print exactly; the print and the SHIZEN lettering never redraw; no other text or logos; nobody else appears.
