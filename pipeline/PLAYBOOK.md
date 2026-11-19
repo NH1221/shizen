@@ -384,3 +384,6 @@ Full doc: "Shizen growth strategy" (claude.ai artifact TQwQZCZiTQASTgJdo2E531). 
 - TikTok P12: the delete option is currently disabled in Studio; Instinct is checking a supported UI route. No deletion completed yet. (P12 also had 0 views for 24 h+; cause unknown. Zero views alone do not prove duplicate suppression.)
 - P13 stays on TikTok; it must NOT be posted to Instagram (Coastal scene burned). P14 is live on TikTok.
 - Risk note (Claude): both platforms prohibit automated or inauthentic account behaviour in their terms. The warning names automation; our posting runs through a browser agent. Cause not proven, but continuing automated Instagram activity after an explicit warning risks losing the account. Recommendation to Nic: no further automated Instagram actions; if Instagram matters, a human does any Instagram step by hand, or Instagram is dropped for now. TikTok carries the same category of risk and should be watched.
+
+## 19 Nov: strategy v2 (format-first) adopted
+Research and tool audit: pipeline/research/2026-11-19-virality-research.md. Plan: pipeline/STRATEGY-v2.md. New pre-production skill: .claude/skills/format-lab (structural-novelty gate, mechanism, evidence grade, pass line and falsifier). P14 critique accepted: new scene and new line, same format. Part 15 plan (pipeline/video/part15) is superseded by F1 to F4.
