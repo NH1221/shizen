@@ -18,14 +18,15 @@ Pick ONE primary job and the mechanism behind it:
 List the last 3 posts on these axes; the new concept must differ on at least TWO:
 1. Shot count and structure (one still / two-shot before-after / sequence)
 2. Narrative shape (pun reveal / story with consequence / list / question / instruction)
-3. Point of view (third person about him / second person "you" / first person "me")
+3. Camera relationship (the real picture, never the text): subject's back to a static camera / subject turns to face the camera / subject moves toward or away from the camera / subject's posture changes in frame (standing to down) / two shots cut together. Pronouns in the text are NOT a structural axis.
 4. Content job (joke / utility / identity / craft)
 5. Length band (under 6 s / 7 to 12 s / 13 to 20 s)
 6. Audio role (music drop / ambient / text-paced)
 Changing only the wording, design, gym, caption, CTA or a POV/job LABEL is NOT a new format. A single calm back shot with text and a print payoff is the OLD format, whatever the words say; if used, label it the control.
 
 ## 2b. Adapted checks (sources in references/community-skills-audit.md)
-- Frame-0 motion: something visibly moves within the first second, and the picture shows what the words say.
+- Frame-0 motion (HARD gate for every new format): something visibly moves within the first second (a body lowering, a head turn starting, a walk, heavy breathing large enough to read on a phone), and the picture shows what the words say. No exemptions; the old-format control is the only post allowed a still opening.
+- Visible state change or reversal (provisional, from three sampled viral BJJ shorts, see pipeline/research/2026-11-19-instinct-visual-notes.md): the payoff is something the viewer SEES change (upright to flattened, intimidating to sheepish), not only a line of text or a print reveal. Hypothesis, not proven; never fake spectacle the model cannot render in low motion.
 - Stranger test: someone who neither trains nor knows Shizen gets it from frame 1.
 - Open loop: the payoff lands only in the last second; the hook cannot be resolved without it.
 - BUT/THEREFORE beats, last line written first, last line hands back into the first for the loop.
