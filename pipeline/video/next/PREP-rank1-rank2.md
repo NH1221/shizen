@@ -76,17 +76,21 @@ The shoulder roll is generated, so the source frame can be still.
 > a completely different, clearly adult man in his mid thirties: medium brown skin, a closely shaved head, a full short black beard, dark brown eyes, a thick neck, a different face shape, nose, ears and jawline from the original; very big and heavily muscular, a heavyweight build with wide shoulders and a broad back; barefoot, no tattoos, no jewellery, no watch, no tape
 
 **GARMENT block. Colour: Ryu = navy for rank 1; Twin Koi = dark charcoal for rank 2:**
-> He wears a <COLOUR> LONG-SLEEVE rash guard, the same <COLOUR> as the background of image 1, with a crew neck and plain <COLOUR> sleeves all the way down to his wrists, no logo on the shoulder and no print, logo or writing on the sleeves or front. Plain black shorts and plain black leggings.
+> He wears a <COLOUR> LONG-SLEEVE rash guard, the same <COLOUR> as the background of image 1, with a crew neck and plain <COLOUR> sleeves all the way down to his wrists, no logo on the shoulder and no print, logo or writing on the sleeves. <FRONT CLAUSE> Plain black shorts and plain black leggings.
+
+`<FRONT CLAUSE>`:
+- Shot A, front not visible: "The front of the shirt is not visible in this shot."
+- Shot B and rank 2, which show the front: the VERIFIED front description only. Until a front view is found in existing product files, these shots are BLOCKED. No front is invented, including a plain one.
 
 ## 4. Garment accuracy (what each shot may show)
 - **Known from brand files** (brand/model4-sheet.jpg, brand/print-logo-position.jpg, img/ryu.jpg):
   - Crew neck, raglan seams, long plain sleeves.
   - Body colour equals the print background (Ryu is "gold on midnight").
   - The art is centred on the spine, with the small gold yin-yang and thin serif SHIZEN centred below the back collar.
-- **Front:** the repo has no front view. Every card so far specifies a plain front, so that is the working spec, NOT a verified fact (see section 8). Hebi Mark is a chest design and stays parked.
-- **Shot B (on his back):** the front only. The back art and wordmark are against the mat, so they cannot and must not be visible. FAIL if any art, yin-yang, lettering or logo appears anywhere in the frame.
+- **Front: UNVERIFIED, and a gate.** The repo has no front view. Older cards asserted "no print on the front", but that was never sourced, so it is NOT used here. Shot B and the rank 2 turn are blocked until a front view is found in existing product files. Shot A shows no front and is not blocked. Hebi Mark is a chest design and stays parked.
+- **Shot B (on his back):** the front only (blocked until the front is verified). The back art and wordmark are against the mat, so they cannot and must not be visible. FAIL if any art, yin-yang, lettering or logo appears anywhere in the frame.
 - **Shot A (walking away):** back art and wordmark only.
-- **Rank 2:** back art and wordmark at the start. During the turn, the visible side and front stay plain, and the art stays on the back and turns with it.
+- **Rank 2:** back art and wordmark at the start. During the turn, the visible side and front must match the verified front (blocked until then), and the art stays on the back and turns with it.
 
 ## 5. Cards (slots in `<>`; change ONE slot per retry, never rewrite)
 
@@ -108,13 +112,13 @@ As Still A, with these changes:
 - Garment colour: "dark charcoal".
 
 ### Motion B (Omni 1.1 Flash, 720p, 6 s)
-Static locked-off UGC iPhone footage. The man in the navy rash guard lies flat on his back exactly as in the frame, completely spent: from the first frame his chest rises and falls hard in deep, heavy breaths; his arms and hands stay where they are on the mat; near the end he lets out one long slow breath and his head sinks back slightly. Ambient gym sound and his heavy breathing only, no words, no music. One take, no cuts, no zoom, no change of angle; keep his face, the clothing and the plain shirt front exactly; no artwork, lettering or logo appears anywhere; no smiling.
+Static locked-off UGC iPhone footage. The man in the navy rash guard lies flat on his back exactly as in the frame, completely spent: from the first frame his chest rises and falls hard in deep, heavy breaths; his arms and hands stay where they are on the mat; near the end he lets out one long slow breath and his head sinks back slightly. Ambient gym sound and his heavy breathing only, no words, no music. One take, no cuts, no zoom, no change of angle; keep his face, the clothing and the shirt front exactly as in the frame; no artwork, lettering or logo appears anywhere; no smiling.
 
 ### Motion A (6 s)
 Static locked-off UGC iPhone footage; the camera does not move or follow. The man in the navy rash guard keeps walking away from the camera at a slow, relaxed pace, three or four steps onto the mat, arms hanging loosely with a small natural swing, head facing forward; each foot plants with no sliding. Ambient gym sound only, no words, no music. One take, no cuts, no zoom, no change of angle; keep his build, hair, the clothing and the print exactly; the print and the SHIZEN lettering never redraw and move with his back; no other text or logos; he does not turn around.
 
 ### Motion rank 2 (6 s)
-Static locked-off UGC iPhone footage. The big man in the charcoal rash guard stands with his back to the camera and from the first frame rolls his shoulders twice, loosening up; then he turns his head and upper body toward the camera with a sheepish, apologetic grin, eyebrows raised, as if saying sorry; his arms stay hanging at his sides the whole time and his feet do not move. Ambient gym sound only, no words, no music. One take, no cuts, no zoom, no change of angle; keep his build, the clothing and the print exactly; the print and the SHIZEN lettering stay on his back and turn with it, never redraw; the sleeves and shirt front stay plain charcoal; one consistent face once it appears; no other text or logos.
+Static locked-off UGC iPhone footage. The big man in the charcoal rash guard stands with his back to the camera and from the first frame rolls his shoulders twice, loosening up; then he turns his head and upper body toward the camera with a sheepish, apologetic grin, eyebrows raised, as if saying sorry; his arms stay hanging at his sides the whole time and his feet do not move. Ambient gym sound only, no words, no music. One take, no cuts, no zoom, no change of angle; keep his build, the clothing and the print exactly; the print and the SHIZEN lettering stay on his back and turn with it, never redraw; the sleeves stay plain charcoal and the shirt front stays exactly as in the still (verified front); one consistent face once it appears; no other text or logos.
 
 ## 6. Pre-submit and QA gates
 - **Before every submit:**
@@ -126,7 +130,7 @@ Static locked-off UGC iPhone footage. The big man in the charcoal rash guard sta
   - The camera, framing or room changed.
   - The pose changed.
   - Print art inexact, or the wordmark is large, bold or garbled (A and rank 2).
-  - Any print or logo on the sleeves or front; any art in B.
+  - Any print or logo on the sleeves; a front that differs from the verified front; any back art in B.
   - Bad hands or feet.
   - Any text other than the wordmark.
 - **Continuity QA, rank 1 only.** Put still A and still B side by side. They must match on:
@@ -149,6 +153,19 @@ Static locked-off UGC iPhone footage. The big man in the charcoal rash guard sta
 **Rank 2:** still, then clip at least 20 minutes later on the same day; 2 spare.
 
 ## 8. Remaining gaps (do not fill by guessing)
-- **Shirt front:** the actual front is not documented in the repo. If Instinct finds a front view in existing product files, the GARMENT block is updated to match it. Nic is not asked.
+- **Shirt front (real gap, blocks shot B and rank 2):** not documented in the repo. Searched 19 Nov: brand/, img/, incoming/ and index.html; all back-only. Research existing files first: the waitlist page, supplier mockups and any product photos. Nic is not asked before that research, and no front is invented.
 - **Untested motion:** walking, lying-down breathing and a face turn are all untested with this model.
 - **Rank 1 room:** no candidate room with both moments has been found yet.
+
+## 9. Source hunt log
+- 19 Nov 14:20 (Instinct): 5 new videos sampled; none approved. These are sampled positions only, not whole videos rejected.
+
+| Video | Positions | Reason |
+|---|---|---|
+| nJ46FhGuV1A | 3:55, 4:12 | Crowd, possible youth |
+| HeQynIT08f8 | 0:50 | Fisheye, glare, small crowds |
+| B_zIC2sj5yo | 0:20, 5:15 | Standing adults overlap, background pairs |
+| fIswNOWtRSQ | 0:20 | Gi, contact, crowd |
+| _EQ1e8SvRnw | 0:10, 1:00 | Crowd, obstruction |
+
+- No isolated rank 1 pair found. Status: HOLD.

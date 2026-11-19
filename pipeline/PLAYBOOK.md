@@ -400,3 +400,17 @@ Research and tool audit: pipeline/research/2026-11-19-virality-research.md. Plan
 - Instinct's sampled-frame notes on three viral BJJ shorts added (pipeline/research/2026-11-19-instinct-visual-notes.md): recognisable behaviour, a concrete visible state change, tension between two expectations, captions pointing at the action. Provisional, heavily confounded; no footage reused.
 - format-lab: the POV axis is now the real camera relationship (pronouns never count); frame-0 motion is a HARD gate for every new format (control exempt); visible state change or reversal added as a provisional check.
 - Ranked rerun of 6 ideas in pipeline/STRATEGY-v2.md. Winner: "one round" flash-forward (stills the day before, clips on the day, so 2 spare re-rolls; fallback only to an already-passed complete clip that independently passes, else hold). Backup slot: "the one nobody wants to roll with" (turn-to-camera reversal). The old F6 ("forgot it was no gi day") was dropped: it did not follow logically and was still a print reveal.
+
+## 19 Nov 16:00: Part 14 at ~4 h (age 4 h 04 m, live Studio, via Instinct)
+| Post | Age | Views | Likes | Comments | Shares | Saves | Follows | Total play | Avg watch | Full watch | 0:01 hold | Traffic |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| P14 hot take (Ryu, Holy City) | 4 h 04 m | 98 | 2 | 0 | 0 | 0 | 0 | 3 m 31 s | 2.09 s | 5.9% | not read (retention text: most left at 0:01) | not shown (under 100 views); search processing |
+- Status: Everyone, 18 posts, P12 absent, no warning. Content list showed 97 briefly, then analytics 98 (normal update).
+- Context, NOT age-matched: P13 at ~6 h 20 m showed 635 views and 14 likes on the content list. This is not the 23 h checkpoint.
+- Age-matched 4 h comparisons: P10 662 v / 15 l / 3.14 s / 14.3%; P11 562 v / 4 l / 2.69 s / 13.1%.
+- Read (provisional, one run, about 100 views):
+  - Reach at 4 h is far below P10 and P11, and average and full watch are below every 4 h read so far.
+  - Rates from 2 likes and about 6 full watches are fragile.
+  - A low early count does not prove suppression; reach is judged at 23 h.
+  - This fits the v2 diagnosis that the one-back-plus-text-reveal format is used up (P14 changed scene and line, not format), but one post cannot confirm it.
+- No change to plan. No generation today; Instagram paused. Source hunt 14:20: 5 videos sampled, none approved (pipeline/video/next/PREP-rank1-rank2.md, section 9). Rank 1 on HOLD. Shot B and the rank 2 turn are blocked until the shirt front is verified from existing files.
