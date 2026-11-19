@@ -96,6 +96,7 @@ No Flow until Claude passes a frame. Today's spare submit stays unused unless a 
 Where to look (fast): the last 10 seconds of each round in open-mat and sparring-rounds videos, end-of-class moments, and "rounds" or "open mat" Shorts and Reels filmed from the wall. Send link, timestamp and 3 untouched native frames per candidate.
 
 ## CORRECTED 18 Nov 14:57 (Nic's clarification 14:55): proven real bases are allowed again; only the generation must be new. The face-down hunt stops.
+> [SUPERSEDED 19 Nov 10:13, history only; do NOT follow] Any room or scene seen in a posted video is now off limits at every timestamp. Current checklist: pipeline/video/next/PREP-rank1-rank2.md.
 
 ## Part 13 FINAL: "guess his belt" (Twin Koi, charcoal) on the P10 real base
 - Why: the strategy's payoff-at-the-end format with a question anyone can answer. The P10 base already shows a coach staring at the back, which sells the joke. Twin Koi (not Ryu) so the post does not look like a re-run of Part 10 on the same base.

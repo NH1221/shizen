@@ -29,7 +29,7 @@ P12 to P14 baseline: one static back-to-camera shot, near-still opening, print r
 ### Why rank 1 wins
 - It is the only idea whose payoff is a big visible state change between two shots (confident vs flattened), the mechanism seen in all three sampled shorts, scaled to what we can render (walking and lying still, both low motion).
 - It is our own best-held structure (Part 2: a two-shot humbled-white-belt story, 33% full watch, one run, plus our only genuine comment).
-- The print is present in both shots but is not the payoff, which breaks the P12 to P14 template on four axes (shot count, frame-0 motion, payoff type, camera relationship).
+- The garment is in both shots but the print is not the payoff (shot B, on his back, shows only the plain front; the back art appears in shot A only), which breaks the P12 to P14 template on four axes (shot count, frame-0 motion, payoff type, camera relationship).
 - Rank 2 is close and cheaper to source (one standing back shot), so it is the backup slot. Rank 3 has the strongest single-clip change but the highest motion risk. Ranks 4 and 5 put the payoff in text, which the sampled shorts did not rely on.
 
 ### Rank 1 spec: "one round" flash-forward
@@ -54,6 +54,7 @@ P12 to P14 baseline: one static back-to-camera shot, near-still opening, print r
 - Any platform integrity flag stops everything and is reported.
 
 ## Source plan
+Execution checklist, fail conditions, identity descriptors and cards for ranks 1 and 2: pipeline/video/next/PREP-rank1-rank2.md (authoritative over older repo reuse lines).
 - Rank 1: one unused gym video with a man lying flat on his back after a round AND a man walking onto the mat with his back to the camera (different people are fine; both are replaced with the same fictional look).
 - Rank 2: one unused frame of a big man standing at the mat edge, back to camera, nobody else in the crop.
 - Rank 3: one unused frame of a man standing, back to camera (the collapse is generated; higher risk).

@@ -1,5 +1,7 @@
 # Shizen content playbook (updated weekly by Claude)
 
+> **CURRENT ORIGINALITY RULE (Nic, 19 Nov 10:13; authoritative for execution).** A source video, room or scene that has appeared in ANY posted Shizen video is off limits at every timestamp, even with new generations and new identities. Every post needs a new still and a new clip from an unused real frame. Burned: the art.of.roll reel, Coastal Jiu Jitsu (FrHv31_H500, AwNf71Pkn98) and Holy City Jujitsu (EShhwFBHsR4). Older entries below that allow reusing a proven base or another timestamp of a used video (18 Nov 10:52, 12:58 and 14:55, and part13/BRIEF.md) are history only and must NOT be followed. The current production checklist is pipeline/video/next/PREP-rank1-rank2.md.
+
 Goal: 5+ people comment "<number> waitlist" or sign up at waitlister.me/p/shizen-bjj-rashguards. Then open Etsy.
 
 ## Week 0 (data read 23 Oct 2026)
@@ -330,18 +332,18 @@ Static locked-off UGC iPhone footage. The man in the <COLOUR> rash guard sits co
 - Test: standalone Ryu, 4.1 s, payoff at 1.6 s on the drop. Compare at 4 h with Part 10 (full over 25%, avg over 3.1 s, 0:01 over 70%, likes 15+, views over 700).
 - Prompt method v1 first run: still 2 rolls (v3 wordmark variance, v4 pass with the unchanged card), clip pass first roll. 3 of 4 submits used.
 - Spare submit 18 Nov left unused on purpose: the only proven bases are the same Coastal spot used in Parts 10 to 12, and a fourth post from it would make the profile look repetitive. The bottleneck is new real sources, not submits.
-- 18 Nov: source hunting for new two-person rooms failed on 12 videos (distance, contact, windows, fisheye, crowds). With 99.7%+ For You traffic and 1 follower, repeating a proven room is cheap; reuse proven real bases and vary design, text and action. Hunt for new rooms only in spare time.
+- [SUPERSEDED, history only; see the current rule at the top] 18 Nov: source hunting for new two-person rooms failed on 12 videos (distance, contact, windows, fisheye, crowds). With 99.7%+ For You traffic and 1 follower, repeating a proven room is cheap; reuse proven real bases and vary design, text and action. Hunt for new rooms only in spare time.
 
 ## Standing rule (Nic, 18 Nov 12:58, via Instinct): every post is fully original
 - Each new post needs ORIGINAL footage and a NEW start frame. Never reuse a prior start frame, a generated still or clip, or a real source-footage segment already used. Supersedes the 18 Nov 10:52 reuse plan (commit 2165f1b) and the "reuse proven bases" line above.
-- Different timestamps of an already-used video are allowed only if they are a different moment and pose (not the same segment); every person still fully replaced and face-checked.
+- [SUPERSEDED 19 Nov 10:13: no timestamp of a used video is allowed] Different timestamps of an already-used video are allowed only if they are a different moment and pose (not the same segment); every person still fully replaced and face-checked.
 - Consequence: real source frames are now the main production constraint (one new passed frame per post). Strategy response: build formats from SINGLE-PERSON shots (a man walking away, standing or sitting with his back to the camera), which are far more common in real footage than the back-plus-watcher pair, and keep a bank of passed frames ahead of production.
 
 ## Growth strategy (18 Nov, Nic asked for a whole-strategy review)
 Full doc: "Shizen growth strategy" (claude.ai artifact TQwQZCZiTQASTgJdo2E531). Core: 12 posts all stopped at 578 to 777 views (one test batch, never expanded). Cause: a format that is used up in 2 seconds (one still back plus a pun), questions nobody answers, and a real-footage bottleneck. Plan: payoff-at-the-end posts of 1 to 2 single-person shots, frame-1 conflict kept, life questions in captions, reply videos, a banked supply of single-person frames, fast replies to comments on our own posts, and a recurring fictional cast in one creator voice. Two-week test from 19 Nov: targets at 23 h are 1,500+ views, 5 s+ average watch, 25%+ full watch, 3+ genuine comments, 2+ shares.
 - 18 Nov 13:28 Part 12 4 h check: TikTok Studio shows 0 everywhere with "retention data still processing" (displayed state, not a result); public post plays fine, Everyone, no warning. IG 1 like, 0 comments. Re-read at 23 h; if Studio still shows 0, record the public view count from the profile grid instead.
 
-## CORRECTION (Nic, 18 Nov 14:55, via Instinct): originality rule clarified
+## [SUPERSEDED 19 Nov 10:13, history only; do NOT follow] CORRECTION (Nic, 18 Nov 14:55, via Instinct): originality rule clarified
 - A real source frame may be reused, including a proven real base. What must be new for every post is the Flow generation: a NEW still generated from the real frame and a NEW clip. Never post or re-cut an old generated still or clip as a new post.
 - This replaces the stricter 12:58 reading above ("new source footage every post"). The real-footage bottleneck is lifted; source hunts stop unless a concept needs a new pose.
 - Still applies: every visible person fully replaced and face-checked against the real frame, exact print art, adult male leads, no tiger or Tsuru, free Flow only, 4 submits a day, 20 min apart.
