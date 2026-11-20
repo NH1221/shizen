@@ -173,7 +173,7 @@ Static locked-off UGC iPhone footage. The big man in the charcoal rash guard sta
 ## 10. NEXT-DAY ROUTE while the shirt front is unverified (19 Nov 20:30; this is the active plan)
 **Why it changes.** A live Drive check (Shizen assets 18 files, originals 4 files, plus name searches) found only BACK views. The front stays unverified, and no front is invented. Shot B face-up and the rank 2 turn both show the front, so both stay blocked.
 
-**The fix:** use a pose that hides the front AND the face, and is common in real footage. That pose is a man lying FACE DOWN after a round, back up. Part 2 (our best-held post: 33% full watch) used this posture. It hides the face, so no identity is copied. The print sits flat on a large back, and the only motion needed is breathing.
+**The fix:** use a pose that hides the front AND the face, and is common in real footage. That pose is a man lying FACE DOWN after a round, back up. Part 2 (our best-held post: 33% full watch) used this posture. Hiding the face does NOT remove the replacement requirement: the source person's whole identity and body (hair, skin, build, ears, neck, hands, clothing) is fully replaced with L1 and checked at 4x against the source. The hidden face only lowers the risk of a face carrying over. The print sits flat on a large back, and the only motion needed is breathing.
 
 ### Lead: "you good?" (one real moment, 1 still + 1 clip, 2 spare)
 - **Opening (frame 0, motion):** his back heaves hard with heavy breathing. Text: "\"i'll just do one light round\"" (0 to ~2.2 s). The quote against the flattened body is the expectation-vs-reality tension.
@@ -230,7 +230,7 @@ Static locked-off UGC iPhone footage. The man in the navy rash guard lies face d
 - **No base, no post.** If no face-down frame passes, post nothing. Never re-use the old format to fill the day.
 
 ## 11. Claude's discovery pass for section 10 (20 Nov ~08:50; all candidates UNINSPECTED)
-**Method:** web search plus YouTube oEmbed, which gives the title and channel only. No browser and no frames. YouTube watch pages and the transcript sites did not return descriptions, chapters or transcripts, so **no timestamps are given**. None of these IDs appears in the repo, and none is from a burned room or channel. Nothing here is a pass. Instinct validates the pixels.
+**Method:** web search plus YouTube oEmbed, which gives the title and channel only. No browser and no frames. YouTube watch pages and the transcript sites did not return descriptions, chapters or transcripts, so **no timestamps are given**. None of these IDs appears in the repo, but an ID's absence does NOT prove the room is unused: each candidate stays UNVERIFIED against the posted-scene grid until it is inspected. Nothing here is a pass. Instinct validates the pixels.
 
 | # | URL | Title / channel (oEmbed) | Why it might hold the moment | Main risks |
 |---|---|---|---|---|
@@ -259,3 +259,13 @@ These are search guidance only, not timestamps.
 - The P2 to P6 fail rules apply, with P3 read as: back within about 30° of square to the camera.
 
 **Gate unchanged:** no inspected base means no Flow and no post.
+
+### Section 11 inspection results (Instinct, 20 Nov; sampled positions only, NOT whole-video rejections)
+| # | Sampled at | Finding | Verdict at that position |
+|---|---|---|---|
+| C1 obS70stuGls | 2:00 | Front-facing presenter on a yoga mat at home; not a gym setting | Fail (S-setting, frontal) |
+| C2 ctzrqCgIr2w | 0:12 | Frontal presenter on a yoga mat in a plain room | Fail (setting, frontal) |
+| C3 rehggq2V-TE | 0:35 | Low-resolution contact pair on green mats; whole video only 50 s | Fail (S2, S5, S9) |
+- The full fetched transcripts for C1 and C2 do not establish a prone or child's-pose ending.
+- None of C1 to C3 is qualified footage. Do not re-propose them as candidates for this pose without new evidence.
+- The seated-from-behind variant remains available, but it has no approved real source. No Flow until one passes.

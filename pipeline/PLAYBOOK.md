@@ -419,3 +419,17 @@ Research and tool audit: pipeline/research/2026-11-19-virality-research.md. Plan
 - Instinct's live Drive check (assets 18 files, originals 4 files, name searches; model4-dragon and model4-serpentmark both inspected) found BACK views only. The front stays unverified; none is invented and Nic is not asked.
 - Next-day lead: face-down "you good?". It shows neither the front nor a face, and uses the posture of our best-held post. Frame-0 heaving back; text "\"i'll just do one light round\"" then "coach: you good?"; the payoff is a visible shaky thumbs-up without lifting his head. It needs one solo face-down moment in an unused room. Optional upgrade: the back-only flash-forward, if the same room also has an upright back view. Details are in pipeline/video/next/PREP-rank1-rank2.md section 10.
 - No base, no post: the front gap is not permission to recycle the P12 to P14 format. P14 23 h read is due 20 Nov 10:56.
+
+## 20 Nov 11:00: Part 14 at 23 h (live Studio 10:59:46; posted 19 Nov 11:55:59; age 23 h 03 m 47 s; via Instinct)
+The 4 h snapshot above (19 Nov 16:00: 98 views, 2.09 s, 5.9%) is kept unchanged.
+
+| Post | Age | Views | Likes | Comments | Shares | Saves | Follows | Total play | Avg watch | Full watch | 0:01 hold | Traffic |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| P14 hot take (Ryu, Holy City) | 23 h 04 m | 354 | 4 | 0 | 1 | 1 | 0 | 16 m 47 s | 2.66 s | 9% | not read (platform text: most viewers stopped at 0:01) | For You 98.6%, Search 0.8%, Profile 0.3%, Other 0.3%; Following, DM and Sound each <0.1%; search queries still processing |
+- No warning visible. No breakout or buying-interest comments. Instinct's screenshot confirms the metric labels and the share and save counts.
+- Age-matched 23 h comparisons, same old format (one static back, a text line, a print reveal):
+  - P10: 692 v / 15 l / 3.16 s / 14.4%.
+  - P11: 676 v / 5 l / 2.66 s / 12.5%.
+  - P14 is lowest on views and full watch, equal to P11 on average watch, and earned 1 share and 1 save.
+- Learning (one run; small counts, so rates are fragile): this is not a successful format. Three age-matched 23 h reads of the static back plus print-reveal format sit at or below about 700 views and 9 to 14% full watch. That supports abandoning it, including as a control. A new scene and a new line did not lift it.
+- Next: no base means no post. The section 10 "you good?" lead (face down, or a seated slump from behind) waits on an inspected source.
