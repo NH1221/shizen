@@ -228,3 +228,34 @@ Static locked-off UGC iPhone footage. The man in the navy rash guard lies face d
 ### Budget, day N
 - **Submits:** still first, then the clip at least 20 minutes later, with 2 spare re-rolls. Hold if the still fails twice with the same card, because then the base is the problem.
 - **No base, no post.** If no face-down frame passes, post nothing. Never re-use the old format to fill the day.
+
+## 11. Claude's discovery pass for section 10 (20 Nov ~08:50; all candidates UNINSPECTED)
+**Method:** web search plus YouTube oEmbed, which gives the title and channel only. No browser and no frames. YouTube watch pages and the transcript sites did not return descriptions, chapters or transcripts, so **no timestamps are given**. None of these IDs appears in the repo, and none is from a burned room or channel. Nothing here is a pass. Instinct validates the pixels.
+
+| # | URL | Title / channel (oEmbed) | Why it might hold the moment | Main risks |
+|---|---|---|---|---|
+| C1 | https://www.youtube.com/watch?v=obS70stuGls | "BJJ & MMA Yoga Cooldown - Prevent Future Injury" / Shapeshift Wellness | A cooldown follow-along: one presenter, static camera; child's pose and face-down rest are standard cooldown poses | Room may be a studio, not BJJ mats; camera may be frontal or side-on (P3) |
+| C2 | https://www.youtube.com/watch?v=ctzrqCgIr2w | "BJJ Cooldown and Switch Off After Class Follow Along" / Yoga for BJJ | Same type; "switch off" suggests a lying rest section | Same as C1; the presenter is the channel's own known instructor (identity is fully replaced, but flag it) |
+| C3 | https://www.youtube.com/watch?v=rehggq2V-TE | "No-Gi Open Mat" / Brazilian Jiu-Jitsu Team Malta | A real open-mat room; round ends produce face-down and seated rests | Crowds and pairs (S2) are likely; the camera may move |
+
+**Where to look:**
+- C1 and C2: the final third, where cooldowns usually end in child's pose and lying rests.
+- C3: the seconds after each round ends.
+
+These are search guidance only, not timestamps.
+
+**Reserve, not ranked:** https://www.youtube.com/watch?v=hc7ZcgM9JWs ("5 stretches to do after BJJ training" / BeyondGrappling). The oEmbed size is 4:3, so check the native resolution against S5.
+
+**Rejected at discovery:**
+- _0Nq8YtJMzw, a Chewjitsu open mat: a known creator's room, crowded.
+- Clavicular open-mat clips: a famous person.
+- Am-pQ7jkVCI: a talking-head discussion.
+
+### Pose variant added to the section 10 lead (this widens sourceability; same concept, same text, same payoff)
+"you good?" also works with **P1-alt, a seated slump from behind**:
+- He sits on the mat with his back to the camera, head hanging, shoulders rounded, solo, and one hand free on the mat or on his knee. The face and front stay hidden.
+- Frame-0 motion: his shoulders heave with breathing. The payoff is the same weak thumbs-up raised beside him, without turning round.
+- Card change, a single slot: the pose description and "He sits with his back to the camera, so the front of the shirt is not visible."
+- The P2 to P6 fail rules apply, with P3 read as: back within about 30° of square to the camera.
+
+**Gate unchanged:** no inspected base means no Flow and no post.
