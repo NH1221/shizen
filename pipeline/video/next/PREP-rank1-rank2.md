@@ -435,3 +435,31 @@ Gate unchanged: no passed source means no Flow and no post. TikTok search stays 
   - Kimura from side mount and "Submit from mount like a pro": the top man's front and face are toward the camera.
   - The Ezekiel, armbar and "S mount subs" clips: close frontal or talking.
 - **If both fail, next query:** "nogi mount escape drill #shorts". Escape drills hold the mount on a static camera, the top man is often shot from behind so the escaping partner is visible, and the clips are usually two-person gym content, not famous-athlete compilations.
+
+### Grid 4 picks inspected (Instinct, sampled positions only)
+- **yG7LmsaYIJc** ("Omoplata from mount"): the opening shows the red-shirt man's FRONT and chest toward the camera, not his back, and there are wall photos above. Fail (G2, S7).
+- **UejUvF67Pfs** ("Live rolling triangle from the mount position"), at about 5 s: a tiny foreshortened pair on a large red mat. A large-body crop is far below 600x1066 real pixels. Fail (S5).
+
+### Grid 5: "nogi mount escape drill #shorts" (Shorts chip, 21 Nov 21:49)
+- **Open 1:** top row, second, "EASY BJJ Mount Escape #bjj #grappling" (403k views). No-gi, grey mats. The top man in a black rash guard is in mount, seen from the side and behind, with his back partly toward the camera.
+  - Check for held mount frames before the bridge (G3), whether his back can be near square (it looks about 45° in the thumbnail, so G2 is a risk), a visible brand logo on his shirt (it is replaced, but note it), a free bottom hand (G5), and no third person (G1).
+- **Open 2, low confidence:** top row, middle, "3 options to get out of mount ! BJJ". A no-gi pair in mount on grey mats.
+  - Risks: a large gym wall logo (S7; check whether a crop clears it) and a side-on top man (G2).
+- **Skip:**
+  - gi: the Upa partner drill, "The best mount escape";
+  - a child: "Mount Escape Countered", so S3;
+  - famous: Craig Jones S-mount;
+  - the top man faces the camera (front shown): "This mount escape is so easy", "This is all I've been using";
+  - close crops with no readable back: "Realistic mount escape", "MUST KNOW Mount escape".
+
+### Widening the pair concept: front-safe poses that native footage actually shows
+Rear-facing top mount is scarce, so the "let's go light" tap concept now accepts any HELD two-person position where OUR man's back faces the camera and his front is hidden.
+- **(a) Top mount or top position, from behind.** Unchanged.
+- **(b) Our man TURTLED,** on knees and elbows with his back up and face down. The partner is beside him or at his head, NOT lying across the print.
+  - Text 1: "him: \"let's go light\"". The payoff is our man tapping the mat fast three times.
+  - It is the same joke, told from the victim's side.
+- **(c) Our man behind a seated partner** (a back take), with the camera behind our man.
+
+The G1 to G6 rules apply; the print must be at least two-thirds unobstructed. Both identities are fully replaced. The FRONT CLAUSE for (b): "He is on his knees and elbows facing the mat, so the front of the shirt is not visible."
+
+**Next query if grid 5 fails:** "nogi turtle drill #shorts". Turtle attack and escape instructionals hold the turtle still on a static camera, and the turtled man's back faces up or toward the camera by design.
