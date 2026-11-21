@@ -406,3 +406,17 @@ Static locked-off tripod phone footage of a no-gi roll. The man in the navy rash
 - The first frame that passes G1 to G6 and the room check becomes the base.
 
 Gate unchanged: no passed source means no Flow and no post. TikTok search stays paused pending Nic.
+
+### Grid 3: "nogi roll tripod #shorts" (Shorts chip, 21 Nov 21:27)
+"tripod" pulled the technique meaning (tripod sweep and pass instructionals), not tripod-camera rolls. That was Claude's query error.
+
+- **Open 1, low confidence:** top-left, "No-Gi Tripod Passing #bjj #brazilianjiujitsu #jiujitsu" (1.7k views). Two no-gi adults in a clean room. The top man is bent over his passing partner, with his back toward a high camera.
+  - Check whether the pass holds still for about 2 s (G3), whether the back is near square to the camera (G2), and whether the bottom man has a free hand (G5).
+  - The burned-in overlay text is heavy, so check whether a clean crop exists.
+  - The URL is not visible in the screenshot. Instinct copies it from the grid.
+- **Skip the other 9:**
+  - gi: knee bar, both "Tripod sweep when they stand up" clips, "2 on 1 standing";
+  - standing or scramble drills: De La Riva, Berimbolo, the Geno Morelli cartwheel (a known athlete);
+  - frontal or close talking-instruction thumbnails: "Tripod to foot lock", "Learn the tripod sweep", "Fix your tripod pass".
+
+**Corrected next query** (one only): "nogi mount #shorts". Instructional mount clips show a HELD top position on a static camera in a clean, often empty room, which is exactly G3. Open thumbnails where the top man's back faces the camera.
