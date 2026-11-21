@@ -463,3 +463,33 @@ Rear-facing top mount is scarce, so the "let's go light" tap concept now accepts
 The G1 to G6 rules apply; the print must be at least two-thirds unobstructed. Both identities are fully replaced. The FRONT CLAUSE for (b): "He is on his knees and elbows facing the mat, so the front of the shirt is not visible."
 
 **Next query if grid 5 fails:** "nogi turtle drill #shorts". Turtle attack and escape instructionals hold the turtle still on a static camera, and the turtled man's back faces up or toward the camera by design.
+
+### Grid 5 picks inspected (Instinct, sampled positions only)
+- **9g26jnF_pzw** ("EASY BJJ Mount Escape"; 29.941 s, 720x1280), at about 19 s: the top man is side-on and substantially clipped by the right frame edge, the bottom partner's hand is over his back, and there is a large title above. Fail (G2, G1-complete pair).
+- **2LJnu1lo-y4** ("3 options to get out of mount"), sample: the top man's side and a foreshortened back under a huge wall logo. Fail (G2, S7).
+
+### Grid 6: "nogi turtle drill #shorts" (Shorts chip, 21 Nov 21:58). The last grid of the 21 Nov pass
+URLs are not visible in the screenshot. Instinct copies them from the grid.
+- **Open 1:** top row, middle, "How to attack a tight turtle guard #bjj #jiujitsu #mma ..." (166k views). On blue mats, a man in a plain grey tee is TURTLED with his back up and face down; the attacker kneels at his side. This is pose (b).
+  - Check that the turtled man's back stays readable and at least two-thirds uncovered by the attacker's arm (G2), and that the position holds (G3).
+  - Framed portrait photos on the wall must be croppable (S7), with no third person (G1).
+- **Open 2:** bottom row, middle, "Turtle Drill || Follow me for more #jiujitsu techniques ..." A SOLO man on hands and knees, face down, on grey mats; there is a gym logo and timer at the top.
+  - If his back reads square from above or behind, this is a solo base for the section 10 "you good?" concept (frame-0 breathing, weak thumbs-up), not the pair tap.
+  - Check whether a crop clears the logo and timer (S7), the back angle (P3) and a free hand (P5).
+- **Skip:**
+  - first two cards: an ad overlay;
+  - 10th Planet truck entry: wide, crowd, logo;
+  - leg lock from turtle and the NoGi chokes close-up: gi;
+  - the turtle-escape arrow clip: possible minor, overlay;
+  - armbar entry: the top man faces the camera;
+  - Kimura trap: overlay, background faces.
+
+### NEXT ACTION if both fail: pivot the format, not the pose query
+**"The demo dummy"** is built on the most common native footage we have seen all night: an instructor FACES the camera and demonstrates on a partner whose BACK is to the camera. Our man is that partner.
+- **Base:** a held standing or kneeling demo position (front headlock, a standing guillotine grip, collar tie) with the partner's back square to a static camera. The instructor is fully replaced, in a plain heather-grey tee (PARTNER identity, section 14).
+- **Text 1 (0 to ~2.3 s):** "coach: \"can i borrow you for a sec\"". The frame-0 motion is the instructor adjusting his grip.
+- **Payoff:** our man taps fast on the instructor's thigh or arm (a visible action). Text 2: "me, every single class:".
+- **Caption:** who's the demo dummy at your gym? 🐉 #bjj #nogi #rashguard #nogibjj #bjjhumor
+- **Front stays hidden:** he faces the instructor, not the camera. The print is on his back, readable for the whole clip.
+- **Fail rules:** G1, G3, G4, G6 and S1 to S8 apply. G2 here means our man's back is within about 30° of square and at least two-thirds unobstructed.
+- **Query:** "front headlock nogi #shorts".
