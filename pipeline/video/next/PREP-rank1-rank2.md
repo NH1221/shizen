@@ -493,3 +493,56 @@ URLs are not visible in the screenshot. Instinct copies them from the grid.
 - **Front stays hidden:** he faces the instructor, not the camera. The print is on his back, readable for the whole clip.
 - **Fail rules:** G1, G3, G4, G6 and S1 to S8 apply. G2 here means our man's back is within about 30° of square and at least two-thirds unobstructed.
 - **Query:** "front headlock nogi #shorts".
+
+## 15. Batch review 1 (Instinct's 30 playing-video samples, 21 Nov 22:31). Workflow from here: Instinct frame-searches in batches; Claude returns APPROVE, DEEPER SAMPLE or REJECT per sample
+Concept under review: "demo dummy" (section 14 pivot). Each verdict concerns ONLY the sampled frame shown. Nothing here is a whole-video rejection.
+
+**APPROVE: none.** No sample shows a partner's back square to the camera, at least two-thirds unobstructed, with exactly two adults and a clean crop at 600x1066 or more.
+
+**DEEPER SAMPLE (2):**
+- **16, SEM3NBhV3gc.** The partner in the white tee is bent forward with a large rear torso near square to the camera, and the back looks mostly unobstructed.
+  - Find a held frame where his back from collar to waist is in frame and at least two-thirds clear of the other man's arm (G2).
+  - Check that nothing beyond the two men is visible (G1), that there is no motion blur (S5), and whether the warehouse-style room shows posted-room features (S1).
+- **30, zFgepT2x77I.** The man in the navy top has a large rear torso toward the camera.
+  - Find a frame without the burned-in caption over his back (S6) where the seated person at the left edge can be cropped out (G1).
+  - Confirm the TikTok watermark is the uploader's own cross-post, not a repost (the provenance exclusion).
+  - Check for wall banner lettering (S7).
+
+**REJECT (28), pixel reasons at the sample:**
+| # | Reason |
+|---|---|
+| 01 | Single man side-on on all fours, face visible, large caption over the frame (G2, S6) |
+| 02 | Kneeling partner's back angled and covered by the instructor's arm; young-looking pair (S3 risk); USA Wrestling wall branding (S7) |
+| 03 | End card at this instant, no footage |
+| 04 | Close crop on the ground; arms across the top man's back; bottom man's face (G2) |
+| 05 | Heavy motion blur; background person (S5, G1) |
+| 06 | Low resolution and blur (S5) |
+| 07 | Kneeling partner angled; background people at left and right (G1, G2) |
+| 08 | Talking head (no pair) |
+| 09 | Lift in motion, side-on (G3, G2) |
+| 10 | Both men frontal or side; cage and caption (G2, S7) |
+| 11 | Partner side-on on his knees; caption (G2) |
+| 12 | Split screen: the pane is too small for a 600x1066 crop; background people (S5, G1) |
+| 13 | Both standing side-on; captions (G2) |
+| 14 | UFC broadcast (G6) |
+| 15 | Both bent in profile; no square back (G2) |
+| 17 | Inset talking head (split); young-looking wrestlers (S3 risk) |
+| 18 | Blur and overlay (S5, S6) |
+| 19 | Partner bent side-on; overlay text (G2) |
+| 20 | Letterboxed; large gym logo wall; partner at about 45° (S7, G2) |
+| 21 | Gi (G4) |
+| 22 | Side views; OpusClip watermark; red wall logo (G2, S7) |
+| 23 | Frontal faces; large wall letters (G2, S7) |
+| 24 | Floor academy lettering; both at an angle (S7, G2) |
+| 25 | Close frontal; third person at bottom right (G1) |
+| 26 | UFC broadcast (G6) |
+| 27 | Small figures, side-on (S5, G2) |
+| 28 | Gi (G4) |
+| 29 | Gi (G4) |
+
+**Pattern for the widened search:** in instructionals, the partner usually stands SIDE-on to the camera so viewers see the grip. Square backs appear when the camera is behind the partner, typically:
+- front headlocks or snap-downs filmed from the partner's side of the room;
+- collar-tie hand-fighting where the instructor faces the lens;
+- seated or kneeling partners in a "listen to coach" setup.
+
+Prioritise clips where the instructor talks to the camera OVER the partner's shoulder.
