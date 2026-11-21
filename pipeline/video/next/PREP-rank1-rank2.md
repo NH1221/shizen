@@ -302,3 +302,55 @@ TikTok pages and oEmbed are blocked to this workspace (robots), so the TikTok ca
 What to look for: the seconds after a round ends, filmed by a friend or a tripod phone, where one person drops face down or slumps seated with his back to the phone.
 
 **Decision:** inspect T1, T2, T3 and Y1, then the search angles. The first frame that passes S1 to S9 and P1 to P6 (or P1-alt) and the room check becomes the base for "you good?". If none passes, no generation and no post.
+
+## 13. Screenshot-led selection loop (21 Nov 21:06)
+**Loop:**
+1. Instinct searches YouTube Shorts and screenshots the result grid.
+2. Claude ranks the actual thumbnails: open, or skip with a reason.
+3. Instinct opens the picks and inspects the pixels.
+4. Instinct reports pass or fail at the observed positions.
+
+Claude never infers a pose from a title (Y1 lesson below).
+
+**Thumbnail triage.** Open only if ALL of these hold:
+- Real phone footage: not animation, not green-screen, not a compilation.
+- No gi.
+- One adult on or near the floor (lying, kneeling, slumped) or alone in a clean room.
+- No overlay text covering the body.
+
+Skip:
+- frontal talking heads;
+- pairs in contact;
+- belt ceremonies;
+- cartoons;
+- green-screen memes;
+- ads.
+
+**Scrubbing tip:** open a Short as https://www.youtube.com/watch?v=<ID> for a normal player. When paused, the , and . keys step one frame at a time, so exact timestamps can be read.
+
+### Grid 1: "me after open mat #shorts" (Instinct screenshot, left to right)
+| Rank | URL | Thumbnail (as seen) | Call |
+|---|---|---|---|
+| 1 OPEN | https://www.youtube.com/shorts/jK81lNhqObs | "Training for open mat..." One adult man in an orange tee, collapsed/kneeling forward on the floor, head down, solo; side view | Best visible solo exhaustion pose. Risks: a weights-gym floor (racks), not BJJ mats; side angle; overlay text above him. If it passes, the setting line in the card changes to the gym floor, and the joke stays BJJ ("training for open mat") |
+| 2 OPEN | https://www.youtube.com/shorts/ZVk7thspM7A | "You don't know how hard you trained on Open Mat?" One no-gi man in a clean grey-mat room, frontal, holding a rash guard | A comedy skit in a clean solo room. Check later frames for a collapse or lying-down beat. The thumbnail itself fails (frontal, face, a real rash guard brand on show) |
+| skip | https://www.youtube.com/shorts/0zFULJ-oNiI | Coach and student in gi, belt ceremony | Gi, pair, faces |
+| skip | https://www.youtube.com/shorts/1HcGI52atRw | Green-screen creator over a gi sparring clip | Meme overlay; pair in gi |
+| skip | https://www.youtube.com/shorts/SImsaBZCNQg | Animated cartoon | Not real footage |
+
+**Next queries if both fail** (Shorts chip on; screenshot each grid):
+- "gassed after rolling #shorts"
+- "last round bjj #shorts"
+- "nogi open mat pov #shorts"
+- "bjj conditioning finisher #shorts"
+- "me after bjj class #shorts"
+- "after rolling with the blue belt #shorts"
+
+### Inspected and logged
+- Y1 UIWlYICpTgg: a six-second frontal gi talking-head joke. No usable back or rest pose.
+
+### TikTok status
+- The first search ("bjj after training") returned no results and showed a phrase-level guidelines notice. That route is stopped and has been reported to Nic. The notice is not evidence of an account strike.
+- Do not rephrase searches to get around the notice. TikTok search stays paused until Nic decides.
+- YouTube Shorts is the active route.
+
+Gate unchanged: no passed source means no Flow and no post.
