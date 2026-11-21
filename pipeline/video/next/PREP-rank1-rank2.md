@@ -354,3 +354,55 @@ Skip:
 - YouTube Shorts is the active route.
 
 Gate unchanged: no passed source means no Flow and no post.
+
+## 14. Inspected failures and PIVOT (21 Nov 21:18)
+### Grid 1 picks, inspected by Instinct (sampled positions only, NOT whole-video claims)
+- **jK81lNhqObs** (13 s): a weights-gym cable exercise. The adult lies on his side with his face and front visible. It is not the kneeling collapse the thumbnail suggested. Fail.
+- **ZVk7thspM7A** (14.5 s): a frontal standing man holding branded clothing. The opening, middle and end samples showed no rear or rest pose. Fail.
+
+### Grid 2: "last round bjj #shorts" (Shorts chip). All 10 skipped
+Most results are competition or broadcast clips (boxing, UFC, ONE, an outdoor cage), talking heads, or pairs in scrambles. None shows a solo rest pose. No pick.
+
+### Decision: drop the solo-exhaustion pose; pivot to footage native Shorts actually contain
+Two days of real grids show the solo face-down or seated-from-behind rest almost never appears in native short-form. **Tripod-filmed no-gi pair rolls are the most common native BJJ footage.** The new concept is built on those.
+
+**Concept: "let's go light" (pair, tap payoff)**
+- **Shot:** one real frame of a no-gi pair in a static top position: mount, knee-on-belly, or top of closed guard. The camera is BEHIND the top man, so his back and print face the camera and his front is pressed against his partner (the front stays hidden).
+- **Frame-0 motion:** the top man is already shifting his weight and adjusting grips.
+- **Text 1 (0 to ~2.3 s):** "him before every round: \"let's go light\"".
+- **Payoff (~3 to 4 s, a visible human action, not a print reveal):** the partner underneath taps fast, three quick slaps on the top man's shoulder or the mat. Text 2: "the light round:".
+- **End:** the top man pats the mat once and holds. Loops.
+- **Caption:** who's the guy at your gym who says "let's go light" every time? 🐉 #bjj #nogi #rashguard #nogibjj #bjjhumor
+- **Design and budget:** Ryu (navy). 1 still + 1 clip (6 s), 2 spare.
+- **Change vs P12 to P14:**
+  - two people, not one;
+  - frame-0 motion;
+  - the payoff is the partner's action;
+  - the camera relationship is a static top position seen from behind;
+  - the old format is not reused.
+
+**Source fail conditions for the pair** (S1, S3, S5 to S8 still apply; this replaces S2 and S9 for this concept). Reject if:
+
+| # | Reject if |
+|---|---|
+| G1 | There are not exactly two adults, or any third person, limb or reflection is in the crop |
+| G2 | The top man's back is not square to the camera (within about 30°), or his back is covered by the partner's legs or arms over more than about a third of the print area |
+| G3 | The pair is scrambling or in transition. Only a held, static top position passes |
+| G4 | Either person wears a gi |
+| G5 | Neither of the bottom man's hands is free to tap |
+| G6 | Competition or broadcast footage, a crowd, a referee or event branding |
+
+**Identity:** BOTH people are fully replaced. The top man is L1 (section 3), in the navy GARMENT block. FRONT CLAUSE: "His chest is pressed down onto his partner, so the front of the shirt is not visible." The partner, exact words:
+> a completely different, clearly adult man in his late twenties: medium-light skin, short black curly hair, clean-shaven, a different face shape, nose, ears, neck and jawline from the original; athletic build; wearing a plain heather-grey short-sleeve t-shirt and plain black shorts, no logos or writing
+
+Both faces are checked at 4x against the source.
+
+**Motion card core:**
+
+Static locked-off tripod phone footage of a no-gi roll. The man in the navy rash guard holds top position with his back to the camera, shifting his weight and adjusting his grip from the first frame. After about three seconds the man underneath taps fast three times on his shoulder with his free hand; the man on top stops, pats the mat once and holds still. Ambient gym sound and breathing only, no words, no music. One take, no cuts, no zoom; keep both men's identities, the clothing and the print exactly; the print and the SHIZEN lettering never redraw; no other text or logos.
+
+**Next query** (YouTube Shorts, Shorts chip on): "nogi roll tripod #shorts". If thin, try "nogi sparring white belt #shorts" and "nogi rolling footage #shorts".
+- Open only thumbnails showing two no-gi adults on gym mats, filmed from a static side or rear camera, with no crowd and no event branding.
+- The first frame that passes G1 to G6 and the room check becomes the base.
+
+Gate unchanged: no passed source means no Flow and no post. TikTok search stays paused pending Nic.
