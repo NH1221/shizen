@@ -659,3 +659,21 @@ Footage where the camera is naturally behind someone: **class and seminar Shorts
   - his hands visible and free (P5).
 - **FRONT CLAUSE:** "He sits facing away from the camera, so the front of the shirt is not visible."
 - **Search terms for Instinct:** class or seminar Shorts showing students seated on the mat from behind, e.g. "bjj seminar #shorts", "jiu jitsu class technique explanation #shorts", "open mat announcements #shorts".
+
+## 18. Batch review 4: seminar samples 90 to 119 (21 Nov 23:44)
+**DEEPER: NONE.** 115 is excluded (loading overlay).
+
+The near-misses, with their reasons at the sample:
+
+| # | Reason |
+|---|---|
+| 119 | Closest. The seated foreground adult is about 45° oblique and cropped at the frame edge, and his hands are unclear (P3, P5) |
+| 92 | Only the head and shoulders of a standing filmer holding a phone, with a crowd ahead (G1) |
+| 100 | The top man's back is oblique and cropped at the top, with a gradient overlay at the bottom (G2, S6) |
+| 98, 99, 102 | Seated people are small or at the frame edge, with crowds (S5, G1) |
+
+The other samples fail on gi, a frontal view, crowds, lettering or competition.
+
+**Pattern:** seminar clips are filmed by a STANDING person at the side, so seated backs in the foreground come out oblique and edge-cropped.
+
+**Adjustment for the next search:** target clips filmed from a SEATED position inside the class, such as "pov bjj seminar #shorts", "pov listening to coach #shorts" and "pov first bjj class #shorts". The filmer then sits behind another student, which gives a close, square back. Look for one foreground seated adult whose back fills at least 40% of the frame height, at least two-thirds clear, with both hands visible.
