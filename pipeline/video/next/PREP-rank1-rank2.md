@@ -598,3 +598,64 @@ Prioritise clips where the instructor talks to the camera OVER the partner's sho
 | 59 | Partner side-on, caption |
 
 **If 37 passes:** the demo-dummy card stays. The blue-tee partner becomes L1 in navy Ryu with the FRONT CLAUSE "He faces his partner, so the front of the shirt is not visible." The instructor becomes PARTNER (grey tee), and the tap is on the instructor's arm or shoulder.
+
+### Batch 2 deeper samples (Instinct; sampled moments only)
+- **31, h4Q88EoBZeM** at 0, ~2.8 and ~5 s: front or oblique, and the pair is edge-clipped. No pass.
+- **37, YYsbMMBe3b8** at additional samples: a third person, or the instructor clipped. No pass.
+- **40, WhMp7RUo6AE** at 0, 5, 10 and 15 s: clipped, oblique or front. No pass.
+
+## 17. Batch review 3 (samples 60 to 89, 21 Nov 23:10)
+**PASS: none. DEEPER: none.**
+
+| # | Reason at sample |
+|---|---|
+| 60 | Bodylocking man faces the camera, headgear |
+| 61 | Frontal |
+| 62 | Frontal, background people |
+| 63 | Letterboxed desktop capture |
+| 64 | Distant pair (S5) |
+| 65 | Blur |
+| 66 | Overhead blur |
+| 67 | Oblique or frontal |
+| 68 | Gi |
+| 69 | Frontal at the sample; a later reverse angle cannot be inferred |
+| 70 | Back about 40° oblique, wall mural logo, partner in gi trousers, head at the left edge (G2, S7, G4, G1) |
+| 71 | Blurred scramble |
+| 72 | Side-on |
+| 73 | Small, overlay, wall logo |
+| 74 | Distant |
+| 75 | Frontal or side |
+| 76 | Broad rear torso, but a ground transition, and letterboxing leaves under 1066 px of usable height (G3, S5) |
+| 77 | Frontal |
+| 78 | Competition close-up |
+| 79 | Dark overlay, faces |
+| 80 | Subject clipped, mural |
+| 81 | Side, overlay |
+| 82 | Backs oblique, seated crowd at right (G1) |
+| 83 | Crowd |
+| 84 | Gi |
+| 85 | Crowd |
+| 86 | Several people, ad overlay |
+| 87 | Seated frontal, flag and logo |
+| 88 | Competition plus inset face |
+| 89 | Partner about 45 to 60° oblique, wall logo (G2) |
+
+### What 89 samples show
+- Instructional and demo Shorts are framed for the instructor's front. The partner stands side-on BY DESIGN, so the viewer sees the grip.
+- The closest frames (31, 37, 40, 70, 76, 82, 89) all have the back-facing man at 35 to 60°, or are clipped, crowded or in transition. The demo-partner geometry does not occur cleanly in this footage type.
+- Readability (at least two-thirds of the print, back within about 30°) is NOT relaxed.
+
+### Concept and footage change: "any questions?" (seated student, from behind)
+Footage where the camera is naturally behind someone: **class and seminar Shorts filmed from the back of the room.** Students sit on the mat facing the instructor, so their backs face the camera square-on, and the front is hidden by geometry.
+- **Base:** one seated adult student, back square to the camera. The other students are croppable, so the crop holds our man plus at most the instructor in the distance. Every visible person is fully replaced: the instructor is PARTNER (grey tee).
+- **Text 1 (0 to ~2.3 s):** "coach: \"any questions before we roll?\"" The frame-0 motion is the instructor gesturing and our man's breathing and shifting.
+- **Payoff (visible action):** our man slowly raises one hand. Text 2: "\"can we go light\"". This keeps the running "light round" voice.
+- **Caption:** what's the one question you always ask before rounds? 🐉 #bjj #nogi #rashguard #nogibjj #bjjhumor
+- **Budget:** 1 still + 1 clip (6 s), 2 spare. The hand raise is low motion; arms and sleeves need clip QA.
+- **Fail rules:**
+  - S1 and S3 to S8;
+  - P3 read as back within about 30° of square, with at least two-thirds of the print area clear;
+  - croppable to him plus at most one replaced instructor, nobody else (G1);
+  - his hands visible and free (P5).
+- **FRONT CLAUSE:** "He sits facing away from the camera, so the front of the shirt is not visible."
+- **Search terms for Instinct:** class or seminar Shorts showing students seated on the mat from behind, e.g. "bjj seminar #shorts", "jiu jitsu class technique explanation #shorts", "open mat announcements #shorts".
