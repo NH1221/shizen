@@ -420,3 +420,18 @@ Gate unchanged: no passed source means no Flow and no post. TikTok search stays 
   - frontal or close talking-instruction thumbnails: "Tripod to foot lock", "Learn the tripod sweep", "Fix your tripod pass".
 
 **Corrected next query** (one only): "nogi mount #shorts". Instructional mount clips show a HELD top position on a static camera in a clean, often empty room, which is exactly G3. Open thumbnails where the top man's back faces the camera.
+
+### Grid 3 pick inspected (Instinct, sampled positions only)
+- **sszcqJZdN6I** ("No-Gi Tripod Passing"; 23.901 s, 720x1280). The overlay disappears during playback, but the samples show an inverted tripod pass: the top man's head is on the mat and his back is strongly foreshortened, then frontal passing movement. No held upright or chest-down rear-facing top position at the samples. Fail (G2, G3).
+
+### Grid 4: "nogi mount #shorts" (Shorts chip, 21 Nov 21:37)
+- **Open 1:** bottom row, far right, "Omoplata from mount 🥋 #shorts #bjj #bjjhighlights". On blue puzzle mats, a no-gi top man in red is in mount, seen from behind and above, with his back toward the camera. It is the only thumbnail with the top man's back facing the camera at a usable size.
+  - Check for HELD mount frames before the omoplata transition (G3, about 2 s or more), a back near square (G2), no third person (G1), a free bottom hand (G5), and adults only (S3).
+- **Open 2, low confidence:** bottom row, near right, "Live rolling triangle from the mount position! #shorts". A small pair on red mats with a high camera.
+  - Likely fail: the subjects look small (S5: the crop must be at least 600x1066 real pixels), and live rolling may never hold still (G3). Open it only to find a held mount frame at a larger scale.
+- **Skip:**
+  - Top row, second, "No-Gi Armbar From Mount x Nicky Ryan | B-Team": the rear-facing top man is promising, but it is a famous athlete, a highly recognisable gym, split-screen, and has background people.
+  - Craig Jones / B-Team (two clips): famous, split-screen.
+  - Kimura from side mount and "Submit from mount like a pro": the top man's front and face are toward the camera.
+  - The Ezekiel, armbar and "S mount subs" clips: close frontal or talking.
+- **If both fail, next query:** "nogi mount escape drill #shorts". Escape drills hold the mount on a static camera, the top man is often shot from behind so the escaping partner is visible, and the clips are usually two-person gym content, not famous-athlete compilations.
