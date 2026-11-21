@@ -269,3 +269,36 @@ These are search guidance only, not timestamps.
 - The full fetched transcripts for C1 and C2 do not establish a prone or child's-pose ending.
 - None of C1 to C3 is qualified footage. Do not re-propose them as candidates for this pose without new evidence.
 - The seated-from-behind variant remains available, but it has no approved real source. No Flow until one passes.
+
+## 12. SOURCING DIRECTION (Nic, 21 Nov 20:51; supersedes all stock work)
+- **Sources are native short-form only:** YouTube Shorts or TikTok, from a genuinely new creator and room. NO Pexels or stock footage. The stock and locker-room leads from 21 Nov 20:38 were never committed and are dropped.
+- **Exhausted, do not re-pool:** small-gym long-form open mats and end-of-round resets, solo drill and cooldown presenters, Artem Podrez's Pexels judo set (incl. 6253409).
+- **Why short-form helps:** it is natively vertical (no 16:9 crop loss), filmed on phones (matches the realism method), and BJJ comedy and rest moments are a native genre there.
+- **Exclude:** compilation and repost accounts (unclear provenance, mixed rooms), famous people, competition broadcasts, minors, and anything from a burned room.
+- **All other rules unchanged:** the concept, the cards and the gates are in sections 0 to 10 (prone or seated slump from behind, "you good?", weak thumbs-up). Every visible person's whole identity and body is replaced even with the face hidden. No invented shirt front. No Flow or post until Instinct passes the pixels AND the room is checked against the posted-scene grid.
+
+### Leads (Claude, 21 Nov ~21:00): METADATA ONLY, uninspected, no timestamps
+TikTok pages and oEmbed are blocked to this workspace (robots), so the TikTok captions below come from search results only. The YouTube title and channel were confirmed by oEmbed.
+
+| # | URL | Caption / title (as indexed) | Why | Risks to check |
+|---|---|---|---|---|
+| T1 | https://www.tiktok.com/@adamellisbjj/video/7351472910533397792 | "me after getting mauled at jiu-jitsu for 2 hours #Meme #MemeCut #CapCut ..." | A self-filmed exhaustion meme from a BJJ creator: the exact feeling | A meme-template cut may not be his own gym footage; frontal |
+| T2 | https://www.tiktok.com/@fenomfighter/video/7539664085353270541 | "this isn't the open mat I signed up for 🙂‍↔️ #fyp #foryou #brazilianjiujitsu #bjj #nogi" | A native no-gi open-mat creator; the rough-roll aftermath genre | Pairs or contact; the creator's face |
+| T3 | https://www.tiktok.com/@kieren_jiujitsu/video/7200830809790582018 | "\"Just roll more bro…\" #bjj #jiujitsu #jiujitsuworkout ..." (tags @jordanteachesjiujitsu) | Conditioning or comedy that may show a spent athlete on the mat | Active drilling; second person |
+| Y1 | https://www.youtube.com/shorts/UIWlYICpTgg | "The Worst Jiu Jitsu Round #SHORTS" / Justin Lesko (vertical 9:16 per oEmbed) | A bad-round Short; the defeated end state may be on screen | Pair in contact; creator recognisability |
+
+**In-app search angles for Instinct** (TikTok and YouTube Shorts search, sorted by recent, small creators):
+- "me after open mat"
+- "pov light roll"
+- "last round bjj"
+- "when coach says one more round"
+- "white belt first class"
+- "bjj cardio check"
+- "gassed bjj"
+- "#bjjmeme exhausted"
+- "after comp class"
+- "dead after drilling"
+
+What to look for: the seconds after a round ends, filmed by a friend or a tripod phone, where one person drops face down or slumps seated with his back to the phone.
+
+**Decision:** inspect T1, T2, T3 and Y1, then the search angles. The first frame that passes S1 to S9 and P1 to P6 (or P1-alt) and the room check becomes the base for "you good?". If none passes, no generation and no post.
