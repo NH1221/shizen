@@ -546,3 +546,55 @@ Concept under review: "demo dummy" (section 14 pivot). Each verdict concerns ONL
 - seated or kneeling partners in a "listen to coach" setup.
 
 Prioritise clips where the instructor talks to the camera OVER the partner's shoulder.
+
+### Batch 1 deeper samples (Instinct; sampled moments only)
+- **16, SEM3NBhV3gc** at 2.395, 7.395 and 12.395 s: front and side close-ups, and the pair is clipped. No pass.
+- **30, zFgepT2x77I** at the sampled moment: a caption crosses the torso and there is a background person. No pass.
+
+## 16. Batch review 2 (samples 31 to 59, 21 Nov 22:53)
+**PASS: none.**
+
+**DEEPER SAMPLE (3):**
+- **37, YYsbMMBe3b8.** The partner in the blue tee is in a collar tie with his back to the camera: a broad clear back with the front hidden. This is the best geometry so far.
+  - Find a moment with no third person (G1) where his whole back from collar to waist is inside the native frame (no edge crop).
+  - The burned caption ("So I push, he pushes back") must sit above his shoulders or be absent (S6).
+  - Check the instructor's free hand for the tap payoff (G5).
+- **31, h4Q88EoBZeM.** The man in the navy long-sleeve top is in a collar tie with his back toward the camera, against a plain white wall on grey mats, with no visible third person.
+  - Settle whether his back gets within about 30° of square (it looks about 35 to 40° at the sample) (G2).
+  - Check whether the partner's forearm over his neck leaves at least two-thirds of the print area clear (G2).
+  - Check whether his left side is clipped by the frame edge.
+- **40, WhMp7RUo6AE.** A shirtless man with a large back near square to the camera. The source being shirtless is fine, because the whole body and clothing are replaced.
+  - Find a HELD tie before the arm drag with no motion blur (G3, S5).
+  - His head must be inside the frame, the "#3 Right arm drags..." caption must be clear of his back (S6), and the partner's hand must be visible for the tap (G5).
+
+**REJECT, at the sample:**
+| # | Reason |
+|---|---|
+| 32 | Frontal, overlay, cage |
+| 33 | Close ground crop, faces |
+| 34 | Profile, wall logo, overlays |
+| 35 | One distant figure, dragon logo wall |
+| 36 | Single frontal, overlay |
+| 38 | Turtled man faces the camera, top man over his back |
+| 39 | Both in profile, small, floor logo |
+| 41 | Small, motion |
+| 42 | Profile, child crowd in background (S3, G1) |
+| 43 | Close, partner side-on, captions |
+| 44 | BADGERS banner, kneeling side-on |
+| 45 | Third and fourth people |
+| 46 | Close, frontal |
+| 47 | Close crop, flag |
+| 48 | Profiles, floor lettering |
+| 49 | Small scramble |
+| 50 | Apart and frontal, wall lettering |
+| 51 | Blurred scramble |
+| 52 | Single frontal, background person |
+| 53 | Letterboxed desktop capture |
+| 54 | Gi |
+| 55 | Partner side-on, captions |
+| 56 | Gi |
+| 57 | Split screen |
+| 58 | UFC repost |
+| 59 | Partner side-on, caption |
+
+**If 37 passes:** the demo-dummy card stays. The blue-tee partner becomes L1 in navy Ryu with the FRONT CLAUSE "He faces his partner, so the front of the shirt is not visible." The instructor becomes PARTNER (grey tee), and the tap is on the instructor's arm or shoulder.
