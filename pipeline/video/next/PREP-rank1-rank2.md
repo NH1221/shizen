@@ -726,3 +726,37 @@ Static locked-off phone footage of two men facing each other on the mat before a
 **Edit:** text sits in the clear wall area and must not cover either head. Check the TikTok safe zone.
 
 **Budget (a production day, not tonight):** still at submit 1 (a re-roll at submit 2 if needed, one slot changed), clip at least 20 minutes after the passed still, 1 to 2 spare. A failed take is never posted.
+
+## 20. "light roll?" still 1 QA (submit 1, 22 Nov 08:40; Instinct's QA 08:43)
+- **C1 cleared (Instinct):** no room match across all 18 live TikTok posts, the 23 archived queue sequences, the earn-the-back v4 and the removed 4 Nov v1.
+- **Submit:** section 19 card unchanged, with L1 expanded. Image 1 = Ryu_back.jpg (190359 B), image 2 = the full native frame (644655 B), no crop. Nano Banana 2.1, 9:16, x1, 0 credits. Output 768x1376.
+
+**Claude's check:** a source/still 50% blend overlay; Ryu_back.jpg beside the still's back crop; 3x hand crops. Scratch files only.
+
+| Gate | Result | Evidence |
+|---|---|---|
+| Camera and room preserved | PASS | In the blend, the wall-pad top line, panel joints and mat seams align |
+| **Pose, position, scale (both men)** | **FAIL** | The foreground man was RESTAGED: his head moved about 120 px right, his body rotated from a slight forward-left lean to upright and square, and he was shrunk so both feet fit (in the source, his right foot is cut off at the bottom edge). The partner moved up and back and was redrawn in a ready crouch. This is the P8/P11 restaging pattern, not the expected silhouette change from new clothing |
+| Foreground identity replaced | PASS | Fade and beard; no source features; face not shown (cheek and beard edge only) |
+| Partner identity replaced | PASS | 4x: clearly a different face, hair and jaw |
+| Exact Ryu art | PASS | Dragon composition, head, horns, claws, coils and tail match the print file; centred on the spine; only minor line redraw |
+| Neck mark | PASS | Small gold yin-yang above thin serif SHIZEN, centred under the collar, same small size |
+| Sleeves and collar | PASS | Long plain navy sleeves to the wrists, crew neck, raglan seams (consistent with brand files) |
+| Front hidden | PASS | Back view only |
+| Trousers | Borderline PASS | Black loose heavy-cotton trousers, close to black gi trousers, but no belt and no gi top. Not chosen as the retry slot |
+| Hands | PASS | Foreground: both hands natural, 5 digits. Partner: right hand natural; left hand partly hidden, plausible |
+| Logo, collar mark, belt removed; no other text | PASS | No ghosting |
+| Grain | Note | Sharper than the source; degrade in the edit, keep the raw master |
+
+**Verdict: FAIL** on pose and position only. Do not submit motion from still 1.
+
+### Retry (submit 2, from 09:00): change ONE slot, the pose slot. All other words stay identical
+Replace "keeps his exact pose (standing, facing the other man, arms hanging loosely at his sides)" with:
+
+"keeps his exact position, size and pose from image 2: his head at the same place against the wall, leaning slightly forward toward the other man with his shoulders angled a little to the left, his left arm hanging forward, his right arm hanging by his side, and his right foot reaching the bottom edge of the frame and cut off by it"
+
+Replace "The other man, facing the camera, keeps his exact pose" with:
+
+"The other man, facing the camera, keeps his exact position, size and pose from image 2: standing slightly hunched with his head tilted down, looking at the floor in front of the man nearest the camera, both hands low in front of his thighs,"
+
+QA on still 2 repeats the blend overlay: both men's heads, shoulders and feet must sit within a few pixels of the source.
