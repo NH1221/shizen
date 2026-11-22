@@ -928,3 +928,55 @@ Use the real frame plus Ryu_back.jpg again. All other words stay identical.
 - The neck mark reads SHIZEN. If it garbles again, apply local softening in the edit (established practice).
 
 If still 4 fails, there is no fifth submit today. Re-plan on 23 Nov.
+
+## 26. Still 4 QA (submit 4 at 22:06:34; mutual-tie blocks) and the concept for 23 Nov
+**Claude's 3x crops of the neck, wordmark and low grip:**
+
+| Gate | Result | Evidence |
+|---|---|---|
+| Room, camera, light; logo removed | PASS | |
+| **Contact geometry and technique** | **FAIL** | A hand cups our man's neck from the RIGHT side of the picture, but no arm or sleeve is visible, so ownership cannot be verified. It is either the partner's hidden left arm or our man's own hidden right arm (the still 3 self-grab). Our man's right arm is not visible anywhere, and no hand of his is on the partner's neck. Low grip: the partner's right hand holds our man's LEFT WRIST, and our man's left hand hangs empty. Visible control belongs to the partner, and the card's grips are not shown |
+| Neck mark | FAIL | Reads "SIIZEN"/"SHZEN" (the H is malformed) |
+| Ryu dragon art | PASS | Matches, fully readable |
+| Our man: back square, front hidden, sleeves, shorts over leggings | PASS | Cheek and beard sliver only; face not shown |
+| Partner replaced and adult | PASS | Differs from the source |
+| Hands | FAIL | Unverifiable neck-hand ownership; empty hand under the grip |
+
+**Verdict: FAIL.** No motion. All 4 of today's submits are used.
+
+**Lesson (stills 3 and 4):** Nano Banana repeatedly mis-assigns grips between two bodies, even with picture-side anatomy. Contact techniques are out for this source. Stills 1 and 2 showed it renders two SEPARATED men well: art, identities and hands all passed. They failed only the pose-preservation gate, which Nic's 21:35 direction now waives.
+
+### Concept for 23 Nov: "the fake" (no contact; real technique: the level-change fake)
+This is a NEW concept, not "light roll?". The payoff is a real wrestling setup, and the partner's overreaction is the visible action.
+- **Frame 0 (motion):** both men in their stances about 1.2 m apart, circling slightly. Text 1 (0 to ~2.2 s): "him: \"you're not taking me down today\"".
+- **Payoff (~2.4 s):** our man (back to the camera, navy Ryu) drops his hips in a sharp level-change fake without stepping in. The partner flinches hard, hopping back and dropping his hands toward the mat as if to sprawl. Our man calmly stands back up. Text 2: "one fake later".
+- **Caption:** the level change fake works every single time 🐉 what's your go-to setup? #bjj #nogi #wrestlingforbjj #rashguard #nogibjj
+- **Why it is safer:** no contact, so no grip assignment and no hand merging. Our man's hands are mostly in front of his body. The back print stays toward the camera, and the level change is mostly vertical.
+
+### Still card, 23 Nov submit 1 (image 1 = brand/print-backs/Ryu_back.jpg; image 2 = the full native real frame, no crop; never stills 1 to 4)
+Edit image 2, the real photo. Image 2 is the base: keep its exact camera angle, camera height, the room, the light, the phone grain and softness, and real skin texture. Image 1 is only the artwork to print. Change only these things, all in this one edit.
+The two men face each other in the middle of the mat about one and a half arm's lengths apart, NOT touching, both in a ready wrestling stance before a roll. The man nearest the camera has his back to the camera, square to it, knees bent, hips slightly back, both hands up loosely in front of his chest so they are mostly hidden by his body. He becomes a completely different, clearly adult man in his early thirties: light olive skin, short dark brown hair in a low skin fade, a short dark brown beard, dark brown eyes, straight dark eyebrows, a different face shape, nose, ears, neck and jawline from the original; broad, muscular, athletic shoulders, chest and back; barefoot, no tattoos, no jewellery, no watch, no tape. He wears a navy LONG-SLEEVE rash guard, the same navy as the background of image 1, with a crew neck and plain navy sleeves all the way down to his wrists, no logo on the shoulder and no print, logo or writing on the sleeves. He faces the other man, so the front of the shirt is not visible. On his back, the artwork from image 1 printed large exactly as drawn, centred on his spine. Above it, centred just below the collar, the gold yin-yang circle and the word SHIZEN, copied exactly from image 1 at the same small size and in the same thin letters. He wears plain black shorts over plain black leggings.
+The other man faces the camera in a ready stance, knees bent, both open hands up in front of him at chest height, watching the first man. He becomes a completely different, clearly adult man in his late twenties: medium-light skin, short black curly hair, clean-shaven, a different face shape, nose, ears, neck and jawline from the original; athletic build; wearing a plain charcoal long-sleeve rash guard with no logos, panels or writing, and plain black shorts.
+Neither man touches the other or himself. The round logo at the top left of the wall becomes plain white wall like the rest of it. Nothing else changes: the white padded wall and the dark grey mats. No text, logos or writing anywhere except the SHIZEN mark on the print. Neither man keeps his original face, and no face from image 2 may appear on anyone.
+
+**Still checks (FAIL on any one):**
+- **Contact:** a visible gap between the men; no contact and no self-touch.
+- **Our man:** back within about 20° of square; print at least two-thirds readable; exact Ryu art; long sleeves; front and face hidden.
+- **Neck mark:** reads SHIZEN. If only the mark garbles, apply local softening in the edit; this alone does not fail the still.
+- **Hands:** every visible hand has 5 digits.
+- **Partner:** face differs from the source at 4x; adult.
+- **Scene:** exactly two people; room and light match; logo gone; no other text.
+- **Retry slot (submit 2 if needed):** the stance distance becomes "about two arm's lengths apart".
+
+### Motion card, 23 Nov, after a passed still, at least 20 minutes later (Omni 1.1 Flash, 720p, 6 s)
+Static locked-off phone footage of two men facing each other in their stances before a no-gi roll. From the first frame they circle slightly, light on their feet. After about two seconds the man nearest the camera, back to the camera in the navy rash guard, suddenly drops his hips in a sharp level-change fake as if shooting for the legs, without stepping forward; the other man flinches hard, hopping back and dropping his hands toward the mat as if to sprawl, then looks up confused while the first man calmly stands back up. The two men never touch. Real weight; feet plant without sliding. Ambient gym sound only, no words, no music. One take, no cuts, no zoom, no change of angle; the man nearest the camera never turns around; keep both identities, the clothing and the print exactly; the print and the SHIZEN lettering never redraw; no other text or logos.
+
+**Clip checks (FAIL on any one):**
+- Frame-0 motion is present.
+- The fake reads as a level change, not a step-in.
+- The flinch is credible.
+- No contact, gliding or limb errors; faces stay consistent.
+- Our man never turns.
+- The print holds in every frame.
+
+**Edit and post:** native text, grain matched to the source, /ttevaluate 18/22 or better, then the morning post on TikTok only (Instagram stays paused).
