@@ -677,3 +677,52 @@ The other samples fail on gi, a frontal view, crowds, lettering or competition.
 **Pattern:** seminar clips are filmed by a STANDING person at the side, so seated backs in the foreground come out oblique and edge-cropped.
 
 **Adjustment for the next search:** target clips filmed from a SEATED position inside the class, such as "pov bjj seminar #shorts", "pov listening to coach #shorts" and "pov first bjj class #shorts". The filmer then sits behind another student, which gives a close, square back. Look for one foreground seated adult whose back fills at least 40% of the frame height, at least two-thirds clear, with both hands visible.
+
+## 19. SOURCE-GEOMETRY APPROVAL (conditional): _y8kzrk4UI8 at 29.3905 s (22 Nov 01:48)
+**Frame:** https://www.youtube.com/shorts/_y8kzrk4UI8 at 29.3905 s, native 720x1280, unedited (Instinct's capture).
+
+**Verdict: APPROVED as source geometry, conditional on C1 to C3 below.** This is the first frame in about 120 samples to pass the core checks:
+- **G2:** the foreground man's back is about 10 to 15° off square, collar to waist fully in frame and fully unobstructed. Front hidden.
+- **G1:** exactly two adults, with no third person, reflection or caption at this moment.
+- **P5:** both of his hands are visible.
+- **S5:** the full native 720x1280 frame is used, with no crop.
+- **Not in contact:** the men stand about 1.5 m apart, facing each other before a roll.
+
+**Conditions before any submit:**
+- **C1 (Instinct):** the room (white padded walls, dark grey mats, round club logo) checked against every posted video on the grid. If it matches any posted room, it fails.
+- **C2:** the top-left club logo is removed in the still. It is the single background change, the wall there is flat, and it is the only lettering.
+- **C3:** the foreground white gi trousers and the blue belt end are replaced in the still. The rash guard's small collar mark is covered by our wordmark area.
+
+**Concept change:** no grip and no contact means the demo-dummy tap cannot be shown without generating an approach, which is too much motion. So the concept is the stance reversal this geometry already supports: **"light roll?"**
+- **Frame 0 (motion):** our man (back to the camera, navy Ryu) lifts his right hand toward the other man for the friendly slap-and-bump. Text 1 (0 to ~2.4 s): "me: \"light roll?\"".
+- **Payoff (~2.6 s, a visible human action):** the other man looks at the hand, ignores it, and slowly sinks into a low, unsmiling wrestling stance with his hands up. Text 2: "him:". Our man slowly lowers his hand. Loops at ~6 s.
+- **Caption:** said light. meant 100% 🐉 who's this guy at your gym? #bjj #nogi #rashguard #nogibjj #bjjhumor
+- **Change vs P12 to P14:** two people; frame-0 motion; the payoff is the other man's action; this is a new room (pending C1).
+
+### Still card (image 1 = brand/print-backs/Ryu_back.jpg; image 2 = the full native frame, no crop)
+Edit image 2, the real photo. Image 2 is the base: keep its exact camera angle, framing, camera height, the room, both men's positions and poses, the light, the phone grain and softness, and real skin texture. Image 1 is only the artwork to print. Change only these things, all in this one edit.
+The man nearest the camera, with his back to us, keeps his exact pose (standing, facing the other man, arms hanging loosely at his sides) and becomes [L1]. He wears a navy LONG-SLEEVE rash guard, the same navy as the background of image 1, with a crew neck and plain navy sleeves all the way down to his wrists, no logo on the shoulder and no print, logo or writing on the sleeves. He faces the other man, so the front of the shirt is not visible. On his back, the artwork from image 1 printed large exactly as drawn, centred on his spine. Above it, centred just below the collar, the gold yin-yang circle and the word SHIZEN, copied exactly from image 1 at the same small size and in the same thin letters. Instead of the white trousers and belt he wears plain black loose grappling trousers, no belt and no drawstring showing.
+The other man, facing the camera, keeps his exact pose and becomes a completely different, clearly adult man in his late twenties: medium-light skin, short black curly hair, clean-shaven, a different face shape, nose, ears, neck and jawline from the original; athletic build; wearing a plain charcoal long-sleeve rash guard with no logos, panels or writing, and plain black shorts.
+The round logo at the top left of the wall becomes plain white wall like the rest of it. Nothing else changes: the white padded wall and the dark grey mats. No text, logos or writing anywhere except the SHIZEN mark on the print. Neither man keeps his original face, and no face from image 2 may appear on anyone.
+
+**Retry slots (change one per retry):**
+1. The trousers become "plain black shorts over plain black leggings" if the loose trousers render as a gi.
+2. The logo line is moved to an edit-stage flat-wall patch: the camera is static, so a fixed mask over plain wall works.
+
+### Motion card (Omni 1.1 Flash, 720p, 6 s)
+Static locked-off phone footage of two men facing each other on the mat before a roll. From the first frame the man nearest the camera, back to the camera in the navy rash guard, lifts his right hand toward the other man for a friendly slap-and-bump and holds it out. The other man glances at the hand, does not take it, and slowly sinks into a low, serious wrestling stance, hands up, eyes locked, unsmiling. The man nearest the camera slowly lowers his hand. Ambient gym sound only, no words, no music. One take, no cuts, no zoom, no change of angle; the man nearest the camera never turns round; keep both men's identities, the clothing and the print exactly; the print and the SHIZEN lettering never redraw; no other text or logos.
+
+### Still QA additions (beyond section 6)
+- The foreground man's face is never visible.
+- The other man's face differs from the source man's face at 4x.
+- The wall logo is fully gone, with no ghosting.
+- No gi look on the trousers; no belt end.
+- Long sleeves end cleanly at the wrists; hands have 5 digits.
+- The collar mark is gone.
+- The print is at least two-thirds readable.
+
+**Clip risk:** the stance drop is moderate whole-body motion for the other man. It must stay slow, with feet planted, no sliding and no face drift.
+
+**Edit:** text sits in the clear wall area and must not cover either head. Check the TikTok safe zone.
+
+**Budget (a production day, not tonight):** still at submit 1 (a re-roll at submit 2 if needed, one slot changed), clip at least 20 minutes after the passed still, 1 to 2 spare. A failed take is never posted.
