@@ -760,3 +760,31 @@ Replace "The other man, facing the camera, keeps his exact pose" with:
 "The other man, facing the camera, keeps his exact position, size and pose from image 2: standing slightly hunched with his head tilted down, looking at the floor in front of the man nearest the camera, both hands low in front of his thighs,"
 
 QA on still 2 repeats the blend overlay: both men's heads, shoulders and feet must sit within a few pixels of the source.
+
+## 21. Still 2 QA (submit 2, 22 Nov 09:04:59; same art and native frame, only the section 20 pose replacements)
+**Overlay check** (Instinct's 50% blend; the result was resized to 720x1280):
+- **Our man:** his head is about 60 to 70 px right of the source (about 9% of the width). His shoulder line is shifted about 70 to 80 px right and is narrower. He is still more upright than the source's forward-left lean, and his left arm sits right of the source.
+- **Partner:** his head sits about 20 px lower; the rest of his body is close.
+- Closer than still 1, but NOT within the gate.
+
+| Gate | Result |
+|---|---|
+| Camera and room preserved | PASS |
+| **Pose, position, scale** | **FAIL** (our man translated, narrowed and straightened; partner head lower) |
+| Identities replaced (our man's face not shown; partner differs at a glance, matching still 1) | PASS |
+| Exact Ryu art and neck mark | PASS (same quality as still 1) |
+| Sleeves, collar, front hidden, trousers, hands, logo, belt and collar mark removed | PASS (trousers borderline, as before) |
+
+**Verdict: FAIL.** No motion. Two submits used today.
+
+### Diagnosis and next safe route (no third attempt with this card)
+- **Why it drifts:** both stills show the same drift. The model straightens a leaning body, moves it toward the centre, and wants the whole figure inside the frame. The section 7 rule applies: a still that fails twice with the same card means the base is the problem, not the wording.
+- **What to keep:** the source video (_y8kzrk4UI8, room cleared by C1), the card's identity, art, garment, logo and trousers wording (passed twice), and the reference files.
+- **Next route, source-side:** pick a frame from THE SAME video whose pose already matches what the model outputs. Instinct samples about ±5 s around 29.39 s, and further if needed, for a frame where:
+  1. our man stands UPRIGHT, back square to the camera within about 15°, arms hanging at his sides;
+  2. his whole body sits inside the frame, both feet visible with some floor below, and his head clear of the top edge;
+  3. the partner stands facing the camera, with no third person and no caption over either body;
+  4. everything in sections 1 and 19 still holds (exactly two adults, no gi top, lettering only the removable wall logo).
+- **Submit 3** (only after Claude approves the new frame; at 09:24:59 or later): the same card, with ONLY the pose slot rewritten to describe the new frame exactly.
+- **Gate made numeric:** in the overlay, head centres and shoulder lines within 15 px at 720 wide (about 2%), and feet in the same places.
+- **If no matching frame exists in this video:** hold today and keep the remaining 2 submits. No AI image is ever used as a base, and the gate is not relaxed.
