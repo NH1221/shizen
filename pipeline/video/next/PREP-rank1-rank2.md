@@ -888,3 +888,43 @@ Static locked-off phone footage of a no-gi collar tie drill. From the first fram
 - **Tonight:** submit 3 = the still. If it passes, submit 4 = the clip, at least 20 minutes later.
 - **If the still fails:** submit 4 = one retry slot. The clip moves to tomorrow's submit 1, early on 23 Nov, before posting.
 - A failed take is never posted.
+
+## 25. Still 3 QA ("head up in the tie", submit 3 at 21:44:51; Ryu art and the real frame)
+**Claude's 3x crops of the neck, wordmark and wrist:**
+
+| Gate | Result | Evidence |
+|---|---|---|
+| Room, camera, light; logo removed | PASS | |
+| **Contact geometry and technique** | **FAIL** | The hand cupping the back of our man's neck is HIS OWN left hand (navy sleeve on that arm): a self-grab. The charcoal partner's left hand grips our man's right wrist, so the PARTNER controls our man. The partner stands beside our man's right shoulder, not in front, so this is not a collar tie and no credible reversal exists in this pose |
+| **Neck mark** | **FAIL** | It reads "SHFZEN" (the I is garbled). It could be softened in the edit, but it fails as generated |
+| Ryu dragon art | PASS | Composition and detail match; fully readable; centred |
+| Our man: back square, front and face hidden, long sleeves, shorts over leggings | PASS | |
+| Partner replaced and adult | PASS | Face differs from the source |
+| Hands | FAIL | A self-grab at the neck; the wrist grip is reversed |
+
+**Verdict: FAIL.** No motion.
+
+### Submit 4 (from 22:04:51): ONE correction, the contact-geometry slot only
+Use the real frame plus Ryu_back.jpg again. All other words stay identical.
+
+**Why a mutual tie:** a symmetric mutual collar tie removes the "who grips whom" ambiguity. Every limb is given its side of the picture, plus a ban on self-contact.
+
+**Replace** "The two men have stepped in close ... wrist low at waist height." with:
+
+"The two men stand face to face, directly in front of each other in the middle of the mat, locked in a mutual collar tie. The man nearest the camera has his back to the camera, square to it, in a strong upright stance with his knees slightly bent. His RIGHT arm (on the right side of the picture) reaches up over the other man's left shoulder, and his right hand cups the back of the other man's neck. His LEFT hand (on the left side of the picture, low) grips the other man's right elbow. Neither man touches his own body."
+
+**Replace** "The other man faces the camera, bent forward ... his feet are staggered on the mat." with:
+
+"The other man faces the camera, standing directly in front of him and bent forward at the waist so his head is lower than the first man's, his face visible just past the first man's left ear (on the left side of the picture). His RIGHT hand (on the left side of the picture) reaches over the first man's left shoulder to the back of the first man's neck; his LEFT hand (on the right side of the picture, low) grips the first man's right elbow. His feet are staggered on the mat."
+
+**Motion card follow-on, if still 4 passes:** "while pulling his wrist" becomes "while pulling his elbow" (the grip changed).
+
+**Still 4 checks (in addition to section 24):**
+- Each man's neck hand is on the OTHER man's neck, with sleeve colours confirming whose arm it is.
+- Each elbow grip is on the other man's opposite elbow.
+- No self-contact.
+- The partner is in front, not beside.
+- The partner's forearm over our man's left shoulder leaves at least two-thirds of the print readable.
+- The neck mark reads SHIZEN. If it garbles again, apply local softening in the edit (established practice).
+
+If still 4 fails, there is no fifth submit today. Re-plan on 23 Nov.
