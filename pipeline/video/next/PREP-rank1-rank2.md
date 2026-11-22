@@ -809,3 +809,22 @@ A frame enters review only if ALL of these hold:
 7. **A new room,** checked against the posted grid (C1).
 
 **Where these moments occur:** the reset between demo repetitions, the start of a round (slap-and-bump), and "line up with a partner" moments filmed from behind one partner.
+
+## 23. Targeted creator and clip leads for the section 22 entry gate (22 Nov ~11:50; METADATA ONLY, uninspected)
+**How these were verified:** search results, then YouTube oEmbed for the title, channel and aspect (113x200 = vertical). No frames were seen and no timestamps are given. Instinct inspects the pixels and clears the room (C1).
+
+**Why these were picked:** upright, separated resets happen when a clip compares two bodies, or between hand-fighting and stance reps.
+
+| Priority | Clip | Channel (oEmbed) | Why it may hold an upright, separated, back-square reset | Risks |
+|---|---|---|---|---|
+| 1 | https://www.youtube.com/shorts/ip5I0m1YS-w "Tall vs. Short in BJJ \| How to Adapt Your Game Against Different Opponents" | Ground Control MMA (@GroundControlMixedMartialArts), vertical | A height comparison usually stands the two men face to face, upright and apart, before any contact | Camera may be side-on; captions; contact later |
+| 2 | https://www.youtube.com/shorts/jwqwCiLir0Y "How to Hand Fight for #Wrestling and #BJJ ... Pt. 3" | Systematic Wrestling (@systematicwrestling), vertical | Hand-fighting reps reset to separated, facing positions; it is a numbered series, so Pt. 1 and 2 are on the same channel | Stance is a crouch; check the resets BETWEEN reps for upright frames |
+| 3 | https://www.youtube.com/shorts/iMjA-f-mLGE "Learn proper #wrestling stance and motion for #BJJ, #MMA, and #grappling" | Systematic Wrestling, vertical | Stance demos often start upright with a partner opposite | It may be solo; crouch |
+
+**Excluded (landscape 16:9 or brand risk, not native Shorts):**
+- RPMvBKKro4E (Conquest BJJ, "How to Slap Bump").
+- MFoWk5q5rsQ (Dj Myrick, slap and bump).
+- RtI8tIktoGs (Mark Cukro, rolling etiquette).
+- r50i_zFupBs and XD4Qst0ScUk (Evolve MMA "Types of BJJ Partners": landscape, a famous gym, gi emoji).
+
+The slap-bump moment is the ideal geometry. If Instinct finds a VERTICAL slap-bump or "how to start a roll" Short, it outranks all three.
