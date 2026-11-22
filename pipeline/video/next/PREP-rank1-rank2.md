@@ -788,3 +788,24 @@ QA on still 2 repeats the blend overlay: both men's heads, shoulders and feet mu
 - **Submit 3** (only after Claude approves the new frame; at 09:24:59 or later): the same card, with ONLY the pose slot rewritten to describe the new frame exactly.
 - **Gate made numeric:** in the overlay, head centres and shoulder lines within 15 px at 720 wide (about 2%), and feet in the same places.
 - **If no matching frame exists in this video:** hold today and keep the remaining 2 submits. No AI image is ever used as a base, and the gate is not relaxed.
+
+## 22. Same-video search result and HOLD (22 Nov 09:23)
+- **Instinct's search of _y8kzrk4UI8** (58.781 s): 30 overview timestamps, 30 close samples from 34.4 to 51.8 s, and dense samples around 29.0 s.
+- **Claude's review of the 34.4 to 51.8 s sheet** agrees no frame fits:
+  - **38.0 and 38.6:** the best geometry (upright, square back, full body with floor, head clear). But the partner is hidden behind the lead, and the "SO THAT DID" caption crosses his shorts and lower back. Fail (concept needs a visible partner; S6).
+  - **39.2 to 41.0:** square back, but a wide crouch, the partner partly occluded, and captions over the body.
+  - **Later frames:** contact, side-on, or captions across the bodies.
+  - **29.05 to 29.15:** the top of the head is cut off, so the model will shrink the figure to fit.
+- **Decision: production HOLD today.** The 2 remaining submits stay unused, with no motion and no post. The source, the C1 room clearance and the card's identity, art and garment wording are kept for reuse if a matching frame appears.
+
+### Next-source entry gate (Instinct's fresh batch; native Shorts or TikTok only)
+A frame enters review only if ALL of these hold:
+1. **Lead:** upright, natural standing posture (the model straightens leaning bodies). Back within about 15° of square. Arms hanging clear of the torso. The whole head, both feet and some floor are inside the frame, with a visible margin above the head.
+2. **Partner:** fully visible and facing the camera, standing about 1 to 2 m away, not touching, not occluded by the lead.
+3. **Exactly two adults;** no third person, reflection or screen showing people.
+4. **No burned-in caption or watermark anywhere over either body.** Text over a flat wall is allowed only if it sits where the "plain wall" line can absorb it.
+5. **Lettering:** at most one wall logo on flat wall.
+6. **Not a gi top;** gi trousers are acceptable (replaced).
+7. **A new room,** checked against the posted grid (C1).
+
+**Where these moments occur:** the reset between demo repetitions, the start of a round (slap-and-bump), and "line up with a partner" moments filmed from behind one partner.
