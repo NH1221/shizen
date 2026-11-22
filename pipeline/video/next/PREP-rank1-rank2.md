@@ -828,3 +828,63 @@ A frame enters review only if ALL of these hold:
 - r50i_zFupBs and XD4Qst0ScUk (Evolve MMA "Types of BJJ Partners": landscape, a famous gym, gi emoji).
 
 The slap-bump moment is the ideal geometry. If Instinct finds a VERTICAL slap-bump or "how to start a roll" Short, it outranks all three.
+
+## 24. NIC'S NEW DIRECTION (22 Nov 21:35, via Instinct), and the new concept "head up in the tie"
+**Owner instruction:**
+- Stop the source hunt.
+- Reuse the existing real frame (_y8kzrk4UI8 at 29.3905 s; room cleared, C1) with a completely new concept. Pose and composition may change substantially.
+- The technique must be authentic and physically credible.
+- Try tonight, to post on the morning of 23 Nov.
+
+This supersedes the section 22 hold and, for this concept only, the pose-preservation gate. All other boundaries stand. Stills 1 and 2 are AI images and are never used as a base. Every still starts from the real frame.
+
+**Concept: "head up in the tie" (a real technique: collar tie to snap-down)**
+- **Frame 0 (motion):** the two men are already in a collar tie, push-pulling. Our man (back to the camera, navy Ryu) has his right hand behind the partner's neck and his left hand on the partner's right wrist. The partner's head is low on our man's chest, so his posture is broken. Text 1 (0 to ~2.2 s): "coach: \"keep your head up in the tie\"".
+- **Payoff (~2.5 s, visible technique):** our man steps back with his right foot and snaps the partner's head down while pulling the wrist. The partner lands on both hands, then his knees, in front of him. Text 2: "this is why".
+- **End (~5 to 6 s):** our man stands over him with a hand on the back of his head (front-headlock control).
+- **Caption:** keep your head up in the collar tie 🐉 what's the one thing your coach yells at you every class? #bjj #nogi #rashguard #nogibjj #wrestlingforbjj
+- **Change vs P12 to P14:** two people; a real technique; frame-0 motion; the payoff is an action; a new room.
+
+### Still card, submit 3 (image 1 = brand/print-backs/Ryu_back.jpg; image 2 = the full native frame, no crop)
+Edit image 2, the real photo. Image 2 is the base: keep its exact camera angle, camera height, the room, the light, the phone grain and softness, and real skin texture. Image 1 is only the artwork to print. Change only these things, all in this one edit.
+The two men have stepped in close and are locked in a collar tie in the middle of the mat. The man nearest the camera has his back to the camera, square to it; he stands in a strong upright stance with his knees slightly bent, his right hand cupping the back of the other man's neck and his left hand gripping the other man's right wrist low at waist height. He becomes a completely different, clearly adult man in his early thirties: light olive skin, short dark brown hair in a low skin fade, a short dark brown beard, dark brown eyes, straight dark eyebrows, a different face shape, nose, ears, neck and jawline from the original; broad, muscular, athletic shoulders, chest and back; barefoot, no tattoos, no jewellery, no watch, no tape. He wears a navy LONG-SLEEVE rash guard, the same navy as the background of image 1, with a crew neck and plain navy sleeves all the way down to his wrists, no logo on the shoulder and no print, logo or writing on the sleeves. He faces the other man, so the front of the shirt is not visible. On his back, the artwork from image 1 printed large exactly as drawn, centred on his spine. Above it, centred just below the collar, the gold yin-yang circle and the word SHIZEN, copied exactly from image 1 at the same small size and in the same thin letters. He wears plain black shorts over plain black leggings.
+The other man faces the camera, bent forward at the waist with his head low against the first man's chest and his posture broken; his left hand grips the first man's right forearm and his right wrist is held by the first man; his feet are staggered on the mat. He becomes a completely different, clearly adult man in his late twenties: medium-light skin, short black curly hair, clean-shaven, a different face shape, nose, ears, neck and jawline from the original; athletic build; wearing a plain charcoal long-sleeve rash guard with no logos, panels or writing, and plain black shorts.
+The round logo at the top left of the wall becomes plain white wall like the rest of it. Nothing else changes: the white padded wall and the dark grey mats. No text, logos or writing anywhere except the SHIZEN mark on the print. Neither man keeps his original face, and no face from image 2 may appear on anyone.
+
+**Retry slots (change one per retry):**
+1. Grips: if the hands merge, the wrist grip becomes "his left hand cupping the other man's right elbow".
+2. Partner's head: if the print is covered, it becomes "his head low beside the first man's left shoulder".
+
+### Still checks (FAIL on any one)
+- **Room, camera and light:** match the real frame; logo gone; no new objects.
+- **Our man:**
+  - back within about 20° of square;
+  - print at least two-thirds readable and not covered by the partner's head or arms;
+  - exact Ryu art (side-by-side with the print file), with the neck mark small, thin and correct;
+  - front not visible;
+  - long plain sleeves;
+  - face not shown.
+- **Technique:** credible. The collar-tie hand is behind the neck, the second grip is on the wrist, and the partner's head is low with his posture broken. Both have weight on their feet.
+- **Hands:** all four hands have 5 digits, no merging, and the grips land on the right body parts.
+- **Partner:** his face differs from the source face at 4x; he is clearly adult.
+- **People and text:** exactly two people; no text other than the neck mark.
+
+### Motion card, submit 4 only after the still passes (Omni 1.1 Flash, 720p, 6 s; at least 20 minutes after the still)
+Static locked-off phone footage of a no-gi collar tie drill. From the first frame both men push and pull in the tie. After about two seconds the man nearest the camera, back to the camera in the navy rash guard, steps back with his right foot and snaps the other man's head down with his neck hand while pulling his wrist; the other man drops forward onto both hands and then his knees on the mat in front of him. The man nearest the camera ends standing over him with one hand on the back of his head. Real weight and momentum; feet plant without sliding. Ambient gym sound and the slap of hands on the mat only, no words, no music. One take, no cuts, no zoom, no change of angle; the man nearest the camera never turns around; keep both identities, the clothing and the print exactly; the print and the SHIZEN lettering never redraw; no other text or logos.
+
+### Clip checks (FAIL on any one)
+- The snap reads as one continuous, credible pull with a step back. The partner lands hands-first, not face-first.
+- No gliding, no extra or merged limbs, one consistent face each.
+- Our man never turns; the front is never visible.
+- The print and wordmark hold in every frame, and the print stays at least two-thirds readable at the end pose.
+- Frame-0 motion is present.
+
+### Edit and ttevaluate
+- **Text:** native TikTok text, white with a thin outline; Text 1 at 0 to 2.2 s, Text 2 from the snap to the end. Keep the text clear of both heads and the print.
+- **Grain:** degrade to match the phone source.
+- **Gate:** /ttevaluate 18/22 or better before posting.
+
+### Budget
+- **Tonight:** submit 3 = the still. If it passes, submit 4 = the clip, at least 20 minutes later.
+- **If the still fails:** submit 4 = one retry slot. The clip moves to tomorrow's submit 1, early on 23 Nov, before posting.
+- A failed take is never posted.
