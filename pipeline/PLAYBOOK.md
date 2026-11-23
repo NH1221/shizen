@@ -433,3 +433,28 @@ The 4 h snapshot above (19 Nov 16:00: 98 views, 2.09 s, 5.9%) is kept unchanged.
   - P14 is lowest on views and full watch, equal to P11 on average watch, and earned 1 share and 1 save.
 - Learning (one run; small counts, so rates are fragile): this is not a successful format. Three age-matched 23 h reads of the static back plus print-reveal format sit at or below about 700 views and 9 to 14% full watch. That supports abandoning it, including as a control. A new scene and a new line did not lift it.
 - Next: no base means no post. The section 10 "you good?" lead (face down, or a seated slump from behind) waits on an inspected source.
+
+## 23 Nov 12:11: "the fake" (P15) at ~4 h (live Studio, via Instinct)
+Posted 08:08 GMT, Everyone 08:18. https://www.tiktok.com/@shizenbjj/video/7711275811747171606
+
+| Post | Age | Views | Likes | Comments | Shares | Saves | Follows | Total play | Avg watch | Full watch | Largest drop | Traffic |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| P15 the fake (Ryu; _y8kzrk4UI8 room; 6.0 s; ambience only) | ~4 h 03 m | 194 | 7 | 0 | 0 | 0 | 0 | 17 m 40 s | 5.08 s | 37.3% | 0:01 (platform text; no number) | For You 99.5%, Search 0.5% |
+
+**Evidence (age-matched 4 h reads):**
+- P10: 662 v / 3.14 s / 14.3% / 15 l.
+- P11: 562 v / 2.69 s / 13.1% / 4 l.
+- P14: 98 v / 2.09 s / 5.9% / 2 l.
+- P15 has the highest average watch (5.08 s of 6.0 s, about 85%) and the highest full watch (37.3%, about 2.6x the next best) of any 4 h read. Its like rate is about 3.6%.
+- Reach (194) is below P10 and P11 and above P14.
+- Small counts: about 72 full watches and 7 likes. One run.
+
+**Hypotheses (untested; confounded):**
+1. A two-person scene with motion from frame 0 and a visible action payoff (the partner's flinch) holds viewers to the end better than the one-back-plus-print-reveal format.
+2. A real, recognisable technique (a level-change fake) adds watch value.
+
+Confounds: posting time (08:08), no music, a new design moment, and the novelty of a new format after four old-format posts.
+
+**Not yet known:** whether completion converts to reach (the 23 h read is due 24 Nov 07:08 GMT), and whether the AI label was applied.
+
+**Rule:** the _y8kzrk4UI8 room and scene are now BURNED (posted).

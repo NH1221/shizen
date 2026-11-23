@@ -97,3 +97,9 @@
 - **At upload, check whether TikTok applies an AI label automatically.**
   - If it does: proceed under Nic's instruction.
   - If it does not: the post would be an unlabelled realistic AI video, which does NOT meet TikTok's requirement. Do not post. Report to Nic and ask him to decide between switching on the manual AI label for this post and holding.
+
+## Posted (TikTok only)
+- Posted 23 Nov 08:08 GMT (ambience-only, captioned version); status Everyone verified 08:18.
+- https://www.tiktok.com/@shizenbjj/video/7711275811747171606
+- Analytics: https://www.tiktok.com/tiktokstudio/analytics/7711275811747171606?qa_enter_from=analytics
+- AI-label status at upload (automatic label applied or not): NOT reported yet. To be confirmed by Instinct.

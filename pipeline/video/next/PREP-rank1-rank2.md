@@ -1004,3 +1004,35 @@ Static locked-off phone footage of two men facing each other in their stances be
 4. If the circle itself garbles in any frame, widen the mask to include it for those frames only.
 5. QA every frame: no visible blur edge, the mask never drifts onto the dragon, and no frame shows a misspelling.
 6. Then do the grain match, the native text and /ttevaluate.
+
+## 28. Next experiment (23 Nov 12:15): replicate the FORMAT, change the technique and joke
+**Format under test (from P15):**
+- Two adults in a new room. Our man has his back to the camera in exact Ryu or Hebi art.
+- No contact between the men (Flow mis-assigns grips: stills 3 and 4).
+- Frame-0 motion.
+- A real BJJ or wrestling technique whose payoff is the OTHER man's visible action.
+- Native text: setup line, then payoff line. Ambience-only unless music rights are re-verified.
+
+**Concept: "shot from the parking lot"**
+- **Frame 0:** both men are in their stances about 3 m apart. The partner faces the camera, our man has his back to it. Text 1: "when he shoots from the parking lot".
+- **~2 s:** the partner dives into a double-leg shot from far too far away and lands short on his hands and knees at our man's feet. Our man simply steps back, untouched. No contact.
+- **Payoff text:** "every open mat 💀"
+- **Caption:** who shoots from the parking lot at your gym? 🐉 #bjj #nogi #wrestlingforbjj #rashguard #nogibjj
+- **Why this concept:** it tests the same format with a different technique (shot distance, a classic beginner mistake), so a second strong read would support the FORMAT, not one joke.
+- **Risk:** a moderate-to-large partner dive. Clip QA must reject a face-first landing, gliding or contact.
+
+**Source (no multi-day hunt):**
+- Pose may now be re-posed (Nic, 22 Nov 21:35), so the frame gate reduces to:
+  - a real phone frame of a new, clean room (lettering removable or absent);
+  - exactly two adults, or croppable to two, with nobody else;
+  - at least 720 px wide, static camera;
+  - the room checked against the posted grid (C1).
+- **Bounded check (one session, those two videos only):** Instinct re-samples two ALREADY-SEEN videos whose rooms looked clean:
+  - 31, h4Q88EoBZeM: plain white wall, grey mats, no lettering seen. The earlier fails were pose and edge-clipping plus a third person at times.
+  - 15, 7wMoiC0ODUA: grey and green mats, one wall logo at the right.
+- Find one frame without a third person in either. If neither yields one, hold for Nic rather than hunt.
+
+**Decision rule at the 23 h read (24 Nov 07:08):**
+- If P15 full watch stays at 25% or more: run "shot from the parking lot" as the replication.
+- If it falls below 14%: treat the 4 h read as noise and re-plan.
+- In between: run the replication anyway (two runs are needed for any verdict).
