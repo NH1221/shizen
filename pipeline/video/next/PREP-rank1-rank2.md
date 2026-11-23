@@ -980,3 +980,27 @@ Static locked-off phone footage of two men facing each other in their stances be
 - The print holds in every frame.
 
 **Edit and post:** native text, grain matched to the source, /ttevaluate 18/22 or better, then the morning post on TikTok only (Instagram stays paused).
+
+## 27. "the fake" still 1 QA (23 Nov submit 1 at 00:14:42; section 26 card unchanged; real frame plus Ryu art)
+**Claude's crops** (3 to 4x): every visible hand, the partner's face, the mark, and the art beside the print file.
+
+| Gate | Result | Evidence |
+|---|---|---|
+| Room, camera, light; logo removed; no other text | PASS | |
+| Separation, no contact or self-touch | PASS | About 1.2 m gap |
+| Stance (technique) | PASS | Partner: knees bent, staggered feet, open hands up, a credible ready stance. Our man: wide base, knees slightly bent, hands up in front |
+| Our man: back about 10° from square, front and face hidden, long plain sleeves, shorts over leggings | PASS | |
+| Exact Ryu art | PASS | Dragon matches the print file side by side; fully readable |
+| Neck mark | Garbled ("SMVZEN") | Use the local softening workflow below (does not fail the still, per section 26) |
+| Hands | PASS | Partner: both hands thumb plus 4 fingers, natural. Our man: left-hand fingertips curl in beside the forearm, plausible; right hand hidden in front of his body |
+| Partner identity | PASS | 4x: curly hair, a different nose, jaw and brow from the source; adult |
+
+**Verdict: PASS.** Motion goes at submit 2 (00:34:42 or later), using the section 26 motion card UNCHANGED (Omni 1.1 Flash, 720p, 6 s).
+
+### Mark-softening workflow (finished clip only; no new still)
+1. Keep the raw 720p master. Work on a copy.
+2. In each frame, locate the yin-yang circle by template matching. Seed the template from frame 0, with a search window of ±40 px around the previous position, so the mask follows his back through the level change.
+3. Mask: a soft-edged ellipse (feather about 6 px) covering ONLY the letter row under the circle, about 80x24 px at 720 wide. Apply a Gaussian blur (sigma about 2.5) inside it, so the letters read as small, soft, unreadable type, not a wrong word. The yin-yang stays crisp.
+4. If the circle itself garbles in any frame, widen the mask to include it for those frames only.
+5. QA every frame: no visible blur edge, the mask never drifts onto the dragon, and no frame shows a misspelling.
+6. Then do the grain match, the native text and /ttevaluate.
