@@ -1053,3 +1053,33 @@ Static locked-off phone footage of two men facing each other in their stances be
 **Source status:** h4Q88EoBZeM and 7wMoiC0ODUA are still NOT cleared. Run the bounded one-session check from section 28. No generation until one frame passes and C1 is cleared.
 
 **Open item:** the P15 AI-label status at upload.
+
+## 30. Bounded check result and decision (24 Nov 10:26)
+**Instinct's check, one session:**
+- **h4Q88EoBZeM: FAIL.** A collar-tie clinch for the whole clip (S4 for the parking-lot geometry), a continuously circling camera (S6), wall-pad branding (S7).
+- **7wMoiC0ODUA: FAIL.** Instructional overlays over the subjects (S6), background people (S2), heavy branding (KINGSWAY banners, FUJI MATS, flags, mat lettering) (S7), an orbiting camera (S6), continuous contact.
+
+**Options assessed:**
+- **(a) Re-screen the 18 Nov pool: rejected, near-zero yield on the record.** Every 18 Nov reject failed on ROOM-level defects that no concept or pose change can fix:
+  - fisheye or action cameras (FWls2Lj28Og, nELvlBOtnaA, mZwofU1EPVY);
+  - window walls (N2-NMbGrvFI, rIY7Ise6Obs);
+  - giant halls and crowds (pvjVUrGEW_U, 6Zr9c56i-K4);
+  - large wordmarks (I-sWw-yFpdE, masB5WZX7yU, McjZzJnNkCs, fzHz5tXg-kg);
+  - a Zoom class (2Kqf5UA2w-I);
+  - low-res 4:3 (edZ8Xfm1J4M);
+  - a high wide camera with an open door (qBqGS0j2PPQ).
+
+  Re-screening these for a different geometry cannot change those verdicts.
+- **(b) A different concept on a clearable source:** no clearable source is in hand. A concept without a passable real frame is not executable under the rules.
+- **(c) Posting pause: CHOSEN.** This is consistent with Nic's 22 Nov steer (quality and real technique over cadence; no open-ended hunts).
+
+**During the pause (offline only):**
+- No Flow, no generation, no source hunt.
+- The "shot from the parking lot" plan (sections 28 and 29) stays ready so it can run the same day once a frame clears.
+- P15 is the reference format: retention held, reach stalled. The single variable to change next is the payoff type (relatable archetype).
+
+**Resume trigger (one rule question for Nic, relayed by Instinct; not a request for creative input):**
+- On 22 Nov Nic allowed the still to re-pose people from the real frame. May that apply generally?
+- Specifically: may a clean, static-camera, already-screened real frame (never posted, so not burned) be used with the people re-posed, i.e. S4 waived and every other gate kept?
+  - **If yes:** a bounded check of the already-screened 21 Nov samples whose ROOMS looked clean and whose fails were pose or angle only (starting with batch samples 72 and 89; Instinct holds the IDs). One session; the first frame that passes S1 to S3, S5 to S9 and C1 is used.
+  - **If no:** the pause holds until Nic says otherwise.
