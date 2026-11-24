@@ -1094,3 +1094,28 @@ Static locked-off phone footage of two men facing each other in their stances be
   - **Distance:** about 2 m is fine. A double leg from 2 m that lands short is still "from the parking lot" (a real shot starts at about 1 m). Keep the source distance; do not ask the model to widen it.
   - The small logo on the navy man's shorts does not matter, because all clothing is replaced.
 - **Needed from Instinct:** single native frames (PNG or JPG, one per message if the sheet upload fails) at 4 s and 8 s, plus 2 to 3 nearby timestamps where one man's back is most square to the camera. Claude then names the timestamp, or fails it.
+
+### 30b. Rule update and the sample 89 verdict (24 Nov 10:35)
+**Rule (Nic, YES, relayed by Instinct via main):** re-posing people applies GENERALLY to a clean, static-camera, already-screened, never-posted real frame. Every other rule is kept: adults only, everyone fully replaced, exact art, unused room. S4 is waived; the rest of the gates are unchanged.
+
+**89, divEBLjOAFI (native 1080x1920 frames at 4.0 and 8.0 s): FAIL at both.**
+
+| Gate | 4.0 s | 8.0 s |
+|---|---|---|
+| Subtitle over bodies (S6) | FAIL: "So I'm here with Evan..." across the left man's foot and the right man's toes | FAIL: "I come on my left hand..." across the right man's front foot |
+| Framing | FAIL: both men fill the frame edge to edge; the left man is cut at the left edge and his head top cut | FAIL: the left man is half out of frame with his head cut; tighter than at 4 s |
+| Contact | Near contact (hands about 10 cm apart) | Contact: the left man's arm is over the right man's arm |
+| Wall logo (S7) | One large flat banner, centred between the heads; removable but a large repaint | Partly occluded; the same banner |
+| People, minors, camera | PASS: two adults, static camera | PASS |
+
+**Why it fails even with re-posing allowed:** the camera is too close. With the room and camera locked, there is no space to place a back-to-camera man and a visible partner about 2 m apart. The model would restage and shrink the bodies (the still 1 and 2 failure).
+
+**Status:** the bounded pool (h4Q88EoBZeM, 7wMoiC0ODUA, 72 and 89) is exhausted. The posting PAUSE (section 30) holds.
+
+**Option for Nic or Instinct, not started:** ONE bounded session of at most 20 NEW native Shorts, judged on the simplified gate below. Default is to stay paused until this is approved. The gate (re-posing allowed):
+1. A static camera, WIDE enough that both men fit whole, head to feet, with margin.
+2. A clean small room: no fisheye, windows, crowds or halls; at most one removable flat-wall logo.
+3. Exactly two adults, nobody else.
+4. No burned text over either body.
+5. At least 720 px wide.
+6. Checked against the posted rooms (C1).
