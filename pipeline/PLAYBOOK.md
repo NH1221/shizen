@@ -458,3 +458,29 @@ Confounds: posting time (08:08), no music, a new design moment, and the novelty 
 **Not yet known:** whether completion converts to reach (the 23 h read is due 24 Nov 07:08 GMT), and whether the AI label was applied.
 
 **Rule:** the _y8kzrk4UI8 room and scene are now BURNED (posted).
+
+## 24 Nov 10:15: P15 "the fake" at 23 h (live Studio, via Instinct)
+| Post | Age | Views | Likes | Comments | Shares | Saves | Follows | Total play | Avg watch | Full watch | Largest drop | Traffic |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| P15 the fake | ~23 h | 205 | 7 | 0 | 0 | 0 | 0 | 19 m 22 s | 5.16 s | 38.2% | 0:01 | For You 99.6%, Search 0.4% |
+
+The view curve is almost entirely in the first 3 h (194 by 4 h), then flat: +11 views from 4 h to 23 h.
+
+**Evidence (age-matched 23 h reads):**
+- P10: 692 v / 3.16 s / 14.4%.
+- P11: 676 v / 2.66 s / 12.5%.
+- P14: 354 v / 2.66 s / 9%.
+- P15: 205 v / 5.16 s / 38.2%.
+- Retention held from 4 h to 23 h and is about 2.7x our best. Reach is the LOWEST of the four.
+- The initial test pool differed before retention could act: 194 by 4 h vs 562 to 662 for P10 and P11, which had worse retention.
+- Shares, saves, comments and follows are all 0. The like rate is about 3.4%.
+
+**Read:**
+- On this account, high completion on a 6 s clip did not earn a second distribution wave. Completion alone is not the lever.
+- The two things visibly missing are interaction signals (no comments, shares or saves; buyer interest 0), and initial-pool size, which varies for reasons we cannot see.
+- The P15 format shows strong retention, so the format is kept.
+- **Unknown, and it matters:** whether TikTok applied an AI label at upload, which could affect the initial pool. Instinct to confirm.
+
+**Hypotheses (one run, untested):**
+1. A "technique flex" payoff (our man wins) is watchable but not shareable. A relatable gym archetype ("who's this guy at your gym?") drives shares and comments.
+2. Total watch time per view, not only the completion rate, may gate the second wave on short clips.

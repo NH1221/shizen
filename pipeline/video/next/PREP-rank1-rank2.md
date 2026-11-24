@@ -1036,3 +1036,20 @@ Static locked-off phone footage of two men facing each other in their stances be
 - If P15 full watch stays at 25% or more: run "shot from the parking lot" as the replication.
 - If it falls below 14%: treat the 4 h read as noise and re-plan.
 - In between: run the replication anyway (two runs are needed for any verdict).
+
+## 29. Decision after P15 at 23 h (24 Nov)
+**Keep the P15 format constant:**
+- two adults, no contact, frame-0 motion, the other man's visible action as the payoff;
+- our man's back to the camera in Ryu navy;
+- 6 s, ambience only, native text, a caption question;
+- an ~08:00 GMT post.
+
+**Change ONE variable: the payoff type.** From "technique flex" (our man wins) to "relatable gym archetype" (the other man is the recognisable gym type), aimed at shares and comments, the signals that were zero.
+
+**Concept:** "shot from the parking lot" (section 28). It already IS the archetype version, so it stays as the next concept. Nothing else changes versus P15 except what a new scene forces (a new room and identities).
+
+**Pass line at 23 h:** one or more shares, saves or comments, OR 400+ views (about 2x P15), with full watch of 25% or more. Two runs are needed before any format verdict.
+
+**Source status:** h4Q88EoBZeM and 7wMoiC0ODUA are still NOT cleared. Run the bounded one-session check from section 28. No generation until one frame passes and C1 is cleared.
+
+**Open item:** the P15 AI-label status at upload.
