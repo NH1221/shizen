@@ -1083,3 +1083,14 @@ Static locked-off phone footage of two men facing each other in their stances be
 - Specifically: may a clean, static-camera, already-screened real frame (never posted, so not burned) be used with the people re-posed, i.e. S4 waived and every other gate kept?
   - **If yes:** a bounded check of the already-screened 21 Nov samples whose ROOMS looked clean and whose fails were pose or angle only (starting with batch samples 72 and 89; Instinct holds the IDs). One session; the first frame that passes S1 to S3, S5 to S9 and C1 is used.
   - **If no:** the pause holds until Nic says otherwise.
+
+### 30a. Bounded re-screen, samples 72 and 89 (Instinct, 24 Nov 10:32; written verdict, frames not uploaded)
+- **72, TH0t_-ABAuM: FAIL.** Flags (POW-MIA, unit), a wordmark, a big red caption, body-lock contact throughout, and camera angle changes.
+- **89, divEBLjOAFI (14.4 s, 1080x1920, static camera, exactly two adults): CANDIDATE, NOT CLEARED.** Claude cannot clear it without pixels.
+  - **C1 / S1:** no repo reference to this video or to a "Primal" gym; no posted Shizen room is a Primal room. The formal check still needs the frame.
+  - **S7, lettering:** the entry gate allows ONE wall logo on a flat wall, removed in the still. A large "PRIMAL JIU JITSU & MIXED MARTIAL ARTS" logo plus a second small logo on the wall pads is two. It passes only if a 9:16 crop or the frame position leaves at most one logo in view, the wall behind it is flat (no pad seams through the lettering), and the logo does not sit behind either man's head.
+  - **S6, subtitle:** a burned subtitle must not overlap either body at the chosen timestamp. If it sits only on the mat, it can be removed with the logo line; if it touches the feet or legs, that timestamp fails.
+  - **G2, the camera relationship (decisive):** for "shot from the parking lot", OUR man (navy Ryu) must have his BACK to the camera within about 15 to 20°, with the partner facing the camera. Navy on the right and black on the left suggests a side-on profile pair. If neither man's back faces the camera at 4 s or 8 s, this needs re-posing, which waits on Nic's rule answer (section 30).
+  - **Distance:** about 2 m is fine. A double leg from 2 m that lands short is still "from the parking lot" (a real shot starts at about 1 m). Keep the source distance; do not ask the model to widen it.
+  - The small logo on the navy man's shorts does not matter, because all clothing is replaced.
+- **Needed from Instinct:** single native frames (PNG or JPG, one per message if the sheet upload fails) at 4 s and 8 s, plus 2 to 3 nearby timestamps where one man's back is most square to the camera. Claude then names the timestamp, or fails it.
